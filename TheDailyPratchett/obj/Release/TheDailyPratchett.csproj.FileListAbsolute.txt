@@ -1,0 +1,12 @@
+M:\Projects\TheDailyPratchett\TheDailyPratchett\bin\Release\TheDailyPratchett.exe.config
+M:\Projects\TheDailyPratchett\TheDailyPratchett\bin\Release\TheDailyPratchett.exe
+M:\Projects\TheDailyPratchett\TheDailyPratchett\bin\Release\TheDailyPratchett.pdb
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\MainWindow.baml
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\MainWindow.g.cs
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\App.g.cs
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett_MarkupCompile.cache
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett.g.resources
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett.Properties.Resources.resources
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett.csproj.GenerateResource.Cache
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett.exe
+M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Release\TheDailyPratchett.pdb
