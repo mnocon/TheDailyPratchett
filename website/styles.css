@@ -79,6 +79,11 @@ blockquote {
 	font-family: Raleway;
 	font-size: 36px;
 	line-height: 1.5em;
+	/* text-align: justify; */
+}
+
+blockquote > p {
+	font-weight: bold;
 }
 
 blockquote  > p:first-of-type::before {
@@ -89,11 +94,32 @@ blockquote  > p:first-of-type::before {
 blockquote  > p:last-of-type::after {
     content:"\201D";
     font-size:1.5em;}
+	
+blockquote > footer {
+	font-size:24px;
+	margin: 0 auto;
+}
 
+blockquote > footer > p {
+	display:inline;
+}
 
-/* cite:before {
-    content:"\2014"
+blockquote > footer > p::after {
+	content:" - ";
+}
+
+blockquote > footer > cite {
+	display:inline;
+}
+
+/* blockquote > footer > cite::before {
+	content:"(";
+}
+
+blockquote > footer > cite::after {
+		content:")";
 } */
+
 
 body > footer {
 	height: 60px; 

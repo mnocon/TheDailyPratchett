@@ -26,12 +26,11 @@
 		
 		<section class="quote">
 <blockquote>
-    <p>
-The librarian was, ex officio, a member of the college council. No-one had
+    <p id="content">The librarian was, ex officio, a member of the college council. No-one had
 been able to find any rule about orang-utans being barred, although they
 had surreptiously looked very hard for one.</p>
     <footer>
-	<p>Unseen University politics at work </p><cite>(Terry Pratchett, Eric)</cite>
+	<p id="context">Unseen University politics at work </p><cite id="author">Terry Pratchett, Eric</cite>
         
     </footer>
 </blockquote>
@@ -49,6 +48,8 @@ a
 a
 a
 a
+<button id="triggerJQ">Try $.ajax()</button>
+
 a
 a
 a
@@ -66,5 +67,17 @@ b
 		<footer id="about">
 			<p>&copy; 2015 Marek Nocoń.</p>
 		</footer>
+		<script>
+		var $content = $("#content");
+		var $context = $("#context");
+		var $author = $("#author");
+
+		
+			$("#triggerJQ").click(function() {
+			$content.text("marek");
+			$context.text("nocon");
+			$author.text("zabrze");
+	});
+</script>
 	</body>
 </html>
