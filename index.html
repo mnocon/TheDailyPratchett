@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-<meta charset="UTF-8" />
-<link href="style.css" type="text/css" rel="stylesheet">
 <head>
 <meta charset="UTF-8" />
-<title>The Daily Pratchett  Quote</title>
-<link href="styles.css" rel="stylesheet" />
+<title>The Daily Pratchett</title>
+<link href="style.css" rel="stylesheet" />
 <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -14,7 +12,7 @@
 <body>
 		<header>
 			<h1>
-				The Daily Pratchett Quote
+				The Daily Pratchett
 			</h1>
 			<nav>
 			<a href="#top">Quote</a>
@@ -37,9 +35,6 @@ had surreptiously looked very hard for one.</p>
 </section>
 <section id="about"  class="about">
 <h1>About</h1>
-<p> 
-Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
-
 <p> 
 Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
 
@@ -76,17 +71,19 @@ b
 <p>&copy; 2015 Marek Nocoń.</p>
 </footer>
 </main>
+</body>
+</html>
 
 <script>
 var $content = $("#content");
 var $context = $("#context");
 var $author = $("#author");
 
-	$("#triggerJQ").click(function() {
+  $( document ).ready(function() {
 	$content.text("marek");
 	$context.text("nocon");
 	$author.text("zabrze");
+$.getJSON("http://rolieolie.github.io/TheDailyPratchettQuote/data.json", function (data){
+console.log(data)   }); 
 	});
 </script>
-</body>
-</html>

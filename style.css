@@ -40,6 +40,23 @@ header > nav {
 	width: 100%;
     text-align: center;
    }   
+   
+    .about > p
+	{
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-bottom: 20px;
+	}
+	
+	.about >p:first-of-type
+	{
+		margin-top: 20px;
+	}
+	
+	.about > h1
+	{
+	padding-top: 30px;
+	}
 }
 
 @media only screen and (min-width: 800px){
@@ -55,6 +72,23 @@ header > nav {
    .quote {
 		height: 100%;
    }
+   
+   .about > p
+	{
+	padding-left:25%;
+	padding-right:25%;
+	margin-top: 50px;
+	}
+	
+	.about
+	{
+		padding-bottom: 50px;
+	}
+	
+	.about > h1
+	{
+	padding-top: 50px;
+	}
 }
 
 .mainContent {
@@ -116,27 +150,24 @@ blockquote > footer > cite {
 .about {
 	background-color: #55bfd9;
 	height: 100%; 
+	min-height: 100%;
 }
 
 .about > h1
 {
 	font-size: 5vmin;
 	font-family: Lato;
-	padding-top: 50px;
 	color: white;
 }
 
-.about > p
-{
-font-size: 4 vmin;
-color: white;
-padding-left:20%;
-padding-right:20%;
-font-family: Raleway;
-margin-top: 50px;
-line-height: 2em;
-text-align: justify;
-}
+	.about > p
+	{
+	font-size: 2.3vmin;
+	color: white;
+	font-family: Raleway;
+	line-height: 2em;
+	text-align: justify;
+	}
 
 .subscribe {
 	background-color: #00F;
