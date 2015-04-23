@@ -30,6 +30,10 @@ header > nav {
 	float: right;
 }
 
+header > nav > a {
+	color: #000;
+}
+
 @media only screen and (max-width: 800px){
    header > nav {
      display: none;
@@ -94,7 +98,6 @@ header > nav {
 .mainContent {
 	min-height: 100%;
 	height: 100%;
-	/* padding-top: 20px; */
 	text-align: center;
 }
 
@@ -105,15 +108,18 @@ header > nav {
 	padding-right: 50px;
 	background-image: url("blue-eyed-kitten-16886.jpg");
 	background-repeat: no-repeat;
+	display: flex; /* opt into the new box model */ 
+    justify-content: center; /* "align" */
+    align-items: center; /* "valign" */
 	z-index: 0;
 }
 
 blockquote {
 	font-family: Raleway;
 	font-size: 4vmin;
-	line-height: 1.5em;
-	top: 30%;
-	position: relative;
+	line-height: 2em;
+	/* top: 30%; */
+	/* position: relative; */
 	color: #FFF;
 }
 
