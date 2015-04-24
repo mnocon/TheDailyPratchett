@@ -97,7 +97,7 @@ b
 	
 	$(document).ready(function() {
 	
-		quotesArray = $.getJSON("data.json");
+		quotesArray = $.getJSON("data.json").responseJSON;
 		var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
 		var quoteToSet = diffDays % quotesArray.length;
 
