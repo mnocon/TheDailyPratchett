@@ -31,7 +31,8 @@ header > nav {
 }
 
 header > nav > a {
-	color: #000;
+	color: #55bfd9;
+	/* font-size: 18px; */
 }
 
 @media only screen and (max-width: 800px){
@@ -102,11 +103,11 @@ header > nav > a {
 }
 
 .quote {
-	background-color: #FFF;
+	background-color: #0F0F0F;
 	height: calc(100% - 60px);
 	padding-left: 50px;
 	padding-right: 50px;
-	background-image: url("blue-eyed-kitten-16886.jpg");
+	/* background-image: url("blue-eyed-kitten-16886.jpg"); */
 	background-repeat: no-repeat;
 	display: flex; /* opt into the new box model */ 
     justify-content: center; /* "align" */
@@ -178,7 +179,7 @@ blockquote > footer > cite {
 .subscribe {
 	background-color: #00F;
 	height: calc(100% - 45px);
-	background-image: url("images.jpg");
+	/* background-image: url("images.jpg"); */
 }
 
 .authorInfo {
