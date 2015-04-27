@@ -4,15 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
+using Newtonsoft.Json;
 
 namespace QuotesLibrary
 {
     public class Quote
     {
-        public string Author { get; set; }
-        public string Source { get; set; }
-        public string Content { get; set; }
-        public string Context { get; set; }
+        [JsonProperty("Author")]
+        public string Author { get;  private set; }
+        [JsonProperty("Source")]
+        public string Source { get; private set; }
+        [JsonProperty("Content")]
+        public string Content { get; private set; }
+        [JsonProperty("Context")]
+        public string Context { get; private set; }
 
         private Regex pattern;
         private const string regexPattern = @"([\s\S]*)\-\- ([\s\S]*)\((.*)\)";

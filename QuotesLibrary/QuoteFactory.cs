@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.Script.Serialization;
-
+using Newtonsoft.Json;
 
 namespace QuotesLibrary
 {
@@ -27,12 +26,24 @@ namespace QuotesLibrary
         public static Quote GetRandomQuote()
         {
             var randomInt = randomGenerator.Next(0, quotesList.Count);
-            var quote = quotesList[randomInt];
-            var serializer = new JavaScriptSerializer();
-            var result = serializer.Serialize(quotesList);
-            System.IO.StreamWriter file = new System.IO.StreamWriter(@"M:\Projects\TheDailyPratchett\test.txt");
-            file.Write(result);
             return quotesList[randomInt];
+        }
+
+        public static bool SerializeQuotes()
+        {
+            try
+            {
+                var result = JsonConvert.SerializeObject(quotesList);
+                using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"M:\Projects\TheDailyPratchett\quotes.json"))
+                {
+                    file.Write(result);
+                }
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }            
         }
     }
 }

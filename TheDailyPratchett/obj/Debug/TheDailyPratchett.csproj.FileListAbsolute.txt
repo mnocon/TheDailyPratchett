@@ -14,3 +14,5 @@ M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Debug\TheDailyPratchett.Prop
 M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Debug\TheDailyPratchett.csproj.GenerateResource.Cache
 M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Debug\TheDailyPratchett.exe
 M:\Projects\TheDailyPratchett\TheDailyPratchett\obj\Debug\TheDailyPratchett.pdb
+M:\Projects\TheDailyPratchett\TheDailyPratchett\bin\Debug\Newtonsoft.Json.dll
+M:\Projects\TheDailyPratchett\TheDailyPratchett\bin\Debug\Newtonsoft.Json.xml

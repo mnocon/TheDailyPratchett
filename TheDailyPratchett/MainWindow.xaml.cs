@@ -28,9 +28,30 @@ namespace TheDailyPratchett
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            var text = QuotesLibrary.QuoteFactory.GetRandomQuote().Content;
-            Console.WriteLine(text);
-            this.asd.Content = text;
+            StringBuilder sb = new StringBuilder();
+            var quote = QuotesLibrary.QuoteFactory.GetRandomQuote();
+            sb.Append(quote.Content);
+            sb.Append("--");
+            sb.Append(quote.Source);
+            sb.Append("--");
+            sb.Append(quote.Context);
+            sb.Append("--");
+            sb.Append(quote.Author);
+
+            this.quoteTextarea.Content = sb.ToString();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var result = QuotesLibrary.QuoteFactory.SerializeQuotes();
+            if (result)
+            {
+                MessageBox.Show("Quotes serialized successfully.");
+            }
+            else
+            {
+                MessageBox.Show("Failed to serialize quotes.");
+            }
         }
     }
 }
