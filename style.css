@@ -18,20 +18,20 @@ body > header {
 
 header > h1
 {
-	font-size: 24px;
+	font-size: 3vmin;
 	font-family: Raleway;
 	display: table-cell;
 	float: left;
 }
 
 header > nav {
-	font-size: 18px;
+	font-size: 2.25vmin;
 	display: table-cell;
 	float: right;
 }
 
 header > nav > a {
-	color: #55bfd9;
+	color: rgba(65,69,152,1);
 	/* font-size: 18px; */
 }
 
@@ -90,7 +90,7 @@ header > nav > a {
 		padding-bottom: 50px;
 	}
 	
-	.about > h1
+	.about > h2, .subscribe > form > h2
 	{
 	padding-top: 50px;
 	}
@@ -107,7 +107,8 @@ header > nav > a {
 	height: calc(100% - 60px);
 	padding-left: 50px;
 	padding-right: 50px;
-	/* background-image: url("blue-eyed-kitten-16886.jpg"); */
+	background-image: url("a.jpg");
+	background-size: cover;
 	background-repeat: no-repeat;
 	display: flex; /* opt into the new box model */ 
     justify-content: center; /* "align" */
@@ -119,8 +120,6 @@ blockquote {
 	font-family: Raleway;
 	font-size: 4vmin;
 	line-height: 2em;
-	/* top: 30%; */
-	/* position: relative; */
 	color: #FFF;
 }
 
@@ -155,16 +154,17 @@ blockquote > footer > cite {
 }
 
 .about {
-	background-color: #55bfd9;
+	/* background-color:  rgba(55,69,182,0.9); */
+	background-color:  #FFF;
 	height: 100%; 
 	min-height: 100%;
 }
 
-.about > h1
+.about > h2, .subscribe > form > h2
 {
 	font-size: 5vmin;
 	font-family: Lato;
-	color: white;
+	color: black;
 }
 
 	.about > p
@@ -177,20 +177,83 @@ blockquote > footer > cite {
 	}
 
 .subscribe {
-	background-color: #00F;
+	background-color: rgba(32,34,75,1);
 	height: calc(100% - 45px);
-	/* background-image: url("images.jpg"); */
+	display: flex; /* opt into the new box model */ 
+    justify-content: center; /* "align" */
+    align-items: center; /* "valign" */
+	line-size: 2 em;
+/* 	background-image: url("a.jpg"); */
+}
+
+.subscribe > form > h2
+{
+	color: white;
+	padding-bottom: 30px;
+}
+
+.subscribe > form > p
+{
+	padding-bottom: 30px;
+	color: #FFF;
+	font-size : 3vmin;
+}
+
+.inputField
+{
+	border: 1px solid #ccc;
+	box-shadow: inset 0 1px 3px #ddd;
+	border-radius: 8px;
+	width: 60%;
+	height: 3em;
+	font-size: 2vmin;
+	font-family: Raleway;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	outline: none !important;
+}
+
+.button {
+  background-color: rgba(65,69,152,1);
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-left-color: #000;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: #000;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: #000;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-top-style: none;
+  border-top-width: 0px;
+  color: #FFF;
+  font-family: Raleway;
+  font-size: 2vmin;
+  cursor: pointer;
+  height: 2.5em;
+  line-height: normal;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  text-align: center;
+  vertical-align: middle;
+  width: 150px;
 }
 
 .authorInfo {
 	height: 45px; 
-	font-size: 12px;
+	font-size: 1.5vmin;
 	text-transform: uppercase;
 	font-weight: bold;
 	line-height: 45px;
 	font-family: Lato;
 	text-align: center;
 	color: #FFF;
-	background: #55bfd9;
-	box-shadow: 0 -1px 25px rgba(85, 191, 217,1);
+	background: rgba(65,69,152,1);
+	box-shadow: 0 -1px 25px rgba(65,69,152,1);
 }
