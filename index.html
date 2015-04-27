@@ -99,11 +99,10 @@ b
 	
 		$.getJSON( "data.json", function( data ) {
 			quotesArray = data;
+			var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
+			var quoteToSet = diffDays % quotesArray.length;
+			setQuote(quoteToSet);
 			});
-		var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
-		var quoteToSet = diffDays % quotesArray.length;
-
-		setQuote(quoteToSet);
 	});
 	
 	function setQuote(i){
