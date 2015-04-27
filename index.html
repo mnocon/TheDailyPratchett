@@ -84,7 +84,7 @@ Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle p
 	
 	$(document).ready(function() {
 	
-		$.getJSON( "website/data.json", function( data ) {
+		$.getJSON( "website/quotes.json", function( data ) {
 			quotesArray = data;
 			var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
 			var quoteToSet = diffDays % quotesArray.length;
