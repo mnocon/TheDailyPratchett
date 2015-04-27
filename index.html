@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 <meta charset="UTF-8" />
 <title>The Daily Pratchett</title>
-<link href="style.css" rel="stylesheet" />
+<link href="website/style.css" rel="stylesheet" />
 <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<script src="jquery-2.1.3.min.js"></script>
+<script src="website/jquery-2.1.3.min.js"></script>
 </head>
 <body>
 		<header>
@@ -84,7 +84,7 @@ Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle p
 	
 	$(document).ready(function() {
 	
-		$.getJSON( "data.json", function( data ) {
+		$.getJSON( "website/data.json", function( data ) {
 			quotesArray = data;
 			var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
 			var quoteToSet = diffDays % quotesArray.length;
