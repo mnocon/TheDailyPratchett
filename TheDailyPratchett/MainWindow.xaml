@@ -1,10 +1,21 @@
 ﻿<Window x:Class="TheDailyPratchett.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
-    <StackPanel>
-        <Button Click="Button_Click" Width="130" Margin="10 10 10 10">Hit me with a quote</Button>
-        <Label Name="quoteTextarea" Margin="20 20 20 20" HorizontalAlignment="Center"></Label>
-        <Button Click="Button_Click_1" Width="130" Margin="10 10 10 10" VerticalAlignment="Bottom">Serialize quotes</Button>
+        Title="Quote Browser" Height="560" Width="600" ResizeMode="NoResize" KeyDown="OnKeyDownHandler">
+    <StackPanel Name="quotePanell" Orientation="Vertical" HorizontalAlignment="Center" Margin="10 10 10 10" Width="540">
+        <GroupBox Name="QuoteGroupBox" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="450" Padding="10 10 10 10">
+            <Label VerticalAlignment="Stretch" Name="quoteContent"></Label>
+        </GroupBox>
+        <StackPanel Orientation="Horizontal" Margin="0 10 0 0" HorizontalAlignment="Center">
+            <Button Name="ReadFile" HorizontalAlignment="Left" Padding="20 10 20 10" Click="ReadFile_OnClick">Read file</Button>
+            <StackPanel Orientation="Horizontal" Margin="55 0 55 0" HorizontalAlignment="Center">
+                <Button Height="20" Name="firstQuoteButton" Click="FirstQuoteButton_OnClick" Width="30"></Button>
+                <Button Height="20" Margin="10 0 10 0" Name="previousButton" Click="PreviousButton_OnClick" Width="30"></Button>
+                <!--<TextBox Name="quoteIndex" LostFocus="QuoteIndex_OnLostFocus" Width="50" Height="20" Margin="10 0 10 0"></TextBox>-->
+                <Button Height="20" Margin="0 0 10 0" Name="nextButton" Click="NextButton_OnClick" Width="30"></Button>
+                <Button Height="20" Name="lastQuoteButton" Click="LastButton_OnClick" Width="30"></Button>
+            </StackPanel>
+            <Button Name="SerializeButton" HorizontalAlignment="Right" Padding="20 10 20 10" Click="SerializeButton_OnClick">Serialize quotes</Button>
+        </StackPanel>
     </StackPanel>
 </Window>

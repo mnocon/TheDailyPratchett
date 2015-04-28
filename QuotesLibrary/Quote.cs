@@ -34,7 +34,10 @@ namespace QuotesLibrary
                 Author = authorSourceList.First().Trim();
                 Source = authorSourceList.Last().Trim();
             }
-     
+            else
+            {
+                throw new ArgumentException("Given string could not be parsed into a quote");
+            }
         }
     }
 }

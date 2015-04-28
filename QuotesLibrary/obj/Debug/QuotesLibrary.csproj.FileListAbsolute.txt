@@ -6,3 +6,11 @@ M:\Projects\TheDailyPratchett\QuotesLibrary\obj\Debug\QuotesLibrary.pdb
 M:\Projects\TheDailyPratchett\QuotesLibrary\obj\Debug\QuotesLibrary.csprojResolveAssemblyReference.cache
 M:\Projects\TheDailyPratchett\QuotesLibrary\bin\Debug\Newtonsoft.Json.dll
 M:\Projects\TheDailyPratchett\QuotesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\obj\Debug\QuotesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\bin\Debug\quotes.txt
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\bin\Debug\QuotesLibrary.dll
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\bin\Debug\QuotesLibrary.pdb
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\obj\Debug\QuotesLibrary.dll
+C:\Users\mnocon\Desktop\dailypratchettquote\QuotesLibrary\obj\Debug\QuotesLibrary.pdb
