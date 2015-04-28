@@ -75,16 +75,17 @@ header > nav > a
 	padding-left: 7%;
 	padding-right: 7%;
 	padding-bottom: 5px;
+	margin-top: 20px;
+	}
+	
+	.about > h2 , .subscribe > h2
+	{
+		margin-top: 20px;
 	}
 	
 	.about >p:first-of-type
 	{
 		margin-top: 20px;
-	}
-	
-	.about > h1
-	{
-	padding-top: 30px;
 	}
 }
 
@@ -262,6 +263,7 @@ blockquote > footer > cite {
   text-align: center;
   vertical-align: middle;
   width: 150px;
+  margin-bottom: 30px;
 }
 
 .authorInfo {
