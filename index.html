@@ -4,11 +4,13 @@
 <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 <meta charset="UTF-8" />
 <title>The Daily Pratchett</title>
+<link rel="shortcut icon" type="image/x-icon" href="website/favicon.ico">
 <link href="website/style.css" rel="stylesheet" />
 <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
 <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script src="website/jquery-2.1.3.min.js"></script>
+<script src="website/script.js"></script>
 </head>
 <body>
 		<header>
@@ -36,9 +38,8 @@ had surreptiously looked very hard for one.</p>
 </section>
 <section id="about"  class="about">
 <h2>About</h2>
-<p>This site was created as a tribute to sir Terry Pratchett. Its goal is incredibly simple: to display a different quote from his books or statements every day.</p>
-<p>If you like the idea of reminding yourself about the work of Sir Terry, consider subscribing to the mailing list or visit this site tomorrow (the quote will change!).
-<p> The quotes from sir Terry come from <a href="http://www.lspace.org/books/pqf/">"The Pratchett Quote File"</a>, which is a collection of quotes created and maintained by users. The background <a href="http://commons.wikimedia.org/wiki/File:2014_Meteor.jpg">photo</a> was taken by Jacek Halicki and is distributed under <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Share Alike 4.0 International</a> license.
+<p>This site was created as a tribute to sir Terry Pratchett. Its goal is incredibly simple: to display a different quote every day. If you like the idea of reminding yourself about the work of Sir Terry, visit this site tomorrow or consider subscribing to the mailing list.
+<p> Feeling a sudden urge to read a lot of quotes at once? <a href="http://www.lspace.org/books/pqf/">"The Pratchett Quote File"</a> may come in hand. This collection was used as a source of quotes for this page.</p><p> The background <a href="http://commons.wikimedia.org/wiki/File:2014_Meteor.jpg">photo</a> was taken by Jacek Halicki and is distributed under <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Share Alike 4.0 International</a> license.
 </p>
 
 <p> 
@@ -63,51 +64,3 @@ had surreptiously looked very hard for one.</p>
 </body>
 </html>
 
-<script>
-	var $content = $("#content");
-	var $context = $("#context");
-	var $author = $("#author");	
-	
-	var oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
-	var launchDate = new Date(2015, 03, 21, 12);
-	var todayDate = new Date();
-
-	function setHeight(param)
-	{
-
-	}
-	
-	function setTopMargin(param)
-	{
-    $('#mainQuote').css({top:param});
-	}
-	
-	$(document).ready(function() {
-	
-		$.getJSON( "website/quotes.json", function( data ) {
-			quotesArray = data;
-			var diffDays = Math.round(Math.abs((todayDate.getTime() - 	launchDate.getTime())/(oneDay)));
-			var quoteToSet = diffDays % quotesArray.length;
-			setQuote(quoteToSet);
-			});
-	});
-	
-	function setQuote(i){
-	$content.text(quotesArray[i].Content);
-	$author.text(quotesArray[i].Author);
-	$context.text(quotesArray[i].Context);
-		if ( quotesArray[i].Content.length > 450)
-		{
-		setHeight('150%');
-		}
-		else
-		{
-		setHeight('100%');
-		}
-	}
-	var i = 0;
-	$('#triggerJQ').click(function()
-	{
-	setQuote(i++);
-	});
-</script>
