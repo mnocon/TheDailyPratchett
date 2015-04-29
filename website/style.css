@@ -132,6 +132,14 @@ header > nav > a
 	z-index: 0;
 }
 
+/* IE10 and 11 flex-box min-height bug */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+.quote
+{
+height: 100px;
+}
+}
+
 blockquote {
 	font-family: Raleway;
 	font-size: 4vmin;
