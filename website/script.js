@@ -21,3 +21,7 @@
 	$author.text(quotesArray[i].Author);
 	$context.text(quotesArray[i].Context);
 	}
+	
+// The world is made up of four elements: Earth, Air, Fire and Water. This is a fact well known even to Corporal Nobbs. It's also wrong. There's a fifth element, and generally it's called Surprise.
+
+// -- (Terry Pratchett, The Truth)
