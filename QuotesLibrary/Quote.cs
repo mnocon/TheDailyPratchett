@@ -55,7 +55,7 @@ namespace QuotesLibrary
         {            
             StringBuilder quote = new StringBuilder();
             quote.AppendLine(Content);
-            quote.Append(Context + " - ");
+            quote.Append('\n' + Context + " - ");
             quote.Append(Author + ", ");
             quote.Append(Source);
 
