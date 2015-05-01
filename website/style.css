@@ -118,7 +118,7 @@ header > nav > a
 }
 
 .quote {
-	background-color: #0F0F0F;
+	background-color: #000;
 	height: auto;
 	min-height: calc(100% - 60px);
 	padding-left: 50px;
@@ -133,6 +133,7 @@ header > nav > a
 }
 
 /* IE10 and 11 flex-box min-height bug */
+/* +++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++ */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 .quote
 {
