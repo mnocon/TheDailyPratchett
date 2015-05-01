@@ -29,6 +29,11 @@ namespace QuotesLibrary
             if (match.Success)
             {
                 Content = match.Groups[1].Value.Trim();
+                if ( Content.First().Equals('"') && Content.Last().Equals('"') && (Content.Count(x => x.Equals('"')) == 2) )
+                {
+                   Content = Content.Remove(0,1);
+                   Content = Content.Remove(Content.Length - 1, 1);
+                }
                 Context = match.Groups[2].Value.Trim();
                 var authorSourceList = match.Groups[3].Value.Split(new string[] { ", "}, StringSplitOptions.None );
                 Author = authorSourceList.First().Trim();
