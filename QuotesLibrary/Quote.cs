@@ -23,6 +23,11 @@ namespace QuotesLibrary
         private Regex pattern;
         private const string regexPattern = @"([\s\S]*)\-\- ([\s\S]*)\((.*)\)";
 
+        public Quote()
+        {
+
+        }
+
         public Quote(string fragment)
         {
             pattern = new Regex(regexPattern);

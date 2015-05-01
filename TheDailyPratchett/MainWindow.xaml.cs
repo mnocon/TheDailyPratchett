@@ -102,7 +102,7 @@ namespace TheDailyPratchett
         {
             var dialog = new OpenFileDialog();
             dialog.DefaultExt = ".txt";
-            dialog.Filter = "Text documents (.txt)|*.txt";
+            dialog.Filter = "Text documents (.txt)|*.txt|Json documents (.json)|*.json";
 
             Nullable<bool> result = dialog.ShowDialog();
 

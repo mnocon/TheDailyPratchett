@@ -20,20 +20,29 @@ namespace QuotesLibrary
         {
             fileContent = System.IO.File.ReadAllText(path);
 
-            var quotes = fileContent.Split(new string[] { "\r\n\r\n\r\n" }, StringSplitOptions.RemoveEmptyEntries).ToList();
-
-            foreach (var quote in quotes)
+            if (path.EndsWith(".txt"))
             {
-                try
+                var quotes = fileContent.Split(new string[] { "\r\n\r\n\r\n" }, StringSplitOptions.RemoveEmptyEntries).ToList();
+
+                foreach (var quote in quotes)
                 {
-                    quotesList.Add(new Quote(quote));
+                    try
+                    {
+                        quotesList.Add(new Quote(quote));
+                    }
+                    catch (ArgumentException)
+                    {
+                        break;
+                    }
                 }
-                catch (ArgumentException)
-                {
-                    break;
-                }
+                quotesList.ShuffleList();
             }
-            quotesList.ShuffleList();
+
+            if (path.EndsWith(".json"))
+            {
+                quotesList = JsonConvert.DeserializeObject<List<Quote>>(fileContent);
+            }
+
             Count = quotesList.Count;
             return quotesList;
         }
@@ -78,7 +87,7 @@ namespace QuotesLibrary
 
             for (var index = 0; startDate.AddDays(index) <= endDate; index++)
             {
-                channelNode.Add( quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl));
+                channelNode.AddFirst( quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl));
             }
 
             return rssChannel;
