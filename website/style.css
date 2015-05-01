@@ -168,6 +168,7 @@ blockquote > footer {
 
 blockquote > footer > p {
 	display:inline;
+	font-style: italic;
 }
 
 blockquote > footer > #context::after {
