@@ -170,12 +170,21 @@ blockquote > footer > p {
 	display:inline;
 }
 
-blockquote > footer > p::after {
+blockquote > footer > #context::after {
 	content:" - ";
 }
 
 blockquote > footer > cite {
 	display:inline;
+}
+
+blockquote > footer > #source {
+		display:inline;
+}
+
+
+blockquote > footer > #source::before {
+		content: ", ";
 }
 
 .about {
