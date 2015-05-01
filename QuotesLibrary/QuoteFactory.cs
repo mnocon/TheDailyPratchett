@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
+using System.Text;
+using System.Xml;
+using System.Xml.Linq;
 
 namespace QuotesLibrary
 {
@@ -62,21 +65,38 @@ namespace QuotesLibrary
             }
             return true;
         }
+
+        public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description)
+        {
+            XDocument rssChannel = new XDocument(new XElement("rss", new XAttribute("version", "2.0"),
+                                          new XElement("channel",
+                                              new XElement("title", title),
+                                              new XElement("link", pageUrl),
+                                              new XElement("description", description))));
+
+            var channelNode = rssChannel.Root.Descendants().First();
+
+            for (var index = 0; startDate.AddDays(index) <= endDate; index++)
+            {
+                channelNode.Add( quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl));
+            }
+
+            return rssChannel;
+        }
     }
 
     public static class ListExtension
     {
         public static void ShuffleList<T>(this IList<T> list)
         {
-            var n = list.Count;
+            var n = list.Count - 1;
             var randomGenerator = new Random();
-            while (n > 1)
+            while (n >= 0)
             {
-                var firstIndex = randomGenerator.Next(0, list.Count);
-                var secondIndex = randomGenerator.Next(0, list.Count);
-                var swap = list[secondIndex];
-                list[secondIndex] = list[firstIndex];
-                list[firstIndex] = swap;
+                var firstIndex = randomGenerator.Next(0, n);
+                var swap = list[firstIndex];
+                list[firstIndex] = list[n];
+                list[n] = swap;
                 --n;
             }
         }

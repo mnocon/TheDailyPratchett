@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
+using System.Xml.Linq;
 
 namespace QuotesLibrary
 {
@@ -43,6 +44,20 @@ namespace QuotesLibrary
             {
                 throw new ArgumentException("Given string could not be parsed into a quote");
             }
+        }
+
+        public XElement ToRSSItem(string newsTitle, string newsUrl)
+        {            
+            StringBuilder quote = new StringBuilder();
+            quote.AppendLine(Content);
+            quote.Append(Context + " - ");
+            quote.Append(Author + ", ");
+            quote.Append(Source);
+
+            return new XElement("item", 
+                        new XElement("title", newsTitle), 
+                        new XElement("link", newsUrl), 
+                        new XElement("description", quote.ToString()));
         }
     }
 }
