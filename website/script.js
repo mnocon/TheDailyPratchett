@@ -1,7 +1,7 @@
 	$(document).ready(function() {
 
 		var oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
-		var launchDate = new Date(2015, 03, 21, 12);
+		var launchDate = new Date(2015, 04, 01, 12);
 		var todayDate = new Date();
 
 		$.getJSON( "website/quotes.json", function( data ) {
