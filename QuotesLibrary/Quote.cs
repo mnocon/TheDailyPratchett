@@ -51,7 +51,7 @@ namespace QuotesLibrary
             }
         }
 
-        public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate)
+        public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate, int guid)
         {            
             StringBuilder quote = new StringBuilder();
             quote.Append(Content);
@@ -62,11 +62,15 @@ namespace QuotesLibrary
             quote.Append(", ");
             quote.Append(Source);
 
+            string _rfc822Format = "ddd, dd MMM yyyy HH:mm:ss";
+            string _publishDate = pubDate.ToString(_rfc822Format) + " UT";           
+
             return new XElement("item", 
                         new XElement("title", newsTitle), 
                         new XElement("link", newsUrl), 
-                        new XElement("pubDate", pubDate.ToShortDateString()),
-                        new XElement("description", quote.ToString()));
+                        new XElement("pubDate", _publishDate),
+                        new XElement("guid", guid.ToString()),
+                        new XElement("description", new XAttribute("xml:space", "preserve"), quote.ToString()));
 
         }
     }
