@@ -16,7 +16,7 @@ namespace QuotesLibrary
         private static Random randomGenerator = new Random();
         public static Int32 Count { get; private set; }
 
-        public static IList<Quote> CreateQuotes(string path) 
+        public static bool CreateQuotes(string path) 
         {
             fileContent = System.IO.File.ReadAllText(path);
 
@@ -40,11 +40,18 @@ namespace QuotesLibrary
 
             if (path.EndsWith(".json"))
             {
-                quotesList = JsonConvert.DeserializeObject<List<Quote>>(fileContent);
+                try
+                {
+                    quotesList = JsonConvert.DeserializeObject<List<Quote>>(fileContent);
+                }
+                catch
+                {
+                    return false;
+                }
             }
 
             Count = quotesList.Count;
-            return quotesList;
+            return true;
         }
 
         public static Quote GetQuote(int number)
@@ -87,7 +94,7 @@ namespace QuotesLibrary
 
             for (var index = 0; startDate.AddDays(index) <= endDate; index++)
             {
-                channelNode.AddFirst( quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl));
+                channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl));
             }
 
             return rssChannel;

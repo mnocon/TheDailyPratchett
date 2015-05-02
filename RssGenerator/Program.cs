@@ -18,6 +18,7 @@ namespace RssGenerator
         private static string title;
         private static string outputFilename;
         private static DateTime startDate;
+        private static string startDateInput;
 
         static void Main(string[] args)
         {
@@ -27,9 +28,31 @@ namespace RssGenerator
             url = args.Length > 2 ? args[2] : "http://rolieolie.github.io/TheDailyPratchett/";
             description = args.Length > 3 ? args[3] : "A quote from Sir Terry Pratchett every day.";
             outputFilename = args.Length > 4 ? args[4] : "rss.xml";
-            startDate = new DateTime(2015, 5, 1);
+            
+            if ( args.Length > 5)
+            {
+                startDateInput = args[5];
+                var date = startDateInput.Split('-');
+                try
+                {
+                    startDate = new DateTime(Int32.Parse(date[0]), Int32.Parse(date[1]), Int32.Parse(date[2])); 
+                }
+                catch
+                {
+                    Console.WriteLine("Error during parsing the input date");
+                }
+            }
+            else
+            {
+                startDate= new DateTime(2015, 5, 1);
+            }
 
-            QuoteFactory.CreateQuotes(filename);
+            if (!QuoteFactory.CreateQuotes(filename))
+            {
+                Console.WriteLine("error while reading quotes)");
+                return;
+            }
+
             rssDocument = QuoteFactory.CreateRSSFile(startDate, DateTime.Now, title, url, description);
             XmlWriterSettings xws = new XmlWriterSettings { OmitXmlDeclaration = true };
             xws.Indent = true;
