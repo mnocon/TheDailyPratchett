@@ -5,14 +5,15 @@ $(document).ready(function () {
 	var launchDate = new Date(2015, 4, 1, 12);
 	var todayDate = new Date();
 	
+	$.getJSON("website/quotes.json", function (data) {
+	quotesArray = data;
+	});
+	
 	var ID = getParameterByName('id');
 	if (ID === "")
 	{
-			$.getJSON("website/quotes.json", function (data) {
-		quotesArray = data;
 		var diffDays = Math.round(Math.abs((todayDate.getTime() - launchDate.getTime()) / (oneDay)));
 		setQuote(diffDays);
-		});
 	}
 	else
 	{
