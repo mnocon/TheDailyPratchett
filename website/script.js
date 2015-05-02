@@ -26,7 +26,7 @@ $(document).ready(function () {
 
 function setQuote(i) {
 	if (i < 0) i = 0;
-	if (i > quotesArray.length - 1) i % quotesArray.length;
+//	if (i > quotesArray.length - 1) i % quotesArray.length;
 	
 	var $content = $("#content");
 	var $context = $("#context");
