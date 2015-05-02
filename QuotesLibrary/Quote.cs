@@ -63,14 +63,16 @@ namespace QuotesLibrary
             quote.Append(Source);
 
             string _rfc822Format = "ddd, dd MMM yyyy HH:mm:ss";
-            string _publishDate = pubDate.ToString(_rfc822Format) + " UT";          
+            string _publishDate = pubDate.ToUniversalTime().ToString(_rfc822Format) + " UT";
+            string _cdata_start = "<![CDATA[";
+            string _cdata_end = "]]>";
  
             return new XElement("item", 
                         new XElement("title", newsTitle), 
                         new XElement("link", newsUrl), 
                         new XElement("pubDate", _publishDate),
-                        new XElement("guid", guid.ToString()),
-                        new XElement("description", new XAttribute(XNamespace.Xml + "space", "preserve"), quote.ToString()));
+                        new XElement("guid", new XAttribute("isPermaLink", "false"), guid.ToString()),
+                        new XElement("description", new XAttribute(XNamespace.Xml + "space", "preserve"), _cdata_start + quote.ToString() + _cdata_end));
 
         }
     }

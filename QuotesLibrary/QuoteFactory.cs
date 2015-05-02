@@ -94,7 +94,8 @@ namespace QuotesLibrary
                 channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl, startDate.AddDays(index), index));
             }
 
-            //channelNode.AddFirst(new XElement("atom:link", new XAttribute("href", "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml"), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
+            XNamespace atom = "http://www.w3.org/2005/Atom";
+            channelNode.AddFirst(new XElement(atom + "link", new XAttribute("href", "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml"), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
             channelNode.AddFirst(new XElement("description", description));
             channelNode.AddFirst(new XElement("link", pageUrl));
             channelNode.AddFirst(new XElement("title", title));
