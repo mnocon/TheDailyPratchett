@@ -1,30 +1,31 @@
 /* global quotesArray */
-var quotesArray;
 
 $(document).ready(function () {
 
 	var oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
 	var launchDate = new Date(2015, 4, 1, 12);
 	var todayDate = new Date();
+	var quotesArray;
 	
 	$.getJSON("website/quotes.json", function (data) {
 	quotesArray = data;
 	});
 	
-	var ID = getParameterByName('id');
-	if (ID === "")
+	var param = getParameterByName('id');
+	var ID;
+	if (param === "")
 	{
-		var diffDays = Math.round(Math.abs((todayDate.getTime() - launchDate.getTime()) / (oneDay)));
-		setQuote(diffDays);
+		ID = Math.round(Math.abs((todayDate.getTime() - launchDate.getTime()) / (oneDay))); 
 	}
 	else
 	{
-		setQuote(ID);
+		ID = parseInt(param);
 	}
+	setQuote(ID, quotesArray);
 
 });
 
-function setQuote(i) {
+function setQuote(i, quotesArray) {
 	if (i < 0) i = 0;
 	if (i > quotesArray - 1) i % quotesArray.length;
 	
