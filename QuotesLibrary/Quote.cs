@@ -51,7 +51,7 @@ namespace QuotesLibrary
             }
         }
 
-        public XElement ToRSSItem(string newsTitle, string newsUrl)
+        public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate)
         {            
             StringBuilder quote = new StringBuilder();
             quote.AppendLine(Content);
@@ -62,7 +62,9 @@ namespace QuotesLibrary
             return new XElement("item", 
                         new XElement("title", newsTitle), 
                         new XElement("link", newsUrl), 
+                        new XElement("pubDate", pubDate.ToShortDateString()),
                         new XElement("description", quote.ToString()));
+
         }
     }
 }
