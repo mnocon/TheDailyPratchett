@@ -84,7 +84,7 @@ namespace QuotesLibrary
 
         public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description)
         {
-            XDocument rssChannel = new XDocument(new XElement("rss", new XAttribute("version", "2.0"), new XAttribute("xmlns:atom", "http://www.w3.org/2005/Atom"),
+            XDocument rssChannel = new XDocument(new XElement("rss", new XAttribute("version", "2.0"), new XAttribute(XNamespace.Xmlns + "atom", "http://www.w3.org/2005/Atom"),
                                           new XElement("channel")));
 
             var channelNode = rssChannel.Root.Descendants().First();
@@ -94,7 +94,7 @@ namespace QuotesLibrary
                 channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl, startDate.AddDays(index), index));
             }
 
-            channelNode.AddFirst(new XElement("atom:link", new XAttribute("href", "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml"), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
+            //channelNode.AddFirst(new XElement("atom:link", new XAttribute("href", "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml"), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
             channelNode.AddFirst(new XElement("description", description));
             channelNode.AddFirst(new XElement("link", pageUrl));
             channelNode.AddFirst(new XElement("title", title));
