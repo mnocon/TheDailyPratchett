@@ -1,5 +1,4 @@
 /* global quotesArray */
-var quotesArray;
 
 $(document).ready(function () {
 
@@ -9,7 +8,6 @@ $(document).ready(function () {
 	
 	$.getJSON("website/quotes.json", function (data) {
 	quotesArray = data;
-	});
 	
 	var param = getParameterByName('id');
 	var ID;
@@ -21,8 +19,8 @@ $(document).ready(function () {
 	{
 		ID = parseInt(param);
 	}
-	setQuote(ID);
-
+	setQuote(ID);	
+	});
 });
 
 function setQuote(i) {
