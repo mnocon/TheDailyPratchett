@@ -5,7 +5,6 @@ $(document).ready(function () {
 	var oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
 	var launchDate = new Date(2015, 4, 1, 12);
 	var todayDate = new Date();
-	var quotesArray;
 	
 	$.getJSON("website/quotes.json", function (data) {
 	quotesArray = data;
@@ -21,13 +20,13 @@ $(document).ready(function () {
 	{
 		ID = parseInt(param);
 	}
-	setQuote(ID, quotesArray);
+	setQuote(ID);
 
 });
 
-function setQuote(i, quotesArray) {
+function setQuote(i) {
 	if (i < 0) i = 0;
-	if (i > quotesArray - 1) i % quotesArray.length;
+	if (i > quotesArray.length - 1) i % quotesArray.length;
 	
 	var $content = $("#content");
 	var $context = $("#context");
