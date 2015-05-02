@@ -5,10 +5,6 @@ $(document).ready(function () {
 	var oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
 	var launchDate = new Date(2015, 4, 1, 12);
 	var todayDate = new Date();
-	
-	$.getJSON("website/quotes.json", function (data) {
-	quotesArray = data;
-	
 	var param = getParameterByName('id');
 	var ID;
 	if (param === "")
@@ -19,13 +15,15 @@ $(document).ready(function () {
 	{
 		ID = parseInt(param);
 	}
-	setQuote(ID);	
+	
+	$.getJSON("website/quotes.json", function (data) {
+	setQuote(ID, data);	
 	});
 });
 
-function setQuote(i) {
+function setQuote(i, quotesArray) {
 	if (i < 0) i = 0;
-	if (i > quotesArray.length - 1) i % quotesArray.length;
+	if (i > quotesArray.length - 1) i = i % quotesArray.length;
 	
 	var $content = $("#content");
 	var $context = $("#context");
