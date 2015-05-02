@@ -91,7 +91,8 @@ namespace QuotesLibrary
 
             for (var index = 0; startDate.AddDays(index) <= endDate; index++)
             {
-                channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), pageUrl, startDate.AddDays(index), index));
+                var newsUrl = pageUrl + "?id=" + index;
+                channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), newsUrl , startDate.AddDays(index)));
             }
 
             XNamespace atom = "http://www.w3.org/2005/Atom";

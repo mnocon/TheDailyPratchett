@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using System.Xml.Linq;
+using System.Globalization;
 
 namespace QuotesLibrary
 {
@@ -51,11 +52,17 @@ namespace QuotesLibrary
             }
         }
 
-        public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate, int guid)
-        {            
+        public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate)
+        {
+            string _cdata_start = "<![CDATA[";
+            string _cdata_end = "]]>";
+
             StringBuilder quote = new StringBuilder();
             quote.Append(Content);
+            quote.Append(_cdata_start);
             quote.Append(Environment.NewLine);
+            quote.Append("<br>");
+            quote.Append(_cdata_end);
             quote.Append(Context);
             quote.Append(" - ");
             quote.Append(Author);
@@ -63,16 +70,14 @@ namespace QuotesLibrary
             quote.Append(Source);
 
             string _rfc822Format = "ddd, dd MMM yyyy HH:mm:ss";
-            string _publishDate = pubDate.ToUniversalTime().ToString(_rfc822Format) + " UT";
-            string _cdata_start = "<![CDATA[";
-            string _cdata_end = "]]>";
+            string _publishDate = pubDate.ToUniversalTime().ToString(_rfc822Format, CultureInfo.InvariantCulture) + " UT";
  
             return new XElement("item", 
                         new XElement("title", newsTitle), 
                         new XElement("link", newsUrl), 
                         new XElement("pubDate", _publishDate),
-                        new XElement("guid", new XAttribute("isPermaLink", "false"), guid.ToString()),
-                        new XElement("description", new XAttribute(XNamespace.Xml + "space", "preserve"), _cdata_start + quote.ToString() + _cdata_end));
+                        new XElement("guid", new XAttribute("isPermaLink", "true"), newsUrl),
+                        new XElement("description", new XAttribute(XNamespace.Xml + "space", "preserve"), quote.ToString()));
 
         }
     }
