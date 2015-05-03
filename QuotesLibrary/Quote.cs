@@ -55,8 +55,10 @@ namespace QuotesLibrary
         public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate)
         {
             StringBuilder quote = new StringBuilder();
+            quote.Append('"');
             quote.Append(Content);
-            quote.Append("<br>");
+            quote.Append('"');
+            quote.Append("<br><br>");
             quote.Append(Context);
             quote.Append(" - ");
             quote.Append(Author);
