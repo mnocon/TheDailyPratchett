@@ -4,15 +4,14 @@
     <link>http://rolieolie.github.io/TheDailyPratchett/</link>
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
+    <icon>http://rolieolie.github.io/TheDailyPratchett/website/favicon.ico http://rolieolie.github.io/TheDailyPratchett/website/rss.xml 5</icon>
     <item>
-      <title>2015-05-02</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=12</link>
-      <pubDate>Fri, 01 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=12</guid>
-      <description><![CDATA[
-<p>There once was a man from nantucket<br>
-Who kept all his fish in a bucket</p>
-]]></description>
+      <title>2015-05-03</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=13</link>
+      <pubDate>Sat, 02 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=13</guid>
+      <description xml:space="preserve">&lt;![CDATA[The Librarian had seen many weird things in his time, but that had to be
+the 57th strangest. [footnote: he had a tidy mind]&lt;br&gt; - Terry Pratchett, Moving Pictures]]&gt;</description>
     </item>
   </channel>
 </rss>
