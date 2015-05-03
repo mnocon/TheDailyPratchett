@@ -54,11 +54,7 @@ namespace QuotesLibrary
 
         public XElement ToRSSItem(string newsTitle, string newsUrl, DateTime pubDate)
         {
-            string _cdata_start = "<![CDATA[";
-            string _cdata_end = "]]>";
-
             StringBuilder quote = new StringBuilder();
-            quote.Append(_cdata_start);
             quote.Append(Content);
             quote.Append("<br>");
             quote.Append(Context);
@@ -66,7 +62,6 @@ namespace QuotesLibrary
             quote.Append(Author);
             quote.Append(", ");
             quote.Append(Source);
-            quote.Append(_cdata_end);
 
             string _rfc822Format = "ddd, dd MMM yyyy HH:mm:ss";
             string _publishDate = pubDate.ToUniversalTime().ToString(_rfc822Format, CultureInfo.InvariantCulture) + " UT";
@@ -76,7 +71,7 @@ namespace QuotesLibrary
                         new XElement("link", newsUrl), 
                         new XElement("pubDate", _publishDate),
                         new XElement("guid", new XAttribute("isPermaLink", "true"), newsUrl),
-                        new XElement("description", new XAttribute(XNamespace.Xml + "space", "preserve"), quote.ToString()));
+                        new XElement("description", new XCData(quote.ToString())));
 
         }
     }
