@@ -82,7 +82,7 @@ namespace QuotesLibrary
             return true;
         }
 
-        public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description, string faviconUrl, string rssUrl, int numberOfRssItems)
+        public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description, string rssUrl, int numberOfRssItems)
         {
             XDocument rssChannel = new XDocument(new XElement("rss", new XAttribute("version", "2.0"), new XAttribute(XNamespace.Xmlns + "atom", "http://www.w3.org/2005/Atom"),
                                           new XElement("channel")));
@@ -98,7 +98,6 @@ namespace QuotesLibrary
             }
 
             XNamespace atom = "http://www.w3.org/2005/Atom";
-            channelNode.AddFirst(new XElement("icon", faviconUrl));
             channelNode.AddFirst(new XElement(atom + "link", new XAttribute("href", rssUrl), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
             channelNode.AddFirst(new XElement("description", description));
             channelNode.AddFirst(new XElement("link", pageUrl));
