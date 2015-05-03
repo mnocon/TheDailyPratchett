@@ -58,16 +58,15 @@ namespace QuotesLibrary
             string _cdata_end = "]]>";
 
             StringBuilder quote = new StringBuilder();
-            quote.Append(Content);
             quote.Append(_cdata_start);
-            quote.Append(Environment.NewLine);
+            quote.Append(Content);
             quote.Append("<br>");
-            quote.Append(_cdata_end);
             quote.Append(Context);
             quote.Append(" - ");
             quote.Append(Author);
             quote.Append(", ");
             quote.Append(Source);
+            quote.Append(_cdata_end);
 
             string _rfc822Format = "ddd, dd MMM yyyy HH:mm:ss";
             string _publishDate = pubDate.ToUniversalTime().ToString(_rfc822Format, CultureInfo.InvariantCulture) + " UT";

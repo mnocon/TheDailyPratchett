@@ -17,8 +17,11 @@ namespace RssGenerator
         private static string description;
         private static string title;
         private static string outputFilename;
+        private static string faviconUrl;
+        private static string rssUrl;
         private static DateTime startDate;
         private static string startDateInput;
+        private static int numberOfItems;
 
         static void Main(string[] args)
         {
@@ -47,13 +50,17 @@ namespace RssGenerator
                 startDate= new DateTime(2015, 5, 1);
             }
 
+            faviconUrl = args.Length > 6 ? args[6] : "http://rolieolie.github.io/TheDailyPratchett/website/favicon.ico";
+            rssUrl = args.Length > 7 ? args[7] : "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml";
+            numberOfItems = args.Length > 8 ? Int32.Parse(args[8]) : 1;
+
             if (!QuoteFactory.CreateQuotes(filename))
             {
                 Console.WriteLine("error while reading quotes)");
                 return;
             }
 
-            rssDocument = QuoteFactory.CreateRSSFile(startDate, DateTime.Now, title, url, description);
+            rssDocument = QuoteFactory.CreateRSSFile(startDate, DateTime.Now, title, url, description, faviconUrl, rssUrl, numberOfItems);
             XmlWriterSettings xws = new XmlWriterSettings { OmitXmlDeclaration = true };
             xws.Indent = true;
             using (XmlWriter xWriter = XmlWriter.Create(outputFilename, xws))

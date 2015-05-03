@@ -82,24 +82,28 @@ namespace QuotesLibrary
             return true;
         }
 
-        public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description)
+        public static XDocument CreateRSSFile(DateTime startDate, DateTime endDate, string title, string pageUrl, string description, string faviconUrl, string rssUrl, int numberOfRssItems)
         {
             XDocument rssChannel = new XDocument(new XElement("rss", new XAttribute("version", "2.0"), new XAttribute(XNamespace.Xmlns + "atom", "http://www.w3.org/2005/Atom"),
                                           new XElement("channel")));
 
             var channelNode = rssChannel.Root.Descendants().First();
 
-            for (var index = 0; startDate.AddDays(index) <= endDate; index++)
+            var possibleIndex = (endDate - startDate).Days - numberOfRssItems + 1;
+
+            for (var index =  possibleIndex > 0 ? possibleIndex : 0; startDate.AddDays(index) <= endDate; index++)
             {
                 var newsUrl = pageUrl + "?id=" + index;
                 channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), newsUrl , startDate.AddDays(index)));
             }
 
             XNamespace atom = "http://www.w3.org/2005/Atom";
-            channelNode.AddFirst(new XElement(atom + "link", new XAttribute("href", "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml"), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
+            channelNode.AddFirst(new XElement("icon", faviconUrl));
+            channelNode.AddFirst(new XElement(atom + "link", new XAttribute("href", rssUrl), new XAttribute("rel", "self"), new XAttribute("type", "application/rss+xml")));
             channelNode.AddFirst(new XElement("description", description));
             channelNode.AddFirst(new XElement("link", pageUrl));
             channelNode.AddFirst(new XElement("title", title));
+
 
             return rssChannel;
         }
