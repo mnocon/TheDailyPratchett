@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-08</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=7</link>
+      <pubDate>Thu, 07 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=7</guid>
+      <description><![CDATA["Carrot was two metres tall but he'd been brought up as a dwarf, and then
+further up as a human."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>2015-05-07</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=6</link>
       <pubDate>Wed, 06 May 2015 22:00:00 UT</pubDate>
@@ -34,16 +42,6 @@ pack, because their appearance tended to upset people."<br><br> - Terry Pratchet
       <pubDate>Sun, 03 May 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=3</guid>
       <description><![CDATA["He's going to go totally Librarian-poo."<br><br>Gaspode about Vimes - Terry Pratchett, The Truth]]></description>
-    </item>
-    <item>
-      <title>2015-05-03</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=2</link>
-      <pubDate>Sat, 02 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=2</guid>
-      <description><![CDATA["Crowley had been extremely impressed with the warranties offered by the
-computer industry, and had in fact sent a bundle Below to the department
-that drew up the Immortal Soul agreements, with a yellow memo form attached
-just saying: "Learn, guys.""<br><br>Crowley is a demon, in case you don't know - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
