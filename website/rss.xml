@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-09</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=8</link>
+      <pubDate>Fri, 08 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=8</guid>
+      <description><![CDATA["...He hated the very idea of the world being divided into the shaved and
+the shavers. Or those who wore the shiny boots and those who cleaned the
+mud off them. Every time he saw Willikins the butler fold his, Vimes's,
+clothes, he suppressed a terrible urge to kick the butler's shiny backside
+as an affront to the dignity of man."<br><br> - Terry Pratchett, Feet of Clay]]></description>
+    </item>
+    <item>
       <title>2015-05-08</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=7</link>
       <pubDate>Thu, 07 May 2015 22:00:00 UT</pubDate>
@@ -35,13 +46,6 @@ That's why they're called revolutions. People die, and nothing changes."<br><br>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=4</guid>
       <description><![CDATA["Madame Tracy had even removed most of the Major Arcana from her Tarot card
 pack, because their appearance tended to upset people."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>2015-05-04</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=3</link>
-      <pubDate>Sun, 03 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=3</guid>
-      <description><![CDATA["He's going to go totally Librarian-poo."<br><br>Gaspode about Vimes - Terry Pratchett, The Truth]]></description>
     </item>
   </channel>
 </rss>
