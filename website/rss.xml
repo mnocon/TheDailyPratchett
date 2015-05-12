@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-12</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=11</link>
+      <pubDate>Mon, 11 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=11</guid>
+      <description><![CDATA["Every procedure for getting a cat to take a pill works fine -- once.
+Like the Borg, they learn..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2015-05-11</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=10</link>
       <pubDate>Sun, 10 May 2015 22:00:00 UT</pubDate>
@@ -41,14 +49,6 @@ as an affront to the dignity of man."<br><br> - Terry Pratchett, Feet of Clay]]>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=7</guid>
       <description><![CDATA["Carrot was two metres tall but he'd been brought up as a dwarf, and then
 further up as a human."<br><br> - Terry Pratchett, Men at Arms]]></description>
-    </item>
-    <item>
-      <title>2015-05-07</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=6</link>
-      <pubDate>Wed, 06 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=6</guid>
-      <description><![CDATA["Don't put your trust in revolutions. They always come around again.
-That's why they're called revolutions. People die, and nothing changes."<br><br> - Terry Pratchett, Night Watch]]></description>
     </item>
   </channel>
 </rss>
