@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-17</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=16</link>
+      <pubDate>Sat, 16 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=16</guid>
+      <description><![CDATA["I think that sick people in Ankh-Morpork generally go to a vet.  It's
+generally a better bet. There's more pressure on a vet to get it right.
+People say "it was god's will" when granny dies, but they get *angry* when
+they lose a cow."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2015-05-16</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=15</link>
       <pubDate>Fri, 15 May 2015 22:00:00 UT</pubDate>
@@ -35,14 +45,6 @@ the 57th strangest. [footnote: he had a tidy mind]"<br><br> - Terry Pratchett, M
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=12</guid>
       <description><![CDATA["The chieftain had been turned into a pumpkin although, in accordance with
 the rules of universal humour, he still had his hat on."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>2015-05-12</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=11</link>
-      <pubDate>Mon, 11 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=11</guid>
-      <description><![CDATA["Every procedure for getting a cat to take a pill works fine -- once.
-Like the Borg, they learn..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
