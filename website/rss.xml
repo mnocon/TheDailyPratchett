@@ -5,6 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-24</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=23</link>
+      <pubDate>Sat, 23 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=23</guid>
+      <description><![CDATA["- "'S called the Vieux River."
+- "Yes?"
+- "Know what that means?"
+- "No."
+- "The Old (Masculine) River," said Nanny.
+- "Yes?"
+- "Words have sex in foreign parts," said Nanny hopefully."<br><br> - Terry Pratchett, Witches Abroad]]></description>
+    </item>
+    <item>
       <title>2015-05-23</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=22</link>
       <pubDate>Fri, 22 May 2015 22:00:00 UT</pubDate>
@@ -36,14 +49,6 @@ there's evidence of any thinking going on inside it."<br><br> - Terry Pratchett,
       <pubDate>Tue, 19 May 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=19</guid>
       <description><![CDATA["What duck?"<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>2015-05-19</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=18</link>
-      <pubDate>Mon, 18 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=18</guid>
-      <description><![CDATA["When You're Up to Your Ass in Alligators, Today Is the First Day of the
-Rest of Your Life."<br><br>Management slogan, Ridcully-style - Terry Pratchett, The Last Continent]]></description>
     </item>
   </channel>
 </rss>
