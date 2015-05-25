@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-25</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=24</link>
+      <pubDate>Sun, 24 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=24</guid>
+      <description><![CDATA[""He's a man of few words, and he doesn't know what either of them mean,"
+people said, but not when he was within hearing."<br><br> - Terry Pratchett, The Carpet People]]></description>
+    </item>
+    <item>
       <title>2015-05-24</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=23</link>
       <pubDate>Sat, 23 May 2015 22:00:00 UT</pubDate>
@@ -42,13 +50,6 @@ there's evidence of any thinking going on inside it."<br><br> - Terry Pratchett,
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=20</guid>
       <description><![CDATA["Remember, A Dragon is For Life, Not Just for Hogswatchnight"<br><br>Motto of The Sunshine Home for Sick Dragons in Morphic Street,
            Please Leave Donations of Coal by Side Door. - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>2015-05-20</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=19</link>
-      <pubDate>Tue, 19 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=19</guid>
-      <description><![CDATA["What duck?"<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
   </channel>
 </rss>
