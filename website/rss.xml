@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-27</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=26</link>
+      <pubDate>Tue, 26 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=26</guid>
+      <description><![CDATA["I always call it 'Tour Flu', because two or three weeks in hot bookshops
+with hundreds of people usually produces an ailment of some kind. Going on
+tour is like a box of rare diseases -- you never know what you're going to
+get."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2015-05-26</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=25</link>
       <pubDate>Mon, 25 May 2015 22:00:00 UT</pubDate>
@@ -42,14 +52,6 @@ people said, but not when he was within hearing."<br><br> - Terry Pratchett, The
 but, by the curious alchemy that tends to apply in these sensitive issues,
 this quickly became a plaque, then a note on the Roll of Honour, and
 finally a motion of censure for being improperly dressed."<br><br>Unseen University politics at work - Terry Pratchett, Eric]]></description>
-    </item>
-    <item>
-      <title>2015-05-22</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=21</link>
-      <pubDate>Thu, 21 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=21</guid>
-      <description><![CDATA["I'll be more enthusiastic about encouraging thinking outside the box when
-there's evidence of any thinking going on inside it."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
