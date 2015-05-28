@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-05-28</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=27</link>
+      <pubDate>Wed, 27 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=27</guid>
+      <description><![CDATA["Bishops move diagonally. That's why they often turn up where the kings don't
+expect them to be."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>2015-05-27</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=26</link>
       <pubDate>Tue, 26 May 2015 22:00:00 UT</pubDate>
@@ -42,16 +50,6 @@ people said, but not when he was within hearing."<br><br> - Terry Pratchett, The
 - "The Old (Masculine) River," said Nanny.
 - "Yes?"
 - "Words have sex in foreign parts," said Nanny hopefully."<br><br> - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>2015-05-23</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=22</link>
-      <pubDate>Fri, 22 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=22</guid>
-      <description><![CDATA["There had been some desultory talk about putting up a statue to Rincewind
-but, by the curious alchemy that tends to apply in these sensitive issues,
-this quickly became a plaque, then a note on the Roll of Honour, and
-finally a motion of censure for being improperly dressed."<br><br>Unseen University politics at work - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
