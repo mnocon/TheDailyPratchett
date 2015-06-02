@@ -5,6 +5,21 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-02</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=32</link>
+      <pubDate>Mon, 01 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=32</guid>
+      <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
+      <title>2015-06-01</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=31</link>
+      <pubDate>Sun, 31 May 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=31</guid>
+      <description><![CDATA["There was a new library in the Civic Centre. It was so new it didn't even
+have librarians. It had Assistant Information Officers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
+    </item>
+    <item>
       <title>2015-05-31</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=30</link>
       <pubDate>Sat, 30 May 2015 22:00:00 UT</pubDate>
@@ -29,24 +44,6 @@ a bottle of chili sauce."<br><br> - Terry Pratchett, alt.fan.pratchett]]></descr
       <pubDate>Thu, 28 May 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=28</guid>
       <description><![CDATA["*Veni, vici*...Vetinari."<br><br> - Terry Pratchett, Jingo]]></description>
-    </item>
-    <item>
-      <title>2015-05-28</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=27</link>
-      <pubDate>Wed, 27 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=27</guid>
-      <description><![CDATA["Bishops move diagonally. That's why they often turn up where the kings don't
-expect them to be."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>2015-05-27</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=26</link>
-      <pubDate>Tue, 26 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=26</guid>
-      <description><![CDATA["I always call it 'Tour Flu', because two or three weeks in hot bookshops
-with hundreds of people usually produces an ailment of some kind. Going on
-tour is like a box of rare diseases -- you never know what you're going to
-get."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
