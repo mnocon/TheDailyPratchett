@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-06</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=36</link>
+      <pubDate>Fri, 05 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=36</guid>
+      <description><![CDATA[""Why do you bother with him? He's had thousands of people killed!"
+"Yes, but perhaps he thought that you wanted it.""<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>2015-06-05</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=35</link>
       <pubDate>Thu, 04 Jun 2015 22:00:00 UT</pubDate>
@@ -40,14 +48,6 @@ say 'yes'."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
       <pubDate>Mon, 01 Jun 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=32</guid>
       <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>2015-06-01</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=31</link>
-      <pubDate>Sun, 31 May 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=31</guid>
-      <description><![CDATA["There was a new library in the Civic Centre. It was so new it didn't even
-have librarians. It had Assistant Information Officers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
     </item>
   </channel>
 </rss>
