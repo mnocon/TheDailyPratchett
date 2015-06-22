@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-22</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=52</link>
+      <pubDate>Sun, 21 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=52</guid>
+      <description><![CDATA["DROP THE SCYTHE, AND TURN AROUND SLOWLY."<br><br>Dirty Death - Terry Pratchett, Reaper Man]]></description>
+    </item>
+    <item>
       <title>2015-06-21</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=51</link>
       <pubDate>Sat, 20 Jun 2015 22:00:00 UT</pubDate>
@@ -38,14 +45,6 @@ missionaries on sight."<br><br> - Terry Pratchett, Eric]]></description>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=48</guid>
       <description><![CDATA["Mort isn't fashionable UK movie material -- there's no parts in it for Hugh
 or Emma, it's not set it Sheffield, and no one shoves drugs up their bum..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>2015-06-17</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=47</link>
-      <pubDate>Tue, 16 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=47</guid>
-      <description><![CDATA[""I daresay," said Granny, pushing the Fool aside and stepping over a
-writhing taproot. "If anyone locked *me* in a dungeon, there'd be screams.""<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
   </channel>
 </rss>
