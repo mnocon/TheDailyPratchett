@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-24</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=54</link>
+      <pubDate>Tue, 23 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=54</guid>
+      <description><![CDATA["Nac mac Feegle wha hae!"<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
+    </item>
+    <item>
       <title>2015-06-23</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=53</link>
       <pubDate>Mon, 22 Jun 2015 22:00:00 UT</pubDate>
@@ -40,13 +47,6 @@ the dead, and so people only go to hell if that's where they believe, in
 their deepest heart, that they deserve to go. Which they won't do if they
 don't know about it. This explains why it is so important to shoot
 missionaries on sight."<br><br> - Terry Pratchett, Eric]]></description>
-    </item>
-    <item>
-      <title>2015-06-19</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=49</link>
-      <pubDate>Thu, 18 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=49</guid>
-      <description><![CDATA["Crowley was in Hell's bad books. Not that Hell has any other kind."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
