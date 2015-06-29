@@ -5,6 +5,39 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-29</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=59</link>
+      <pubDate>Sun, 28 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=59</guid>
+      <description><![CDATA["It's a small step for a man, but a giant leap for nomekind."<br><br> - Terry Pratchett, Truckers]]></description>
+    </item>
+    <item>
+      <title>2015-06-28</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=58</link>
+      <pubDate>Sat, 27 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=58</guid>
+      <description><![CDATA["In fact, no gods anywhere play chess. They prefer simple, vicious games,
+where you Do Not Achieve Transcendence but Go Straight to Oblivion; a key
+to the understanding of all religion is that a god's idea of amusement is
+Snakes and Ladders with greased rungs."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
+    </item>
+    <item>
+      <title>2015-06-27</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=57</link>
+      <pubDate>Fri, 26 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=57</guid>
+      <description><![CDATA[""Are you a physicist?"
+"Me? I don't know anything about science!"
+"Marvellous! Ideal qualification!""<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
+    </item>
+    <item>
+      <title>2015-06-26</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=56</link>
+      <pubDate>Thu, 25 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=56</guid>
+      <description><![CDATA["Dickens, as you know, never got round to starting his home page."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2015-06-25</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=55</link>
       <pubDate>Wed, 24 Jun 2015 22:00:00 UT</pubDate>
@@ -12,39 +45,6 @@
       <description><![CDATA["She moved like someone who had grown used to her body and, in general,
 looked like what Vimes had heard described as "a woman of a certain age."
 He'd never been quite certain what age that was."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
-    </item>
-    <item>
-      <title>2015-06-24</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=54</link>
-      <pubDate>Tue, 23 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=54</guid>
-      <description><![CDATA["Nac mac Feegle wha hae!"<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>2015-06-23</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=53</link>
-      <pubDate>Mon, 22 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=53</guid>
-      <description><![CDATA["Bognor has always meant to me the quintessential English seaside experience
-(before all this global warming stuff): driving in the rain to get there,
-walking around in the rain looking for something to do when you're there,
-and driving home in the rain again..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>2015-06-22</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=52</link>
-      <pubDate>Sun, 21 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=52</guid>
-      <description><![CDATA["DROP THE SCYTHE, AND TURN AROUND SLOWLY."<br><br>Dirty Death - Terry Pratchett, Reaper Man]]></description>
-    </item>
-    <item>
-      <title>2015-06-21</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=51</link>
-      <pubDate>Sat, 20 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=51</guid>
-      <description><![CDATA["Eight years involved with the nuclear industry have taught me that when
-nothing can possible go wrong and every avenue has been covered, *then* is
-the time to buy a house on the next continent."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
