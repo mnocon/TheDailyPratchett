@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-06-30</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=60</link>
+      <pubDate>Mon, 29 Jun 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=60</guid>
+      <description><![CDATA["- "What're quantum mechanics?"
+- "I don't know. People who repair quantums, I suppose.""<br><br> - Terry Pratchett, Eric]]></description>
+    </item>
+    <item>
       <title>2015-06-29</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=59</link>
       <pubDate>Sun, 28 Jun 2015 22:00:00 UT</pubDate>
@@ -36,15 +44,6 @@ Snakes and Ladders with greased rungs."<br><br> - Terry Pratchett, Wyrd Sisters]
       <pubDate>Thu, 25 Jun 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=56</guid>
       <description><![CDATA["Dickens, as you know, never got round to starting his home page."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>2015-06-25</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=55</link>
-      <pubDate>Wed, 24 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=55</guid>
-      <description><![CDATA["She moved like someone who had grown used to her body and, in general,
-looked like what Vimes had heard described as "a woman of a certain age."
-He'd never been quite certain what age that was."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
     </item>
   </channel>
 </rss>
