@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-07-05</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=65</link>
+      <pubDate>Sat, 04 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=65</guid>
+      <description><![CDATA["R. P. Tyler was not, however, satisfied simply with being vouchsafed the
+difference between right and wrong. He felt it his bounden duty to tell the world."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>2015-07-04</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=64</link>
       <pubDate>Fri, 03 Jul 2015 22:00:00 UT</pubDate>
@@ -38,14 +46,6 @@ housework in other people."<br><br> - Terry Pratchett, Lords and Ladies]]></desc
       <description><![CDATA["The druid stiffened. "*Nice?*" he said. "A triumph of the silicon chunk, a
 miracle of modern masonic technology -- *nice*?" "Oh, yes," said Twoflower,
 to whom sarcasm was merely a seven letter word beginning with S."<br><br> - Terry Pratchett, The Light Fantastic]]></description>
-    </item>
-    <item>
-      <title>2015-06-30</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=60</link>
-      <pubDate>Mon, 29 Jun 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=60</guid>
-      <description><![CDATA["- "What're quantum mechanics?"
-- "I don't know. People who repair quantums, I suppose.""<br><br> - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
