@@ -5,6 +5,23 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-07-16</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=76</link>
+      <pubDate>Wed, 15 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=76</guid>
+      <description><![CDATA["Of course he was all in favour of Armageddon in *general* terms."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
+      <title>2015-07-15</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=75</link>
+      <pubDate>Tue, 14 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=75</guid>
+      <description><![CDATA["She'd become a governess. It was one of the few jobs a known lady could do.
+And she'd taken to it well. She'd sworn that if she did indeed ever find
+herself dancing on rooftops with chimney sweeps she'd beat herself to death
+with her own umbrella."<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>2015-07-14</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=74</link>
       <pubDate>Mon, 13 Jul 2015 22:00:00 UT</pubDate>
@@ -27,25 +44,6 @@ a skin like silk and a chest fit for a herd of cows."<br><br> - Terry Pratchett,
       <pubDate>Sat, 11 Jul 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=72</guid>
       <description><![CDATA["There was a roar like the scream of a camel who has just seen two bricks."<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>2015-07-11</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=71</link>
-      <pubDate>Fri, 10 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=71</guid>
-      <description><![CDATA["Rincewind had always been happy to think of himself as a racist. The One
-Hundred Meters, the Mile, the Marathon -- he'd run them all."<br><br> - Terry Pratchett, The Last Continent]]></description>
-    </item>
-    <item>
-      <title>2015-07-10</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=70</link>
-      <pubDate>Thu, 09 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=70</guid>
-      <description><![CDATA["He had the look of a lawn mower just after the grass had organised a
-workers' collective. There was a definite suggestion that, deep inside, he
-knew this was not really happening. It could not be happening because this
-sort of thing did not happen. Any contradictory evidence could be safely
-ignored."<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
