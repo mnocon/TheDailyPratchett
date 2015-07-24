@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-07-24</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=84</link>
+      <pubDate>Thu, 23 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=84</guid>
+      <description><![CDATA["When a man is tired of Ankh-Morpork, he is tired of ankle-deep slurry."<br><br> - Terry Pratchett, Mort]]></description>
+    </item>
+    <item>
       <title>2015-07-23</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=83</link>
       <pubDate>Wed, 22 Jul 2015 22:00:00 UT</pubDate>
@@ -40,14 +47,6 @@ in that supercilious, accusatory way of yours.""<br><br>The BBC interviews a nuc
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=80</guid>
       <description><![CDATA["And before anyone complains about the grammar, I'm so jetlagged that my
 hands aren't even in the same time zone..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>2015-07-19</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=79</link>
-      <pubDate>Sat, 18 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=79</guid>
-      <description><![CDATA["Rincewind could scream for mercy in nineteen languages, and just scream in
-another forty-four."<br><br> - Terry Pratchett, Interesting Times]]></description>
     </item>
   </channel>
 </rss>
