@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-07-25</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=85</link>
+      <pubDate>Fri, 24 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=85</guid>
+      <description><![CDATA["I'm getting a lot of mail and email about FoC (I particularly liked the
+postcard which read 'We were *sure* it was the wallpaper, you
+bastard!!!!!'). I'm glad to say that most Baconians hared off after
+poissons rouge."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2015-07-24</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=84</link>
       <pubDate>Thu, 23 Jul 2015 22:00:00 UT</pubDate>
@@ -39,14 +49,6 @@ in that supercilious, accusatory way of yours.""<br><br>The BBC interviews a nuc
       <pubDate>Mon, 20 Jul 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=81</guid>
       <description><![CDATA["Up until now I'd always though RSI meant 'I hate my damn job'."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>2015-07-20</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=80</link>
-      <pubDate>Sun, 19 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=80</guid>
-      <description><![CDATA["And before anyone complains about the grammar, I'm so jetlagged that my
-hands aren't even in the same time zone..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
