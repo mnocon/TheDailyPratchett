@@ -5,6 +5,38 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-02</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=93</link>
+      <pubDate>Sat, 01 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=93</guid>
+      <description><![CDATA["SNH, SNH, SNH."<br><br> - Terry Pratchett, Soul Music]]></description>
+    </item>
+    <item>
+      <title>2015-08-01</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=92</link>
+      <pubDate>Fri, 31 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=92</guid>
+      <description><![CDATA["There was no such thing as a dwarfish female pronoun or, once the children
+were on solids, any such thing as women's work."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
+    </item>
+    <item>
+      <title>2015-07-31</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=91</link>
+      <pubDate>Thu, 30 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=91</guid>
+      <description><![CDATA["You can think and you can fight, but the world's always movin', and if
+you wanna stay ahead you gotta dance."<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
+    </item>
+    <item>
+      <title>2015-07-30</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=90</link>
+      <pubDate>Wed, 29 Jul 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=90</guid>
+      <description><![CDATA["Of course, Ankh-Morpork's citizens had always claimed that the river water
+was incredibly pure. Any water that had passed through so many kidneys,
+they reasoned, had to be very pure indeed."<br><br> - Terry Pratchett, Sourcery]]></description>
+    </item>
+    <item>
       <title>2015-07-29</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=89</link>
       <pubDate>Tue, 28 Jul 2015 22:00:00 UT</pubDate>
@@ -12,38 +44,6 @@
       <description><![CDATA["Perdita thought that not obeying rules was somehow *cool*. Agnes thought
 that rules like "Don't fall into this huge pit of spikes" were there for a
 purpose."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>2015-07-28</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=88</link>
-      <pubDate>Mon, 27 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=88</guid>
-      <description><![CDATA["Are you a philosopher? Where's your sponge?"<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>2015-07-27</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=87</link>
-      <pubDate>Sun, 26 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=87</guid>
-      <description><![CDATA["Sometimes it's better to light a flamethrower than curse the darkness."<br><br> - Terry Pratchett, Men at Arms]]></description>
-    </item>
-    <item>
-      <title>2015-07-26</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=86</link>
-      <pubDate>Sat, 25 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=86</guid>
-      <description><![CDATA["But you read a lot of books, I'm thinking. Hard to have faith, ain't it,
-when you've read too many books?"<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>2015-07-25</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=85</link>
-      <pubDate>Fri, 24 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=85</guid>
-      <description><![CDATA["I'm getting a lot of mail and email about FoC (I particularly liked the
-postcard which read 'We were *sure* it was the wallpaper, you
-bastard!!!!!'). I'm glad to say that most Baconians hared off after
-poissons rouge."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
