@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-04</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=95</link>
+      <pubDate>Mon, 03 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=95</guid>
+      <description><![CDATA["Bingeley bingeley beep!"<br><br> - Terry Pratchett, Feet of Clay]]></description>
+    </item>
+    <item>
       <title>2015-08-03</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=94</link>
       <pubDate>Sun, 02 Aug 2015 22:00:00 UT</pubDate>
@@ -33,15 +40,6 @@ were on solids, any such thing as women's work."<br><br> - Terry Pratchett, The 
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=91</guid>
       <description><![CDATA["You can think and you can fight, but the world's always movin', and if
 you wanna stay ahead you gotta dance."<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
-    </item>
-    <item>
-      <title>2015-07-30</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=90</link>
-      <pubDate>Wed, 29 Jul 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=90</guid>
-      <description><![CDATA["Of course, Ankh-Morpork's citizens had always claimed that the river water
-was incredibly pure. Any water that had passed through so many kidneys,
-they reasoned, had to be very pure indeed."<br><br> - Terry Pratchett, Sourcery]]></description>
     </item>
   </channel>
 </rss>
