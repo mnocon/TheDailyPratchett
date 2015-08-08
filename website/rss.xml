@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-08</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=99</link>
+      <pubDate>Fri, 07 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=99</guid>
+      <description><![CDATA["One minute I'm just another rabbit and happy about it, next minute
+*whazaam*, I'm thinking. That's a major drawback if you're looking for
+happiness as a rabbit, let me tell you. You want grass and sex, not
+thoughts like 'What's it all about, when you get right down to it?'"<br><br> - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>2015-08-07</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=98</link>
       <pubDate>Thu, 06 Aug 2015 22:00:00 UT</pubDate>
@@ -41,13 +51,6 @@ heart."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
       <pubDate>Mon, 03 Aug 2015 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=95</guid>
       <description><![CDATA["Bingeley bingeley beep!"<br><br> - Terry Pratchett, Feet of Clay]]></description>
-    </item>
-    <item>
-      <title>2015-08-03</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=94</link>
-      <pubDate>Sun, 02 Aug 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=94</guid>
-      <description><![CDATA["One o'clock pee em! Hello, Insert Name Here!"<br><br>The Dis-organizer - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
