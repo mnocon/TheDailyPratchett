@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-10</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=101</link>
+      <pubDate>Sun, 09 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=101</guid>
+      <description><![CDATA["A man threw himself through the window, a knife between his teeth, a
+Kalashnikov automatic rifle in one hand, a grenade in the other. "I glaim
+gis oteg in der gaing og der --" he paused. He tooke the knife out of his
+teeth and began again."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>2015-08-09</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=100</link>
       <pubDate>Sat, 08 Aug 2015 22:00:00 UT</pubDate>
@@ -38,19 +48,6 @@ thoughts like 'What's it all about, when you get right down to it?'"<br><br> - T
       <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=97</guid>
       <description><![CDATA["- "Remember -- that which does not kill us can only make us stronger."
 - "And that which *does* kill us leaves us *dead*!""<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>2015-08-05</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=96</link>
-      <pubDate>Tue, 04 Aug 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=96</guid>
-      <description><![CDATA["He was trying to find some help in the ancient military journals of General
-Tacticus, whose intelligent campaigning had been so successful that he'd
-lent his very name to the detailed prosecution of martial endeavour, and
-had actually found a section headed What to Do If One Army Occupies a
-Well-fortified and Superior Ground and the Other Does Not, but since the
-first sentence read "Endeavour to be the one inside" he'd rather lost
-heart."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
   </channel>
 </rss>
