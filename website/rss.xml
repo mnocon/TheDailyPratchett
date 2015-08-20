@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-20</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=111</link>
+      <pubDate>Wed, 19 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=111</guid>
+      <description><![CDATA["If broomsticks were cars, this one would be a split-window Morris Minor."<br><br> - Terry Pratchett, Equal Rites]]></description>
+    </item>
+    <item>
       <title>2015-08-19</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=110</link>
       <pubDate>Tue, 18 Aug 2015 22:00:00 UT</pubDate>
@@ -39,17 +46,6 @@ grandmothers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
       <description><![CDATA["The only time Crowley had bought petrol was once in 1967, to get the free
 James Bond bullet-hole-in-the-windscreen transfers, which he rather fancied
 at the time."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>2015-08-15</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=106</link>
-      <pubDate>Fri, 14 Aug 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=106</guid>
-      <description><![CDATA[""While I'm still confused and uncertain, it's on a much higher plane, d'you
-see, and at least I know I'm bewildered about the really fundamental and
-important facts of the universe."
-Treatle nodded. "I hadn't looked at it like that," he said, "But you're
-absolutely right. He's really pushed back the boundaries of ignorance.""<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
     </item>
   </channel>
 </rss>
