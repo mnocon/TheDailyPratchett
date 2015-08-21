@@ -5,6 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2015-08-22</title>
+      <link>http://rolieolie.github.io/TheDailyPratchett/?id=113</link>
+      <pubDate>Fri, 21 Aug 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=113</guid>
+      <description><![CDATA["It wasn't a dark and stormy night.
+It should have been, but there's the weather for you. For every mad
+scientist who's had a convenient thunderstorm just on the night his Great
+Work is complete and lying on the slab, there have been dozens who've sat
+around aimlessly under the peaceful stars while Igor clocks up the
+overtime."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>2015-08-21</title>
       <link>http://rolieolie.github.io/TheDailyPratchett/?id=112</link>
       <pubDate>Thu, 20 Aug 2015 22:00:00 UT</pubDate>
@@ -34,16 +46,6 @@ levels down, where it is still possible to get things done."<br><br> - Terry Pra
       <description><![CDATA["You did something because it had always been done, and the explanation was
 "but we've always done it this way." A million dead people can't have been
 wrong, can they?"<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
-    </item>
-    <item>
-      <title>2015-08-17</title>
-      <link>http://rolieolie.github.io/TheDailyPratchett/?id=108</link>
-      <pubDate>Sun, 16 Aug 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://rolieolie.github.io/TheDailyPratchett/?id=108</guid>
-      <description><![CDATA["Johnny had seen films of American shopping malls. They must have different
-sorts of people in America, he'd thought. They all looked cool, all the
-girls were beautiful, and the place wasn't crowded with little kamikaze
-grandmothers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
     </item>
   </channel>
 </rss>
