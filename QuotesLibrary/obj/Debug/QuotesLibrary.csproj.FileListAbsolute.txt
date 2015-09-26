@@ -1,0 +1,5 @@
+M:\Projekty\TheDailyPratchett\QuotesLibrary\bin\Debug\QuotesLibrary.dll
+M:\Projekty\TheDailyPratchett\QuotesLibrary\bin\Debug\QuotesLibrary.pdb
+M:\Projekty\TheDailyPratchett\QuotesLibrary\obj\Debug\QuotesLibrary.csprojResolveAssemblyReference.cache
+M:\Projekty\TheDailyPratchett\QuotesLibrary\obj\Debug\QuotesLibrary.dll
+M:\Projekty\TheDailyPratchett\QuotesLibrary\obj\Debug\QuotesLibrary.pdb

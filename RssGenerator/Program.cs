@@ -50,7 +50,7 @@ namespace RssGenerator
                 startDate= new DateTime(2015, 5, 1);
             }
 
-            rssUrl = args.Length > 6 ? args[6] : "http://rolieolie.github.io/TheDailyPratchett/website/rss.xml";
+            rssUrl = args.Length > 6 ? args[6] : "http://mnocon.github.io/TheDailyPratchett/website/rss.xml";
             numberOfItems = args.Length > 7 ? Int32.Parse(args[7]) : 1;
 
             if (!QuoteFactory.CreateQuotes(filename))

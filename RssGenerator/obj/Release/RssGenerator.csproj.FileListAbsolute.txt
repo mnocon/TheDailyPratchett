@@ -1,0 +1,9 @@
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\RssGenerator.exe.config
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\RssGenerator.exe
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\RssGenerator.pdb
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\QuotesLibrary.dll
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\Newtonsoft.Json.dll
+M:\Projekty\TheDailyPratchett\RssGenerator\bin\Release\QuotesLibrary.pdb
+M:\Projekty\TheDailyPratchett\RssGenerator\obj\Release\RssGenerator.csprojResolveAssemblyReference.cache
+M:\Projekty\TheDailyPratchett\RssGenerator\obj\Release\RssGenerator.exe
+M:\Projekty\TheDailyPratchett\RssGenerator\obj\Release\RssGenerator.pdb
