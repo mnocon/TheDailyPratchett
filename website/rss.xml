@@ -3,7 +3,7 @@
     <title>The Daily Pratchett</title>
     <link>http://mnocon.github.io/TheDailyPratchett/</link>
     <description>A quote from Sir Terry Pratchett every day.</description>
-    <atom:link href="http://rolieolie.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>26-Sep-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=148</link>
