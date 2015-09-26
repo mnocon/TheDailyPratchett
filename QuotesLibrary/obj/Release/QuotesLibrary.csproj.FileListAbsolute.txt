@@ -1,4 +1,0 @@
-M:\Projekty\TheDailyPratchett\QuotesLibrary\bin\Release\QuotesLibrary.dll
-M:\Projekty\TheDailyPratchett\QuotesLibrary\bin\Release\QuotesLibrary.pdb
-M:\Projekty\TheDailyPratchett\QuotesLibrary\obj\Release\QuotesLibrary.dll
-M:\Projekty\TheDailyPratchett\QuotesLibrary\obj\Release\QuotesLibrary.pdb
