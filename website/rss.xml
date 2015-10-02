@@ -5,6 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>02-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=154</link>
+      <pubDate>Thu, 01 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=154</guid>
+      <description><![CDATA["Sam Vimes could parallel process. Most husbands can. They learn to follow
+their own line of thought while at the same time listening to what their
+wives say. And the listening is important, because at any time they could
+be challenged and must be ready to quote the last sentence in full. A vital
+additional skill is being able to scan the dialogue for telltale phrases
+such as "and they can deliver it tomorrow" or "so I've invited them for
+dinner?" or "they can do it in blue, really quite cheaply.""<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
+    </item>
+    <item>
       <title>01-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=153</link>
       <pubDate>Wed, 30 Sep 2015 22:00:00 UT</pubDate>
@@ -40,14 +53,6 @@ skilled hands it is fearsome."<br><br> - Terry Pratchett, Mort]]></description>
 much good at it to start with. He'd always respected Sir Winston Churchill,
 and patting small versions of him on the bottom had always seemed
 ungracious."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>27-Sep-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=149</link>
-      <pubDate>Sat, 26 Sep 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=149</guid>
-      <description><![CDATA["The duke had a mind that ticked like a clock and, like a clock, it
-regularly went cuckoo."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
   </channel>
 </rss>
