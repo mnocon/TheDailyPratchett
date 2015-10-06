@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>06-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=158</link>
+      <pubDate>Mon, 05 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=158</guid>
+      <description><![CDATA["Anathema didn't only believe in ley-lines, but in seals, whales, bicycles,
+rainforests, whole grain in loves, recycled paper, white South Africans out
+of South Africa, and Americans out of practically everywhere down to and
+including Long Island."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>05-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=157</link>
       <pubDate>Sun, 04 Oct 2015 22:00:00 UT</pubDate>
@@ -41,16 +51,6 @@ be challenged and must be ready to quote the last sentence in full. A vital
 additional skill is being able to scan the dialogue for telltale phrases
 such as "and they can deliver it tomorrow" or "so I've invited them for
 dinner?" or "they can do it in blue, really quite cheaply.""<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
-    </item>
-    <item>
-      <title>01-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=153</link>
-      <pubDate>Wed, 30 Sep 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=153</guid>
-      <description><![CDATA["He had a unique stride: it looked as though his body was being dragged
-forward and his legs had to flail around underneath it, landing wherever
-they could find room. It wasn't so much a walk as a collapse, indefinitely
-postponed."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
   </channel>
 </rss>
