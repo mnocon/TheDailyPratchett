@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=167</link>
+      <pubDate>Wed, 14 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=167</guid>
+      <description><![CDATA["The thing about iron is that you generally don't have to think fast in
+dealing with it."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>14-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=166</link>
       <pubDate>Tue, 13 Oct 2015 22:00:00 UT</pubDate>
@@ -48,18 +56,6 @@ here that "all men spoke of his prowess" any bard who valued his life would
 add hastily "except for a couple of people in his home village who thought
 he was a liar, and quite a lot of other people who had never really heard
 of him.""<br><br> - Terry Pratchett, The Light Fantastic]]></description>
-    </item>
-    <item>
-      <title>10-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=162</link>
-      <pubDate>Fri, 09 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=162</guid>
-      <description><![CDATA["Well, they asked me in February, and I said it was coming out in November.
-When they asked in March, I said it was coming out in November. In April I
-pointed out that November, in fact, was going to be when the next book came
-out. In May, when asked on many occasions about when Maskerade was coming
-out, I said November. In November, it will be published. The same November
-all the way through, too."<br><br>So Terry, when is 'Maskerade' coming out, then? - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
