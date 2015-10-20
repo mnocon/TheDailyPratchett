@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=172</link>
+      <pubDate>Mon, 19 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=172</guid>
+      <description><![CDATA["If Not You, Who Else?"<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
+    </item>
+    <item>
       <title>19-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=171</link>
       <pubDate>Sun, 18 Oct 2015 22:00:00 UT</pubDate>
@@ -44,14 +51,6 @@ by intelligences greater than Man's, or at least much nastier; that their
 affairs were being scrutinised and studied as a man with a three-day
 appetite might study the All-You-Can-Gobble-For-A-Dollar menu outside
 Harga's House of Ribs..."<br><br> - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>15-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=167</link>
-      <pubDate>Wed, 14 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=167</guid>
-      <description><![CDATA["The thing about iron is that you generally don't have to think fast in
-dealing with it."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
