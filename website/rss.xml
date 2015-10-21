@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>21-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=173</link>
+      <pubDate>Tue, 20 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=173</guid>
+      <description><![CDATA["- "Do you know, humans think the world was made by a sort of big human?"
+- "Get away?"
+- "It took a week."
+- "I expect it had some help, then,' said Dorcas."<br><br>The Nomes discuss religion - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>20-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=172</link>
       <pubDate>Mon, 19 Oct 2015 22:00:00 UT</pubDate>
@@ -39,18 +49,6 @@ mountain community hundreds of miles away who found himself magically
 dragged to the kingdom and relentlessly duplicated. Some two thousand Glods
 later the spell wore off. These days, the people of Al-Yabi are renowned
 for being remarkably short and bad-tempered."<br><br> - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>16-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=168</link>
-      <pubDate>Thu, 15 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=168</guid>
-      <description><![CDATA["No-one would have believed, in the final years of the Century of the
-Fruitbat, that Discworld affairs were being watched keenly and impatiently
-by intelligences greater than Man's, or at least much nastier; that their
-affairs were being scrutinised and studied as a man with a three-day
-appetite might study the All-You-Can-Gobble-For-A-Dollar menu outside
-Harga's House of Ribs..."<br><br> - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
