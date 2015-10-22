@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>22-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=174</link>
+      <pubDate>Wed, 21 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=174</guid>
+      <description><![CDATA["From the back, Vetinari looked like a carnivorous flamingo."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>21-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=173</link>
       <pubDate>Tue, 20 Oct 2015 22:00:00 UT</pubDate>
@@ -36,19 +43,6 @@ future and found it covered with armour plating."<br><br> - Terry Pratchett, Sma
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=170</guid>
       <description><![CDATA[""Scum," said Crash, his voice low with resigned menace, "you've bought a
 leopard, haven't you?""<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>17-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=169</link>
-      <pubDate>Fri, 16 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=169</guid>
-      <description><![CDATA["Bad spelling can be lethal. For example, the greedy Seriph of Al-Yabi was
-cursed by a badly-educated deity and for some days everything he touched
-turned to Glod, which happened to be the name of a small dwarf from a
-mountain community hundreds of miles away who found himself magically
-dragged to the kingdom and relentlessly duplicated. Some two thousand Glods
-later the spell wore off. These days, the people of Al-Yabi are renowned
-for being remarkably short and bad-tempered."<br><br> - Terry Pratchett, Witches Abroad]]></description>
     </item>
   </channel>
 </rss>
