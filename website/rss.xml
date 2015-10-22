@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=175</link>
+      <pubDate>Thu, 22 Oct 2015 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=175</guid>
+      <description><![CDATA["I'm mean and turf and I'm mean and turf and I'm mean
+      and turf and I'm mean and turf,
+    And me an' my friends can walk towards you with our
+      hats on backwards in a menacing way,
+    Yo!"<br><br> - Terry Pratchett, Soul Music]]></description>
+    </item>
+    <item>
       <title>22-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=174</link>
       <pubDate>Wed, 21 Oct 2015 22:00:00 UT</pubDate>
@@ -35,14 +46,6 @@
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=171</guid>
       <description><![CDATA["Simony's eyes gleamed with the gleam of a man who had seen the
 future and found it covered with armour plating."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>18-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=170</link>
-      <pubDate>Sat, 17 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=170</guid>
-      <description><![CDATA[""Scum," said Crash, his voice low with resigned menace, "you've bought a
-leopard, haven't you?""<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
   </channel>
 </rss>
