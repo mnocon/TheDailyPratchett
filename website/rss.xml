@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>27-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=179</link>
+      <pubDate>Mon, 26 Oct 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=179</guid>
+      <description><![CDATA["All dwarfs are by nature dutiful, serious, literate, obedient and
+thoughtful people whose only minor failing is a tendency, after one drink,
+to rush at enemies screaming "Arrrrrrgh!" and axing their legs off at the
+knee."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
+    </item>
+    <item>
       <title>26-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=178</link>
       <pubDate>Sun, 25 Oct 2015 23:00:00 UT</pubDate>
@@ -38,13 +48,6 @@ to have run into a food mixer that is biting your ear off."<br><br> - Terry Prat
     And me an' my friends can walk towards you with our
       hats on backwards in a menacing way,
     Yo!"<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>22-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=174</link>
-      <pubDate>Wed, 21 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=174</guid>
-      <description><![CDATA["From the back, Vetinari looked like a carnivorous flamingo."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
   </channel>
 </rss>
