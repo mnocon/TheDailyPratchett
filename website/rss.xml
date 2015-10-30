@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>30-Oct-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=182</link>
+      <pubDate>Thu, 29 Oct 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=182</guid>
+      <description><![CDATA["The Monks of Cool, whose tiny and exclusive monastery is hidden in a really
+cool and laid-back valley in the lower Ramtops, have a passing-out test for a
+novice. He is taken into a room full of all types of clothing and asked: Yo,
+my son, which of these is the most stylish thing to wear? And the correct
+answer is: Hey, whatever I select."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>29-Oct-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=181</link>
       <pubDate>Wed, 28 Oct 2015 23:00:00 UT</pubDate>
@@ -39,13 +50,6 @@ knee."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
 against any decent swordmanship, but on his side was the fact that
 it is almost impossible to develop decent swordmanship when you seem
 to have run into a food mixer that is biting your ear off."<br><br> - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>25-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=177</link>
-      <pubDate>Sat, 24 Oct 2015 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=177</guid>
-      <description><![CDATA["Too many people want to *have written*."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
