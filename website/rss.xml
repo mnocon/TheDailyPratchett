@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>02-Nov-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=185</link>
+      <pubDate>Sun, 01 Nov 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=185</guid>
+      <description><![CDATA["He was aware that a wise man should always respect the folkways of others,
+to use Carrot's happy phrase, but Vimes often had difficulty with this
+idea. For one thing, there were people in the world whose folkways
+consisted of gutting other people like clams and this was not a procedure
+that commanded, in Vimes, any kind of respect at all."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
+    </item>
+    <item>
       <title>01-Nov-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=184</link>
       <pubDate>Sat, 31 Oct 2015 23:00:00 UT</pubDate>
@@ -43,13 +54,6 @@ answer is: Hey, whatever I select."<br><br> - Terry Pratchett, Lords and Ladies]
       <description><![CDATA["In the Beginning
 
 It was a nice day."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>28-Oct-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=180</link>
-      <pubDate>Tue, 27 Oct 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=180</guid>
-      <description><![CDATA["Kneel and deliver!"<br><br>Casanunda, the worlds smallest lover turns highwaydwarf - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
