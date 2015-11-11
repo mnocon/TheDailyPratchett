@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11-Nov-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=194</link>
+      <pubDate>Tue, 10 Nov 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=194</guid>
+      <description><![CDATA["Did any of them kids have some space alien with a face like a friendly
+turd in a bike basket?"<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>10-Nov-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=193</link>
       <pubDate>Mon, 09 Nov 2015 23:00:00 UT</pubDate>
@@ -41,13 +49,6 @@ from under your bed, jus' you don't come complainin' to me,"<br><br>Gaspode the 
       <description><![CDATA["The sergeant put on the poker face which has been handed down from NCO to
 NCO ever since one protoamphibian told another, lower ranking
 protoamphibian to muster a squad of newts and Take That Beach."<br><br> - Terry Pratchett, Eric]]></description>
-    </item>
-    <item>
-      <title>06-Nov-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=189</link>
-      <pubDate>Thu, 05 Nov 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=189</guid>
-      <description><![CDATA["When all else failed, she tried being reasonable."<br><br> - Terry Pratchett, Johnny and the Bomb]]></description>
     </item>
   </channel>
 </rss>
