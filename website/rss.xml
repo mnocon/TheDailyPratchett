@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>17-Nov-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=200</link>
+      <pubDate>Mon, 16 Nov 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=200</guid>
+      <description><![CDATA[""This is a lovely party," said the Bursar to a chair, "I wish I was here.""<br><br>The Bursar is a man under a *lot* of stress - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>16-Nov-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=199</link>
       <pubDate>Sun, 15 Nov 2015 23:00:00 UT</pubDate>
@@ -35,14 +42,6 @@ there was, of course, no suggestion that they applied to her."<br><br> - Terry P
       <description><![CDATA[""'E's fighting in there!" he stuttered, grabbing the captain's arm.
 "All by himself?" said the captain.
 "No, with everyone!" shouted Nobby, hopping from one foot to the other."<br><br>Making Friends and Hitting People - Terry Pratchett, Guards! Guards!]]></description>
-    </item>
-    <item>
-      <title>12-Nov-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=195</link>
-      <pubDate>Wed, 11 Nov 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=195</guid>
-      <description><![CDATA["The thing is that Mr. Dibbler can even sell sausages to people who have
-bought them off him *before*."<br><br>Now *that's* marketing - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
