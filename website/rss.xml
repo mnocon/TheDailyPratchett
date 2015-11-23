@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Nov-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=206</link>
+      <pubDate>Sun, 22 Nov 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=206</guid>
+      <description><![CDATA["Ibid you already know."<br><br>More Discworld philosophers - Terry Pratchett, Pyramids]]></description>
+    </item>
+    <item>
       <title>22-Nov-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=205</link>
       <pubDate>Sat, 21 Nov 2015 23:00:00 UT</pubDate>
@@ -37,14 +44,6 @@ got magic aaargh.""<br><br>Magic armour is not all it's cracked up to be. - Terr
       <pubDate>Wed, 18 Nov 2015 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=202</guid>
       <description><![CDATA["Slab: Jus' say "AarrghaarrghpleeassennononoUGH""<br><br>Detritus' war on drugs - Terry Pratchett, Feet of Clay]]></description>
-    </item>
-    <item>
-      <title>18-Nov-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=201</link>
-      <pubDate>Tue, 17 Nov 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=201</guid>
-      <description><![CDATA["For Magrat, stepping into a man's bedroom was like an explorer stepping on
-to that part of the map marked Here Be Dragons."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
