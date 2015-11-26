@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>26-Nov-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=209</link>
+      <pubDate>Wed, 25 Nov 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=209</guid>
+      <description><![CDATA["Consider the situation. There you are, forehead like a set of balconies,
+worrying about the long-term effects of all this new 'fire' stuff on the
+environment, you're being chased and eaten by most of the planet's large
+animals, and suddenly tiny versions of one of the worst of them wanders
+into the cave and starts to purr."<br><br>Why humans like cats - Terry Pratchett, The Unadulterated Cat]]></description>
+    </item>
+    <item>
       <title>25-Nov-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=208</link>
       <pubDate>Tue, 24 Nov 2015 23:00:00 UT</pubDate>
@@ -35,17 +46,6 @@ the brains of a stunned herring."<br><br>Gaspode the wonder dog on 'Laddie' - Te
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=205</guid>
       <description><![CDATA["I DON'T CARE WHAT IT SAYS, said the tall biker in the helmet, I NEVER LAID
 A FINGER ON HIM."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>21-Nov-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=204</link>
-      <pubDate>Fri, 20 Nov 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=204</guid>
-      <description><![CDATA["Something small and distant broke through the cloud layer, trailing shreds
-of vapour. In the stratospheric calm the sounds of bickering came sharp and
-clear.
-"You said you could fly one of these things!"
-"No I didn't; I just said *you* couldn't!""<br><br>Rincewind and Twoflower attempt broomstick flying - Terry Pratchett, The Light Fantastic]]></description>
     </item>
   </channel>
 </rss>
