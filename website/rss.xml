@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>04-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=217</link>
+      <pubDate>Thu, 03 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=217</guid>
+      <description><![CDATA["Old Tom was the single cracked bronze bell in the University bell tower.
+The clapper dropped out shortly after it was cast, but the bell still
+tolled out some tremendously sonorous silences every hour."<br><br> - Terry Pratchett, Eric]]></description>
+    </item>
+    <item>
       <title>03-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=216</link>
       <pubDate>Wed, 02 Dec 2015 23:00:00 UT</pubDate>
@@ -35,22 +44,6 @@ arrow is being aimed between your eyes."<br><br> - Terry Pratchett, Lords and La
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=213</guid>
       <description><![CDATA["Nac Mac Feegle! The Wee Free Men! Nae king! Nae quin! Nae laird!
 *We willna be fooled again!*"<br><br> - Terry Pratchett, The Wee Free Men]]></description>
-    </item>
-    <item>
-      <title>29-Nov-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=212</link>
-      <pubDate>Sat, 28 Nov 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=212</guid>
-      <description><![CDATA["Along with the standard computer warranty agreement which said that if the
-machine 1) didn't work, 2) didn't do what the expensive advertisement said,
-3) electrocuted the immediate neighbourhood, 4) and in fact failed entirely
-to be inside the expensive box when you opened it, this was expressly,
-absolutely, implicitly and in no event the fault or responsibility of the
-manufacturer, that the purchaser should consider himself lucky to be
-allowed to give his money to the manufacturer, and that any attempt to
-treat what had just been paid for as the purchaser's own property would
-result in the attentions of serious men with menacing briefcases and very
-thin watches."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
