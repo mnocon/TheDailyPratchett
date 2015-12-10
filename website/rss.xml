@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=223</link>
+      <pubDate>Wed, 09 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=223</guid>
+      <description><![CDATA["Nanny could get a statue to cry on her shoulder and say what it really
+thought about pigeons."<br><br> - Terry Pratchett, Maskerade]]></description>
+    </item>
+    <item>
       <title>09-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=222</link>
       <pubDate>Tue, 08 Dec 2015 23:00:00 UT</pubDate>
@@ -35,14 +43,6 @@ donkey."<br><br> - Terry Pratchett, Small Gods]]></description>
       <pubDate>Sat, 05 Dec 2015 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=219</guid>
       <description><![CDATA["I expect I've saved the day, right?"<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>05-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=218</link>
-      <pubDate>Fri, 04 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=218</guid>
-      <description><![CDATA["People came to Ankh-Morpork to seek their fortune. Unfortunately, other
-people sought it too."<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
   </channel>
 </rss>
