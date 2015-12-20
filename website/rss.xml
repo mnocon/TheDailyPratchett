@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=233</link>
+      <pubDate>Sat, 19 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=233</guid>
+      <description><![CDATA["Botswana is also the only country in the world with a colour in its flag
+meant to represent rain (a sort of blue-grey). Not many people know this."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>19-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=232</link>
       <pubDate>Fri, 18 Dec 2015 23:00:00 UT</pubDate>
@@ -35,15 +43,6 @@ Thinking isn't."<br><br> - Terry Pratchett, Wings]]></description>
       <description><![CDATA["In Ghat they believe in vampire watermelons, although folklore is silent
 about *what* they believe about vampire watermelons. Possibly they suck
 back."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>15-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=228</link>
-      <pubDate>Mon, 14 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=228</guid>
-      <description><![CDATA["- "What shall I do?"
-- "Well, if you see anything crawl out of the sea and try to breathe,
-   you could try telling it not to bother.""<br><br>Rincewind and Eric at the Beginning of Time - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
