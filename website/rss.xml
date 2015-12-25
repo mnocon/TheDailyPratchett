@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>25-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=238</link>
+      <pubDate>Thu, 24 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=238</guid>
+      <description><![CDATA["His philosophy was a mixture of three famous schools -- the Cynics, the
+Stoics and the Epicureans -- and summed up all three of them in his famous
+phrase, "You can't trust any bugger further than you can throw him, and
+there's nothing you can do about it, so let's have a drink.""<br><br>We meet Dydactylos the philosopher - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>24-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=237</link>
       <pubDate>Wed, 23 Dec 2015 23:00:00 UT</pubDate>
@@ -37,14 +47,6 @@ calendar, a floral clock and a take-away linguini shop."<br><br> - Terry Pratche
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=234</guid>
       <description><![CDATA["Brutha tried to nod, and thought: I'm on everyone's side. It'd be
 nice if, just for once, someone was on mine."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>20-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=233</link>
-      <pubDate>Sat, 19 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=233</guid>
-      <description><![CDATA["Botswana is also the only country in the world with a colour in its flag
-meant to represent rain (a sort of blue-grey). Not many people know this."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
