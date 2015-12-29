@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>29-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=242</link>
+      <pubDate>Mon, 28 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=242</guid>
+      <description><![CDATA["He hated being thought of as one of those people that wore stupid
+ornamental armour. It was gilt by association."<br><br> - Terry Pratchett, Night Watch]]></description>
+    </item>
+    <item>
       <title>28-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=241</link>
       <pubDate>Sun, 27 Dec 2015 23:00:00 UT</pubDate>
@@ -42,18 +50,6 @@ course..."<br><br>Terry learns Naomi Campbell has written a book. - Terry Pratch
 Stoics and the Epicureans -- and summed up all three of them in his famous
 phrase, "You can't trust any bugger further than you can throw him, and
 there's nothing you can do about it, so let's have a drink.""<br><br>We meet Dydactylos the philosopher - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>24-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=237</link>
-      <pubDate>Wed, 23 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=237</guid>
-      <description><![CDATA["There have, in the course of decadent history, been many large wigs, often
-with build-in gewgaws to stop people having to look at boring hair all the
-time. There had been ones big enough to contain pet mice or clockwork
-ornaments. Mme Cupidor, mistress of Mad King Soup II, had one with a bird
-cage in it, but on special state occasions wore one containing a perpetual
-calendar, a floral clock and a take-away linguini shop."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
