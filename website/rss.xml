@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>31-Dec-15</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=244</link>
+      <pubDate>Wed, 30 Dec 2015 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=244</guid>
+      <description><![CDATA["- "But I don't *believe* in reincarnation!" he protested.
+- SQUEAK.
+- And this, Mr Pounder understood with absolute rodent clarity, meant:
+  Reincarnation believes in *you*."<br><br> - Terry Pratchett, Maskerade]]></description>
+    </item>
+    <item>
       <title>30-Dec-15</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=243</link>
       <pubDate>Tue, 29 Dec 2015 23:00:00 UT</pubDate>
@@ -38,16 +48,6 @@ to say that these days all I get is moo."<br><br> - Terry Pratchett, Jingo]]></d
 Take One cab to Bourbon Street
 Take steps to the counter of the all night frozen dacquiri shop.
 Take One Large Cupful."<br><br>Terry's recipe for the Ultimate Banana Dacquiri - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>26-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=239</link>
-      <pubDate>Fri, 25 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=239</guid>
-      <description><![CDATA["I think I would like to go into modelling. Of course, I don't know how to
-do it, and wouldn't be any good at it if I did, so I'm going to employ
-someone to walk the catwalks on my behalf. It would still be *me*, of
-course..."<br><br>Terry learns Naomi Campbell has written a book. - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
