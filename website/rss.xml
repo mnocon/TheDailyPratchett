@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>02-Jan-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=246</link>
+      <pubDate>Fri, 01 Jan 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=246</guid>
+      <description><![CDATA["Using a metaphor in front of a man as unimaginative as Ridcully was like a
+red flag to a bu-- was like putting something very annoying in front of
+someone who was annoyed by it."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>01-Jan-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=245</link>
       <pubDate>Thu, 31 Dec 2015 23:00:00 UT</pubDate>
@@ -36,15 +45,6 @@ items at the bottom."<br><br> - Terry Pratchett, Reaper Man]]></description>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=242</guid>
       <description><![CDATA["He hated being thought of as one of those people that wore stupid
 ornamental armour. It was gilt by association."<br><br> - Terry Pratchett, Night Watch]]></description>
-    </item>
-    <item>
-      <title>28-Dec-15</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=241</link>
-      <pubDate>Sun, 27 Dec 2015 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=241</guid>
-      <description><![CDATA["Taxation, gentlemen, is very much like dairy farming. The task is to
-extract the maximum amount of milk with the minimum of moo. And I am afraid
-to say that these days all I get is moo."<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
