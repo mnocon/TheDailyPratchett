@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>19-Jan-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=263</link>
+      <pubDate>Mon, 18 Jan 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=263</guid>
+      <description><![CDATA["Millennium hand and shrimp."<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>18-Jan-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=262</link>
       <pubDate>Sun, 17 Jan 2016 23:00:00 UT</pubDate>
@@ -48,19 +55,6 @@ they could do to you suddenly held no terror."<br><br> - Terry Pratchett, Small 
   which certainly are there," said Twoflower.
 Dead silence from below him. Then Rincewind said, accusingly, "That
 was sarcasm.""<br><br> - Terry Pratchett, The Light Fantastic]]></description>
-    </item>
-    <item>
-      <title>14-Jan-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=258</link>
-      <pubDate>Wed, 13 Jan 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=258</guid>
-      <description><![CDATA["- "Pull me up, then," he hinted.
-- "I think that might be sort of difficult," grunted Twoflower. "I don't
-  actually think I can do it, in fact."
-- "What are you holding on to, then?"
-- "You."
-- "I mean besides me."
-- "What do you mean, besides you?" said Twoflower."<br><br> - Terry Pratchett, The Light Fantastic]]></description>
     </item>
   </channel>
 </rss>
