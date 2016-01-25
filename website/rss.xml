@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>25-Jan-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=269</link>
+      <pubDate>Sun, 24 Jan 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=269</guid>
+      <description><![CDATA["The truth may be out there, but lies are inside your head."<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>24-Jan-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=268</link>
       <pubDate>Sat, 23 Jan 2016 23:00:00 UT</pubDate>
@@ -37,15 +44,6 @@ the excitement around the Watch House.
 
 His movements could be called cat-like, except that he did not stop to
 spray urine up against things."<br><br> - Terry Pratchett, Night Watch]]></description>
-    </item>
-    <item>
-      <title>20-Jan-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=264</link>
-      <pubDate>Tue, 19 Jan 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=264</guid>
-      <description><![CDATA["Sergeant Comely was working on the general assumption that where you got
-lots of people gathered together, something illegal was bound to happen
-sooner or later."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
     </item>
   </channel>
 </rss>
