@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>01-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=276</link>
+      <pubDate>Sun, 31 Jan 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=276</guid>
+      <description><![CDATA["Seems I can't get me 'ead down these days without rescuin' people or
+foilin' robbers or sunnink."<br><br>It's a wonder dog's life - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>31-Jan-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=275</link>
       <pubDate>Sat, 30 Jan 2016 23:00:00 UT</pubDate>
@@ -35,15 +43,6 @@ a terrible insult to anyone to kill them when you were badly dressed."<br><br> -
 - "Some of them get to be very good at it, yes. I'm only an amateur,
    I'm afraid"
 - "BUT THEY ONLY LIVE EIGHTY OR NINETY YEARS!""<br><br>The joys of bridge - Terry Pratchett, The Light Fantastic]]></description>
-    </item>
-    <item>
-      <title>27-Jan-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=271</link>
-      <pubDate>Tue, 26 Jan 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=271</guid>
-      <description><![CDATA["They may have been ugly. they may have been evil. But when it came to
-poetry in motion, the Things had all the grace and coordination of a
-deck-chair."<br><br>Meet the creatures from the Dungeon Dimensions - Terry Pratchett, Equal Rites]]></description>
     </item>
   </channel>
 </rss>
