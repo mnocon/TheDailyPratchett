@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>06-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=281</link>
+      <pubDate>Fri, 05 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=281</guid>
+      <description><![CDATA["Just because someone's a member of an ethnic minority doesn't mean they're
+not a nasty small-minded little jerk [...]"<br><br> - Terry Pratchett, Feet of Clay]]></description>
+    </item>
+    <item>
       <title>05-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=280</link>
       <pubDate>Thu, 04 Feb 2016 23:00:00 UT</pubDate>
@@ -38,14 +46,6 @@ telling" and, connected below it by a line, a large circle entitled
 long ago that everything was steadily getting worse and, having a terrible
 little-mindedness, had developed a complex system to keep track of how much
 worse each succeeding day was."<br><br> - Terry Pratchett, Eric]]></description>
-    </item>
-    <item>
-      <title>01-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=276</link>
-      <pubDate>Sun, 31 Jan 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=276</guid>
-      <description><![CDATA["Seems I can't get me 'ead down these days without rescuin' people or
-foilin' robbers or sunnink."<br><br>It's a wonder dog's life - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
