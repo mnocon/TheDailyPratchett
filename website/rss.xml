@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>07-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=282</link>
+      <pubDate>Sat, 06 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=282</guid>
+      <description><![CDATA["The shortest unit of time in the multiverse is the New York Second, defined
+as the period of time between the traffic lights turning green and the cab
+behind you honking."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>06-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=281</link>
       <pubDate>Fri, 05 Feb 2016 23:00:00 UT</pubDate>
@@ -36,16 +45,6 @@ telling" and, connected below it by a line, a large circle entitled
       <pubDate>Tue, 02 Feb 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=278</guid>
       <description><![CDATA["He married that Palliard girl, remember? The one with the air-cooled teeth?"<br><br> - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>02-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=277</link>
-      <pubDate>Mon, 01 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=277</guid>
-      <description><![CDATA["It was true about the time measurement as well. The Tezumen had realized
-long ago that everything was steadily getting worse and, having a terrible
-little-mindedness, had developed a complex system to keep track of how much
-worse each succeeding day was."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
