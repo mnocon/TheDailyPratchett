@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>09-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=284</link>
+      <pubDate>Mon, 08 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=284</guid>
+      <description><![CDATA["That statement is either so deep it would take a lifetime to fully
+comprehend every particle of its meaning, or it is a load of absolute tosh.
+Which is it, I wonder?"<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>08-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=283</link>
       <pubDate>Sun, 07 Feb 2016 23:00:00 UT</pubDate>
@@ -34,17 +43,6 @@ not a nasty small-minded little jerk [...]"<br><br> - Terry Pratchett, Feet of C
       <pubDate>Thu, 04 Feb 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=280</guid>
       <description><![CDATA["I wants your body, Mrs Ogg."<br><br>Casanunda makes his move - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>04-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=279</link>
-      <pubDate>Wed, 03 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=279</guid>
-      <description><![CDATA["Ridcully was to management what King Herod was to the Bethlehem Playgroup
-Association. His mental approach to it could be visualised as a sort of
-business flowchart with, at the top, a circle entitled "Me, who does the
-telling" and, connected below it by a line, a large circle entitled
-"Everyone else"."<br><br> - Terry Pratchett, The Last Continent]]></description>
     </item>
   </channel>
 </rss>
