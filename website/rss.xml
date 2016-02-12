@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=287</link>
+      <pubDate>Thu, 11 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=287</guid>
+      <description><![CDATA["It's an interesting fact that fewer than 17 % of Real cats end their lives
+with the same name they started with. Much family effort goes into
+selecting one at the start ("She looks like a Winnifred to *me*"), and the
+as the years roll by it suddenly finds itself being called Meepo or Ratbag."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
+    </item>
+    <item>
       <title>11-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=286</link>
       <pubDate>Wed, 10 Feb 2016 23:00:00 UT</pubDate>
@@ -35,15 +45,6 @@ Which is it, I wonder?"<br><br> - Terry Pratchett, Hogfather]]></description>
       <pubDate>Sun, 07 Feb 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=283</guid>
       <description><![CDATA["I thought it was going to be bucket-of-water time myself."<br><br>Gaspode's way of saying "I'm sorry, was I intruding?" - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>07-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=282</link>
-      <pubDate>Sat, 06 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=282</guid>
-      <description><![CDATA["The shortest unit of time in the multiverse is the New York Second, defined
-as the period of time between the traffic lights turning green and the cab
-behind you honking."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
