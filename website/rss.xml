@@ -5,6 +5,23 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>14-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=289</link>
+      <pubDate>Sat, 13 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=289</guid>
+      <description><![CDATA["People who used magic without knowing what they were doing usually came to
+a sticky end. All over the entire room, sometimes."<br><br> - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
+      <title>13-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=288</link>
+      <pubDate>Fri, 12 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=288</guid>
+      <description><![CDATA["Death isn't on line. If he was, there would be a sudden drop in the death
+rate. Although it'd be interesting to see if he'd post things like: DON'T
+YOU THINK I SOUND LIKE JAMES EARL JONES?"<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>12-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=287</link>
       <pubDate>Thu, 11 Feb 2016 23:00:00 UT</pubDate>
@@ -29,22 +46,6 @@ not all that subtle."<br><br> - Terry Pratchett, Lords and Ladies]]></descriptio
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=285</guid>
       <description><![CDATA[""I'm a cat person, myself," she said, vaguely. A low-level voice said:
 "Yeah? Yeah? Wash in your own spit, do you?""<br><br>It's a dog's life - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>09-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=284</link>
-      <pubDate>Mon, 08 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=284</guid>
-      <description><![CDATA["That statement is either so deep it would take a lifetime to fully
-comprehend every particle of its meaning, or it is a load of absolute tosh.
-Which is it, I wonder?"<br><br> - Terry Pratchett, Hogfather]]></description>
-    </item>
-    <item>
-      <title>08-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=283</link>
-      <pubDate>Sun, 07 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=283</guid>
-      <description><![CDATA["I thought it was going to be bucket-of-water time myself."<br><br>Gaspode's way of saying "I'm sorry, was I intruding?" - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
