@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=295</link>
+      <pubDate>Fri, 19 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=295</guid>
+      <description><![CDATA["There was a polite beeping from the Thing. "You may be interested to know,"
+it said, "that we've broken the sound barrier."  Masklin turned wearily to
+the others. "All right, own up. Who broke it?""<br><br> - Terry Pratchett, Wings]]></description>
+    </item>
+    <item>
       <title>19-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=294</link>
       <pubDate>Thu, 18 Feb 2016 23:00:00 UT</pubDate>
@@ -39,15 +48,6 @@ we want to go or I'll fire this gnu at you!'"<br><br>"Host Age at 10,000 Feet", 
       <description><![CDATA["When you can flatten entire cities at a whim, a tendency towards
 quiet reflection and seeing-things-from-the-other-fellow's-point-
 of-view is seldom necessary."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>15-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=290</link>
-      <pubDate>Sun, 14 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=290</guid>
-      <description><![CDATA["She wanted a HOLIDAY in Australia, she said, and if I turned it into work
-she'd hit me -- so I gave in, because I did not want to be beaten about the
-Bush."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
