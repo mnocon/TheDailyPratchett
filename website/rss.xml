@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>21-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=296</link>
+      <pubDate>Sat, 20 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=296</guid>
+      <description><![CDATA["Woof bloody woof."<br><br>Gaspode the Wonder Dog - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>20-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=295</link>
       <pubDate>Fri, 19 Feb 2016 23:00:00 UT</pubDate>
@@ -39,15 +46,6 @@ his seat eating popcorn, and I don't believe they're going to happen."<br><br> -
       <description><![CDATA["No, no, no, what you do is, you get a gnu, then you point it at the driver
 and someone says, 'Look out, he's got a gnu!' and you say, 'Take us where
 we want to go or I'll fire this gnu at you!'"<br><br>"Host Age at 10,000 Feet", Nome style - Terry Pratchett, Truckers]]></description>
-    </item>
-    <item>
-      <title>16-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=291</link>
-      <pubDate>Mon, 15 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=291</guid>
-      <description><![CDATA["When you can flatten entire cities at a whim, a tendency towards
-quiet reflection and seeing-things-from-the-other-fellow's-point-
-of-view is seldom necessary."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
