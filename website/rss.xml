@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>24-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=299</link>
+      <pubDate>Tue, 23 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=299</guid>
+      <description><![CDATA["On those occasions when the angel managed to get his mind into the
+twentieth century, it always gravitated to 1950."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>23-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=298</link>
       <pubDate>Mon, 22 Feb 2016 23:00:00 UT</pubDate>
@@ -37,15 +45,6 @@ EARLY TO AVOID THE RUSH."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]>
       <description><![CDATA["There was a polite beeping from the Thing. "You may be interested to know,"
 it said, "that we've broken the sound barrier."  Masklin turned wearily to
 the others. "All right, own up. Who broke it?""<br><br> - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>19-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=294</link>
-      <pubDate>Thu, 18 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=294</guid>
-      <description><![CDATA["Most alchemists were nervous, in any case; it came from not knowing what
-the crucible of bubbling stuff they were experimenting with was going to do
-next."<br><br> - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
