@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>29-Feb-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=304</link>
+      <pubDate>Sun, 28 Feb 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=304</guid>
+      <description><![CDATA["- "The other humans around it are trying to explain to it what a planet is."
+- "Doesn't it know?"
+- "Many humans don't. Mistervicepresident is one of them.""<br><br> - Terry Pratchett, Wings]]></description>
+    </item>
+    <item>
       <title>28-Feb-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=303</link>
       <pubDate>Sat, 27 Feb 2016 23:00:00 UT</pubDate>
@@ -36,14 +45,6 @@ areas, and not in the Stock Exchange."<br><br> - Terry Pratchett, alt.fan.pratch
       <description><![CDATA["Asking someone to repeat a phrase you'd not only heard very clearly but
 were also exceedingly angry about was around Defcon II in the lexicon of
 squabble."<br><br> - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>24-Feb-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=299</link>
-      <pubDate>Tue, 23 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=299</guid>
-      <description><![CDATA["On those occasions when the angel managed to get his mind into the
-twentieth century, it always gravitated to 1950."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
