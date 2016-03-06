@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>06-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=310</link>
+      <pubDate>Sat, 05 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=310</guid>
+      <description><![CDATA[""Stuck? You're an *alien*," said Johnny. "Aliens don't get stuck in
+air ducts. It's practically a well-known fact.""<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
+    </item>
+    <item>
       <title>05-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=309</link>
       <pubDate>Fri, 04 Mar 2016 23:00:00 UT</pubDate>
@@ -37,15 +45,6 @@ last thing on my mind..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></descr
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=306</guid>
       <description><![CDATA[""In a word -- im-possible!"
 "That's two words," said Dibbler."<br><br> - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>01-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=305</link>
-      <pubDate>Mon, 29 Feb 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=305</guid>
-      <description><![CDATA[""You're dead," he said. Keli waited. She couldn't think of any suitable
-reply. "I'm not" lacked a certain style, while "Is it serious?" seemed
-somehow too frivolous."<br><br>Princess Keli in trouble - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
