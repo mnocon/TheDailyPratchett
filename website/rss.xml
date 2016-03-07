@@ -5,6 +5,20 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>07-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=311</link>
+      <pubDate>Sun, 06 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=311</guid>
+      <description><![CDATA["There are, it has been said, two types of people in the world. There are
+those who, when presented with a glass that is exactly half full, say:
+this glass is half full. And then there are those who say: this glass
+is half empty.
+
+The world *belongs*, however, to those who can look at the glass and say:
+What's up with this glass? Excuse me? Excuse *me*? This is my glass? I
+don't *think* so. My glass was full! *And* it was a bigger glass!"<br><br> - Terry Pratchett, The Truth]]></description>
+    </item>
+    <item>
       <title>06-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=310</link>
       <pubDate>Sat, 05 Mar 2016 23:00:00 UT</pubDate>
@@ -37,14 +51,6 @@ editors."<br><br>Setting the record straight - Terry Pratchett, alt.fan.pratchet
       <description><![CDATA["I staggered into a Manchester bar late one night on a tour and the waitress
 said "You look as if you need a Screaming Orgasm". At the time this was the
 last thing on my mind..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>02-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=306</link>
-      <pubDate>Tue, 01 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=306</guid>
-      <description><![CDATA[""In a word -- im-possible!"
-"That's two words," said Dibbler."<br><br> - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
