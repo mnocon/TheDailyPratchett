@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=314</link>
+      <pubDate>Wed, 09 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=314</guid>
+      <description><![CDATA["Verence would rather cut his own leg off than put a witch in prison, since
+it'd save trouble in the long run and probably be less painful."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>09-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=313</link>
       <pubDate>Tue, 08 Mar 2016 23:00:00 UT</pubDate>
@@ -43,14 +51,6 @@ don't *think* so. My glass was full! *And* it was a bigger glass!"<br><br> - Ter
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=310</guid>
       <description><![CDATA[""Stuck? You're an *alien*," said Johnny. "Aliens don't get stuck in
 air ducts. It's practically a well-known fact.""<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
-    </item>
-    <item>
-      <title>05-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=309</link>
-      <pubDate>Fri, 04 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=309</guid>
-      <description><![CDATA["Give a man a fire and he's warm for a day, but set fire to him and he's
-warm for the rest of his life."<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
