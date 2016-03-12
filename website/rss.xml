@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=316</link>
+      <pubDate>Fri, 11 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=316</guid>
+      <description><![CDATA["No-one could sit in that chair. It was full of old T-shirts and books and
+supper plates and junk. There was a deep sock layer and possibly the Lost
+Strawberry Yoghurt. No-one could sit down there without special equipment."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
+    </item>
+    <item>
       <title>11-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=315</link>
       <pubDate>Thu, 10 Mar 2016 23:00:00 UT</pubDate>
@@ -41,20 +50,6 @@ it'd save trouble in the long run and probably be less painful."<br><br> - Terry
       <description><![CDATA["After you'd known Christine for any length of time, you found yourself
 fighting a desire to look into her ear to see if you could spot daylight
 coming the other way."<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>07-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=311</link>
-      <pubDate>Sun, 06 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=311</guid>
-      <description><![CDATA["There are, it has been said, two types of people in the world. There are
-those who, when presented with a glass that is exactly half full, say:
-this glass is half full. And then there are those who say: this glass
-is half empty.
-
-The world *belongs*, however, to those who can look at the glass and say:
-What's up with this glass? Excuse me? Excuse *me*? This is my glass? I
-don't *think* so. My glass was full! *And* it was a bigger glass!"<br><br> - Terry Pratchett, The Truth]]></description>
     </item>
   </channel>
 </rss>
