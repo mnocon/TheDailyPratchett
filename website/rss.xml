@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>17-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=321</link>
+      <pubDate>Wed, 16 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=321</guid>
+      <description><![CDATA["I'm referred to, I see, as 'the biggest banker in modern publishing'. Now
+*there's* a line that needed the celebrated Guardian proof-reading."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>16-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=320</link>
       <pubDate>Tue, 15 Mar 2016 23:00:00 UT</pubDate>
@@ -38,15 +46,6 @@ steal her sweets."<br><br> - Terry Pratchett, Maskerade]]></description>
       <description><![CDATA["The three rules of the Librarians of Time and Space are: 1) Silence; 2)
 Books must be returned no later than the date last shown; and 3) Do not
 interfere with the nature of causality."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
-    </item>
-    <item>
-      <title>12-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=316</link>
-      <pubDate>Fri, 11 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=316</guid>
-      <description><![CDATA["No-one could sit in that chair. It was full of old T-shirts and books and
-supper plates and junk. There was a deep sock layer and possibly the Lost
-Strawberry Yoghurt. No-one could sit down there without special equipment."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
     </item>
   </channel>
 </rss>
