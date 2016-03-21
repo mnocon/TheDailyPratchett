@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>21-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=325</link>
+      <pubDate>Sun, 20 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=325</guid>
+      <description><![CDATA["Cuddy had only been a guard for a few days, but already he had absorbed one
+important and basic fact: it is almost impossible for anyone to be in a
+street without breaking the law."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>20-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=324</link>
       <pubDate>Sat, 19 Mar 2016 23:00:00 UT</pubDate>
@@ -42,15 +51,6 @@ maybe the boots were leather. But not black."<br><br> - Terry Pratchett, The Lig
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=321</guid>
       <description><![CDATA["I'm referred to, I see, as 'the biggest banker in modern publishing'. Now
 *there's* a line that needed the celebrated Guardian proof-reading."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>16-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=320</link>
-      <pubDate>Tue, 15 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=320</guid>
-      <description><![CDATA["It was the sort of thing you expected in the Street of Alchemists. The
-neighbours *preferred* explosions, which were at least identifiable and
-soon over. They were better than the smells, which crept up on you."<br><br> - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
