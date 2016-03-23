@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=327</link>
+      <pubDate>Tue, 22 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=327</guid>
+      <description><![CDATA["The singers all loathe the sight of one another, the chorus despises the
+singers, they both hate the orchestra, and everyone fears the conductor;
+the staff on one prompt side won't talk to the staff on the opposite prompt
+side, the dancers are all crazed from hunger in any case..."<br><br> - Terry Pratchett, Maskerade]]></description>
+    </item>
+    <item>
       <title>22-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=326</link>
       <pubDate>Mon, 21 Mar 2016 23:00:00 UT</pubDate>
@@ -39,18 +49,6 @@ themselves whether the newts got out to go to the lavatory."<br><br> - Terry Pra
 the shoulders often have uneventful journeys. People jump out at them from
 behind rocks then say things like, "Oh. Sorry. I thought you were someone
 else.""<br><br>Carrot travels to Ankh-Morpork - Terry Pratchett, Guards! Guards!]]></description>
-    </item>
-    <item>
-      <title>18-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=322</link>
-      <pubDate>Thu, 17 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=322</guid>
-      <description><![CDATA["The point that must be made is that although Herrena the Henna-Haired
-Harridan would look quite stunning after a good bath, a heavy-duty
-manicure, and the pick of the leather racks in Woo Hung Ling's Oriental
-Exotica and Martial Aids on Heroes Street, she was currently quite sensibly
-dressed in light chain mail, soft boots, and a short sword. All right,
-maybe the boots were leather. But not black."<br><br> - Terry Pratchett, The Light Fantastic]]></description>
     </item>
   </channel>
 </rss>
