@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>25-Mar-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=329</link>
+      <pubDate>Thu, 24 Mar 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=329</guid>
+      <description><![CDATA["It would be nice to say that the tiny frogs thought long and hard about the
+new flower, about life in the old flower, about the need to explore, about
+the possibility that the world was bigger than a pool with petals around
+the edge.
+In fact, what they thought was: "._._.mipmip._._.mipmip._._.mipmip"."<br><br> - Terry Pratchett, Wings]]></description>
+    </item>
+    <item>
       <title>24-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=328</link>
       <pubDate>Wed, 23 Mar 2016 23:00:00 UT</pubDate>
@@ -40,15 +51,6 @@ ambushed each other."<br><br> - Terry Pratchett, Men at Arms]]></description>
       <description><![CDATA["Cuddy had only been a guard for a few days, but already he had absorbed one
 important and basic fact: it is almost impossible for anyone to be in a
 street without breaking the law."<br><br> - Terry Pratchett, Men at Arms]]></description>
-    </item>
-    <item>
-      <title>20-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=324</link>
-      <pubDate>Sat, 19 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=324</guid>
-      <description><![CDATA["People have believed for hundreds of years that newts in a well mean that
-the water's fresh and drinkable, and *in all that time* never asked
-themselves whether the newts got out to go to the lavatory."<br><br> - Terry Pratchett, Reaper Man]]></description>
     </item>
   </channel>
 </rss>
