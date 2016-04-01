@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>01-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=336</link>
+      <pubDate>Thu, 31 Mar 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=336</guid>
+      <description><![CDATA[""Baths is unhygienic," Granny declared. "You know I've never agreed with
+baths. Sittin' around in your own dirt like that.""<br><br>Taking personal hygiene to new limits - Terry Pratchett, Witches Abroad]]></description>
+    </item>
+    <item>
       <title>31-Mar-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=335</link>
       <pubDate>Wed, 30 Mar 2016 22:00:00 UT</pubDate>
@@ -38,14 +46,6 @@ put themselves on the appropriate side."<br><br>The Elucidated Brethren see the 
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=332</guid>
       <description><![CDATA["What our ancestors would really be thinking, if they were alive today,
 is: "Why is it so dark in here?""<br><br> - Terry Pratchett, Pyramids]]></description>
-    </item>
-    <item>
-      <title>27-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=331</link>
-      <pubDate>Sat, 26 Mar 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=331</guid>
-      <description><![CDATA[""Chap with a whip got as far as the big sharp spikes last week," said
-the low priest."<br><br>Life in the Temple of Offler - Terry Pratchett, Reaper Man]]></description>
     </item>
   </channel>
 </rss>
