@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>05-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=340</link>
+      <pubDate>Mon, 04 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=340</guid>
+      <description><![CDATA[""Nah," he said, eventually. "I've looked at the colours on flowers. They're
+definitely built-in.""<br><br> - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>04-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=339</link>
       <pubDate>Sun, 03 Apr 2016 22:00:00 UT</pubDate>
@@ -42,16 +50,6 @@ And you don't get mugged, either."<br><br> - Terry Pratchett, alt.fan.pratchett]
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=336</guid>
       <description><![CDATA[""Baths is unhygienic," Granny declared. "You know I've never agreed with
 baths. Sittin' around in your own dirt like that.""<br><br>Taking personal hygiene to new limits - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>31-Mar-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=335</link>
-      <pubDate>Wed, 30 Mar 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=335</guid>
-      <description><![CDATA["While working his way along a wall he came to a huge door, which
-artistically portrayed a group of prisoners apparently being given a
-complete medical check-up [footnote: From a distance it did, anyway.
-Close to, no]."<br><br>Rincewind visits the Tezumen tribe - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
