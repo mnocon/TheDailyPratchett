@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>07-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=342</link>
+      <pubDate>Wed, 06 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=342</guid>
+      <description><![CDATA["- "There's a door"
+- "Where does it go?"
+- "It stays where it is, I think.""<br><br> - Terry Pratchett, Eric]]></description>
+    </item>
+    <item>
       <title>06-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=341</link>
       <pubDate>Tue, 05 Apr 2016 22:00:00 UT</pubDate>
@@ -38,17 +47,6 @@ his hands.
 "It's called a shovel," said the Senior Wrangler. "I've seen the gardeners
 use them. You stick the sharp end in the ground. Then it gets a bit
 technical.""<br><br> - Terry Pratchett, Reaper Man]]></description>
-    </item>
-    <item>
-      <title>02-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=337</link>
-      <pubDate>Fri, 01 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=337</guid>
-      <description><![CDATA["One of the highlights of the first Good Omens tour was Neil and I walking
-through New York singing Shoehorn with Teeth. Well, we'd had a good
-breakfast.
-
-And you don't get mugged, either."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
