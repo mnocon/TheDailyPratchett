@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>09-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=344</link>
+      <pubDate>Fri, 08 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=344</guid>
+      <description><![CDATA[""I perceive a possibility of an immediate chronological sequence of events
+which includes a violence," said Three. He stepped back, "I express
+preference for a chronological sequence of events which precludes a
+violence.""<br><br> - Terry Pratchett, The Dark Side of the Sun]]></description>
+    </item>
+    <item>
       <title>08-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=343</link>
       <pubDate>Thu, 07 Apr 2016 22:00:00 UT</pubDate>
@@ -34,15 +44,6 @@
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=340</guid>
       <description><![CDATA[""Nah," he said, eventually. "I've looked at the colours on flowers. They're
 definitely built-in.""<br><br> - Terry Pratchett, Diggers]]></description>
-    </item>
-    <item>
-      <title>04-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=339</link>
-      <pubDate>Sun, 03 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=339</guid>
-      <description><![CDATA["- "There have been...accidents."
-- "What kind of accidents?"
-- "The kind of accidents you prefer to call...accidents.""<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
   </channel>
 </rss>
