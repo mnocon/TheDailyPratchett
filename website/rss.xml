@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>18-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=353</link>
+      <pubDate>Sun, 17 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=353</guid>
+      <description><![CDATA["Poets have tried to describe Ankh-Morpork. They have failed. Perhaps it's
+the sheer zestful vitality of the place, or maybe it's just that a city
+with a million inhabitants and no sewers is rather robust for poets, who
+prefer daffodils and no wonder."<br><br> - Terry Pratchett, Mort]]></description>
+    </item>
+    <item>
       <title>17-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=352</link>
       <pubDate>Sat, 16 Apr 2016 22:00:00 UT</pubDate>
@@ -45,14 +55,6 @@ young man in any language, especially Braille."<br><br>The goddess with the nice
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=349</guid>
       <description><![CDATA["Do not meddle in the affairs of wizards because a refusal often offends,
 I read somewhere."<br><br> - Terry Pratchett, Mort]]></description>
-    </item>
-    <item>
-      <title>13-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=348</link>
-      <pubDate>Tue, 12 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=348</guid>
-      <description><![CDATA["He wondered reflectively what would happen if you asked a nun where the
-Gents was. Probably the Pope sent you a sharp note or something."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
