@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>21-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=356</link>
+      <pubDate>Wed, 20 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=356</guid>
+      <description><![CDATA["The thing between Death's triumphant digits was a fly from the dawn of
+time. It was the fly in the primordial soup. It had bred on mammoth
+turds.  It wasn't a fly that bangs on window panes, it was a fly that
+drills through walls."<br><br>Death goes fishing - Terry Pratchett, Mort]]></description>
+    </item>
+    <item>
       <title>20-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=355</link>
       <pubDate>Tue, 19 Apr 2016 22:00:00 UT</pubDate>
@@ -37,23 +47,6 @@ prefer daffodils and no wonder."<br><br> - Terry Pratchett, Mort]]></description
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=352</guid>
       <description><![CDATA["The important thing about adventures, thought Mr Bunnsy, was that they
 shouldn't be so long as to make you miss mealtimes."<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
-    </item>
-    <item>
-      <title>16-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=351</link>
-      <pubDate>Fri, 15 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=351</guid>
-      <description><![CDATA["The only things known to go faster than ordinary light is monarchy,
-according to the philosopher Ly Tin Weedle. He reasoned like this: you
-can't have more than one king, and tradition demands that there is no gap
-between kings, so when a king dies the succession must therefore pass to
-the heir *instantaneously*. Presumably, he said, there must be some
-elementary particles -- kingons, or possibly queons -- that do this job,
-but of course succession sometimes fails if, in mid-flight, they strike an
-anti-particle, or republicon. His ambitious plans to use his discovery to
-send messages, involving the careful torturing of a small king in order to
-modulate the signal, were never fully expanded because, at that point, the
-bar closed."<br><br> - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
