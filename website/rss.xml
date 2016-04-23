@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Apr-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=358</link>
+      <pubDate>Fri, 22 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=358</guid>
+      <description><![CDATA["- "America?" said Mrs Liberty. "Won't we get scalped?"
+- "Good grief, no!" said William Stickers, who was a bit more up to date
+   about the world.
+- "*Probably* not," said Mr Fletcher, who had been watching the news lately
+   and was even more up to date than William Stickers."<br><br>Still looking for a good place to party - Terry Pratchett, Johnny and the Dead]]></description>
+    </item>
+    <item>
       <title>22-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=357</link>
       <pubDate>Thu, 21 Apr 2016 22:00:00 UT</pubDate>
@@ -36,16 +47,6 @@ drills through walls."<br><br>Death goes fishing - Terry Pratchett, Mort]]></des
       <description><![CDATA["On nights such as these the gods, as has already been pointed out, play
 games other than chess with the fates of mortals and the thrones of kings.
 It is important to remember that they always cheat, right up to the end..."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
-    </item>
-    <item>
-      <title>18-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=353</link>
-      <pubDate>Sun, 17 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=353</guid>
-      <description><![CDATA["Poets have tried to describe Ankh-Morpork. They have failed. Perhaps it's
-the sheer zestful vitality of the place, or maybe it's just that a city
-with a million inhabitants and no sewers is rather robust for poets, who
-prefer daffodils and no wonder."<br><br> - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
