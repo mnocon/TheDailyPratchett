@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>01-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=366</link>
+      <pubDate>Sat, 30 Apr 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=366</guid>
+      <description><![CDATA["You know what I'd really, really like? What I'd pay MONEY for? A ZX81 with
+a disc drive. I *understood* the ZX81. It was so easy to interface stuff to
+it."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>30-Apr-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=365</link>
       <pubDate>Fri, 29 Apr 2016 22:00:00 UT</pubDate>
@@ -39,14 +48,6 @@ gayer than a tree full of monkeys on nitrous oxide."<br><br> - Terry Pratchett &
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=362</guid>
       <description><![CDATA["And it came to pass that in time the Great God Om spake unto Brutha, the
 Chosen One: "Psst!""<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>26-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=361</link>
-      <pubDate>Mon, 25 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=361</guid>
-      <description><![CDATA["It's a metaphor of human bloody existence, a dragon. And if that wasn't bad
-enough, it's also a bloody great hot flying thing."<br><br>Captain Vimes ponders his problems - Terry Pratchett, Guards! Guards!]]></description>
     </item>
   </channel>
 </rss>
