@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>03-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=368</link>
+      <pubDate>Mon, 02 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=368</guid>
+      <description><![CDATA["Magrat was annoyed. She was also frightened, which made her even more
+annoyed. It was hard for people when Magrat was annoyed. It was like being
+attacked by damp tissue."<br><br> - Terry Pratchett, Witches Abroad]]></description>
+    </item>
+    <item>
       <title>02-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=367</link>
       <pubDate>Sun, 01 May 2016 22:00:00 UT</pubDate>
@@ -40,15 +49,6 @@ known as 'up', 'down', 'sideways', 'sex appeal' and 'peppermint'."<br><br> - Ter
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=364</guid>
       <description><![CDATA["The Store was having its last sale. It was holding a Grand Final Clearance
 of specially selected sparks, and flames to suit every pocket."<br><br> - Terry Pratchett, Truckers]]></description>
-    </item>
-    <item>
-      <title>28-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=363</link>
-      <pubDate>Wed, 27 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=363</guid>
-      <description><![CDATA["Many people, meeting Aziraphale for the first time, formed three
-impressions: that he was English, that he was intelligent, and that he was
-gayer than a tree full of monkeys on nitrous oxide."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
