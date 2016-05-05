@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>05-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=370</link>
+      <pubDate>Wed, 04 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=370</guid>
+      <description><![CDATA[""Zoology, eh? That's a big word, isn't it?"
+"No, actually it isn't," said Tiffany. "Patronizing is a big word.
+Zoology is really quite short.""<br><br> - Terry Pratchett, The Wee Free Men]]></description>
+    </item>
+    <item>
       <title>04-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=369</link>
       <pubDate>Tue, 03 May 2016 22:00:00 UT</pubDate>
@@ -39,17 +48,6 @@ attacked by damp tissue."<br><br> - Terry Pratchett, Witches Abroad]]></descript
       <description><![CDATA["You know what I'd really, really like? What I'd pay MONEY for? A ZX81 with
 a disc drive. I *understood* the ZX81. It was so easy to interface stuff to
 it."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>30-Apr-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=365</link>
-      <pubDate>Fri, 29 Apr 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=365</guid>
-      <description><![CDATA["It was here that the thaum, hitherto believed to be the smallest possible
-particle of magic, was succesfully demonstrated to be made up of /resons/
-(Lit.: 'Thing-ies') or reality fragments. Currently research indicates that
-each reson is itself made up of a combination of at least five 'flavours',
-known as 'up', 'down', 'sideways', 'sex appeal' and 'peppermint'."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
