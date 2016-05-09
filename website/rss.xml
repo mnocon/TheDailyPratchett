@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>09-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=374</link>
+      <pubDate>Sun, 08 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=374</guid>
+      <description><![CDATA["The Truth Shall Make Ye Fret"<br><br> - Terry Pratchett, The Truth]]></description>
+    </item>
+    <item>
       <title>08-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=373</link>
       <pubDate>Sat, 07 May 2016 22:00:00 UT</pubDate>
@@ -38,15 +45,6 @@ hundreds of times."<br><br>Going to a convention is fun! - Terry Pratchett, alt.
       <description><![CDATA[""Zoology, eh? That's a big word, isn't it?"
 "No, actually it isn't," said Tiffany. "Patronizing is a big word.
 Zoology is really quite short.""<br><br> - Terry Pratchett, The Wee Free Men]]></description>
-    </item>
-    <item>
-      <title>04-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=369</link>
-      <pubDate>Tue, 03 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=369</guid>
-      <description><![CDATA[""You're not one of us."
-"I don't think I'm one of them, either," said Brutha. "I'm one of
-mine.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
