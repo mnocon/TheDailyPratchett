@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=375</link>
+      <pubDate>Mon, 09 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=375</guid>
+      <description><![CDATA[""I like the idea of democracy. You have to have someone everyone
+distrusts," said Brutha. "That way, everyone's happy.""<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>09-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=374</link>
       <pubDate>Sun, 08 May 2016 22:00:00 UT</pubDate>
@@ -36,15 +44,6 @@ them rare."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
       <description><![CDATA["I stroll along, talk, I sign books, people buy me drinks, I forget where my
 hotel is, I get lost and fall into some local body of water... done it
 hundreds of times."<br><br>Going to a convention is fun! - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>05-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=370</link>
-      <pubDate>Wed, 04 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=370</guid>
-      <description><![CDATA[""Zoology, eh? That's a big word, isn't it?"
-"No, actually it isn't," said Tiffany. "Patronizing is a big word.
-Zoology is really quite short.""<br><br> - Terry Pratchett, The Wee Free Men]]></description>
     </item>
   </channel>
 </rss>
