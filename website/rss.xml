@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=380</link>
+      <pubDate>Sat, 14 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=380</guid>
+      <description><![CDATA[""Actors," said Granny, witheringly. "As if the world weren't full
+of enough history without inventing more.""<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
+    </item>
+    <item>
       <title>14-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=379</link>
       <pubDate>Fri, 13 May 2016 22:00:00 UT</pubDate>
@@ -36,14 +44,6 @@ involved in some way."<br><br>Looking for a good place to party - Terry Pratchet
       <pubDate>Tue, 10 May 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=376</guid>
       <description><![CDATA["How's he in the mysterious senses department?"<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>10-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=375</link>
-      <pubDate>Mon, 09 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=375</guid>
-      <description><![CDATA[""I like the idea of democracy. You have to have someone everyone
-distrusts," said Brutha. "That way, everyone's happy.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
