@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>16-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=381</link>
+      <pubDate>Sun, 15 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=381</guid>
+      <description><![CDATA["- "I thought swords had to be straight."
+- "Perhaps they start out straight and go bendy with use. A lot of things
+  do.""<br><br>Odour-eaters, right? Yeah, she means odour-eaters. - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>15-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=380</link>
       <pubDate>Sat, 14 May 2016 22:00:00 UT</pubDate>
@@ -37,13 +46,6 @@ understanding of this simple fact."<br><br> - Terry Pratchett, Moving Pictures]]
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=377</guid>
       <description><![CDATA["I believe it's very hard to have fun in Iceland without fish being
 involved in some way."<br><br>Looking for a good place to party - Terry Pratchett, Johnny and the Dead]]></description>
-    </item>
-    <item>
-      <title>11-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=376</link>
-      <pubDate>Tue, 10 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=376</guid>
-      <description><![CDATA["How's he in the mysterious senses department?"<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
