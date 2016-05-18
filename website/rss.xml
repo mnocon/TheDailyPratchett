@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>19-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=384</link>
+      <pubDate>Wed, 18 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=384</guid>
+      <description><![CDATA["Have a bit more patience with newbies. Of course some of them act dumb --
+they're often *students*, for heaven's sake."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>18-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=383</link>
       <pubDate>Tue, 17 May 2016 22:00:00 UT</pubDate>
@@ -36,14 +44,6 @@ can build a better world for people. Otherwise it's just a cage."<br><br> - Terr
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=380</guid>
       <description><![CDATA[""Actors," said Granny, witheringly. "As if the world weren't full
 of enough history without inventing more.""<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
-    </item>
-    <item>
-      <title>14-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=379</link>
-      <pubDate>Fri, 13 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=379</guid>
-      <description><![CDATA[""Luck is my middle name," said Rincewind, indistinctly. "Mind you, my first
-name is Bad.""<br><br> - Terry Pratchett, Interesting Times]]></description>
     </item>
   </channel>
 </rss>
