@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>22-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=387</link>
+      <pubDate>Sat, 21 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=387</guid>
+      <description><![CDATA[""Out of Print" is bookseller speak for "We can't be hedgehogged"."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>21-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=386</link>
       <pubDate>Fri, 20 May 2016 22:00:00 UT</pubDate>
@@ -36,14 +43,6 @@ they're often *students*, for heaven's sake."<br><br> - Terry Pratchett, alt.fan
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=383</guid>
       <description><![CDATA["They both savoured the strange warm glow of being much more ignorant than
 ordinary people, who were only ignorant of ordinary things."<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
-    </item>
-    <item>
-      <title>17-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=382</link>
-      <pubDate>Mon, 16 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=382</guid>
-      <description><![CDATA["You can't go around building a better world for people. Only people
-can build a better world for people. Otherwise it's just a cage."<br><br> - Terry Pratchett, Witches Abroad]]></description>
     </item>
   </channel>
 </rss>
