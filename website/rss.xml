@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>26-May-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=391</link>
+      <pubDate>Wed, 25 May 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=391</guid>
+      <description><![CDATA["Messin' around with girls in thrall to Creatures from the Void never works
+out, take my word for it."<br><br>Gaspode gives Victor some practical advice - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>25-May-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=390</link>
       <pubDate>Tue, 24 May 2016 22:00:00 UT</pubDate>
@@ -38,15 +46,6 @@ crater is now, once stood the city of Wah-Shing-Ton", in SF B-movies."<br><br>Cr
       <pubDate>Sat, 21 May 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=387</guid>
       <description><![CDATA[""Out of Print" is bookseller speak for "We can't be hedgehogged"."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>21-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=386</link>
-      <pubDate>Fri, 20 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=386</guid>
-      <description><![CDATA["The Librarian looked out at the jolting scenery. He was sulking. This had
-a lot to do with the new bright collar around his neck with the word
-"PONGO" on it. Someone was going to suffer for this."<br><br>The Librarian travels incognito - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
