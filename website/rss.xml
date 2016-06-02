@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>02-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=398</link>
+      <pubDate>Wed, 01 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=398</guid>
+      <description><![CDATA["Guilt was the grease in which the wheels of the authority turned."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>01-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=397</link>
       <pubDate>Tue, 31 May 2016 22:00:00 UT</pubDate>
@@ -35,15 +42,6 @@ only really arrow-proof helmet!""<br><br>Rincewind gives a speech on politics. -
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=394</guid>
       <description><![CDATA["And Howondaland Smith, Balrog Hunter, practic'ly eats the dark for
 his tea."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>28-May-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=393</link>
-      <pubDate>Fri, 27 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=393</guid>
-      <description><![CDATA["It was possibly the most circumspect advance in the history of military
-manoeuvres, right down at the bottom end of the scale that things like the
-Charge of the Light Brigade are at the top of."<br><br>The City Watch takes action - Terry Pratchett, Guards! Guards!]]></description>
     </item>
   </channel>
 </rss>
