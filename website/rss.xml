@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>06-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=402</link>
+      <pubDate>Sun, 05 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=402</guid>
+      <description><![CDATA["As far as I'm aware I'm not specifically banned anywhere in the USA, and
+am rather depressed about it.  Surely some of you guys can do
+*something?*"<br><br> - Terry Pratchett, alt.books.pratchett]]></description>
+    </item>
+    <item>
       <title>05-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=401</link>
       <pubDate>Sat, 04 Jun 2016 22:00:00 UT</pubDate>
@@ -33,13 +42,6 @@ the covers... this is discrimination against the chronologically gifted."<br><br
       <pubDate>Wed, 01 Jun 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=398</guid>
       <description><![CDATA["Guilt was the grease in which the wheels of the authority turned."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>01-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=397</link>
-      <pubDate>Tue, 31 May 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=397</guid>
-      <description><![CDATA["The significant owl hoots in the night."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
     </item>
   </channel>
 </rss>
