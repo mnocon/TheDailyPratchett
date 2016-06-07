@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>07-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=403</link>
+      <pubDate>Mon, 06 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=403</guid>
+      <description><![CDATA[""He's in love," said Gaspode. "It's very tricky."
+"Yeah, I know how it is," said the cat sympathetically. "People throwing
+old boots and things at you.""<br><br> - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>06-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=402</link>
       <pubDate>Sun, 05 Jun 2016 22:00:00 UT</pubDate>
@@ -35,13 +44,6 @@ the covers... this is discrimination against the chronologically gifted."<br><br
       <pubDate>Thu, 02 Jun 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=399</guid>
       <description><![CDATA["I mean are we talking Thicko City here or what?"<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>02-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=398</link>
-      <pubDate>Wed, 01 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=398</guid>
-      <description><![CDATA["Guilt was the grease in which the wheels of the authority turned."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
