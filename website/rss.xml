@@ -5,6 +5,20 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=407</link>
+      <pubDate>Fri, 10 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=407</guid>
+      <description><![CDATA["Wobbler had written an actual computer game like this once. It was called
+"Journey to Alpha Centauri". It was a screen with some dots on it.
+Because, he said, it happened in *real time*, which no-one had ever heard
+of until computers. He'd seen on TV that it took three thousand years to
+get to Alpha Centauri. He had written it so that if anyone kept their
+computer on for three thousand years, they'd be rewarded by a little dot
+appearing in the middle of the screen, and then a message saying, "Welcome
+to Alpha Centauri. Now go home.""<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
+    </item>
+    <item>
       <title>10-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=406</link>
       <pubDate>Thu, 09 Jun 2016 22:00:00 UT</pubDate>
@@ -38,15 +52,6 @@ prosecution and c) a baseball bat  :-)"<br><br> - Terry Pratchett, alt.fan.pratc
       <description><![CDATA[""He's in love," said Gaspode. "It's very tricky."
 "Yeah, I know how it is," said the cat sympathetically. "People throwing
 old boots and things at you.""<br><br> - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>06-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=402</link>
-      <pubDate>Sun, 05 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=402</guid>
-      <description><![CDATA["As far as I'm aware I'm not specifically banned anywhere in the USA, and
-am rather depressed about it.  Surely some of you guys can do
-*something?*"<br><br> - Terry Pratchett, alt.books.pratchett]]></description>
     </item>
   </channel>
 </rss>
