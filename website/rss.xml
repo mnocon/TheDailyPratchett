@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=416</link>
+      <pubDate>Sun, 19 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=416</guid>
+      <description><![CDATA["The lorry blocked the road. And the corrugated iron blocked the road. And a
+thirty-foot-high pile of fish blocked the road. It was one of the most
+effectively blocked roads the sergeant had ever seen."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>19-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=415</link>
       <pubDate>Sat, 18 Jun 2016 22:00:00 UT</pubDate>
@@ -33,14 +42,6 @@ motion was gently moving everyone away."<br><br> - Terry Pratchett, Reaper Man]]
       <pubDate>Wed, 15 Jun 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=412</guid>
       <description><![CDATA["Can't sing. Can't dance. Can handle a sword a little."<br><br>Victor's resume - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>15-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=411</link>
-      <pubDate>Tue, 14 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=411</guid>
-      <description><![CDATA["Biers was where the undead drank. And when Igor the barman was asked for a
-Bloody Mary, he didn't mix a metaphor."<br><br> - Terry Pratchett, Hogfather]]></description>
     </item>
   </channel>
 </rss>
