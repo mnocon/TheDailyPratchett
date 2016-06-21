@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>21-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=417</link>
+      <pubDate>Mon, 20 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=417</guid>
+      <description><![CDATA["1) I have never waved a hankie in anger
+2) I do not peronally know any Morris dancers
+3) But Morris dancing is kind of funny and weird at the same time."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>20-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=416</link>
       <pubDate>Sun, 19 Jun 2016 22:00:00 UT</pubDate>
@@ -35,13 +44,6 @@ motion was gently moving everyone away."<br><br> - Terry Pratchett, Reaper Man]]
       <pubDate>Thu, 16 Jun 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=413</guid>
       <description><![CDATA["Woof. In tones of low menace."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>16-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=412</link>
-      <pubDate>Wed, 15 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=412</guid>
-      <description><![CDATA["Can't sing. Can't dance. Can handle a sword a little."<br><br>Victor's resume - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
