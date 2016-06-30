@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>30-Jun-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=426</link>
+      <pubDate>Wed, 29 Jun 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=426</guid>
+      <description><![CDATA["I WAS AT A PARTY, he added, a shade reproachfully."<br><br>Death is summoned by the Wizards - Terry Pratchett, The Light Fantastic]]></description>
+    </item>
+    <item>
       <title>29-Jun-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=425</link>
       <pubDate>Tue, 28 Jun 2016 22:00:00 UT</pubDate>
@@ -37,14 +44,6 @@ item that weighs less than its operating manual."<br><br> - Terry Pratchett, Jin
       <description><![CDATA["- "Have you any last words?"
 - YES. I DON'T WANT TO GO.
 - "Well. Succinct, anyway.""<br><br>Death at the other end of the scythe, for once - Terry Pratchett, Reaper Man]]></description>
-    </item>
-    <item>
-      <title>25-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=421</link>
-      <pubDate>Fri, 24 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=421</guid>
-      <description><![CDATA["I reckon that Stonehege was build by the contemporary equivalent of
-Microsoft, whereas Avebury was definitely an Apple circle."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
