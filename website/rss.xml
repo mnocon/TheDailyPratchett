@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>04-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=430</link>
+      <pubDate>Sun, 03 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=430</guid>
+      <description><![CDATA["The Archchancellor's most important job, as the Bursar saw it, was to sign
+things, preferably, from the Bursar's point of view, without reading them
+first."<br><br>Middle management explained - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>03-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=429</link>
       <pubDate>Sat, 02 Jul 2016 22:00:00 UT</pubDate>
@@ -37,14 +46,6 @@ because they are not the ones the magpies know themselves."<br><br> - Terry Prat
       <pubDate>Wed, 29 Jun 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=426</guid>
       <description><![CDATA["I WAS AT A PARTY, he added, a shade reproachfully."<br><br>Death is summoned by the Wizards - Terry Pratchett, The Light Fantastic]]></description>
-    </item>
-    <item>
-      <title>29-Jun-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=425</link>
-      <pubDate>Tue, 28 Jun 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=425</guid>
-      <description><![CDATA["Somehow, trying to get Granny Weatherwax and 'panty raid' into the same
-sentence is beyond me."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
