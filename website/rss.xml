@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>07-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=433</link>
+      <pubDate>Wed, 06 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=433</guid>
+      <description><![CDATA["There are hardly any excesses of the most crazed psychopath that
+cannot easily be duplicated by a normal kindly family man who just
+comes in to work every day and has a job to do."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>06-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=432</link>
       <pubDate>Tue, 05 Jul 2016 22:00:00 UT</pubDate>
@@ -37,15 +46,6 @@ first."<br><br>Middle management explained - Terry Pratchett, Moving Pictures]]>
 herbs and roots, were amazing things. After one dose of stomache-ache
 jollop, you made sure you never complained of stomach ache ever again. In
 its way, it was a sort of cure."<br><br>No, not that Granny. The other one. - Terry Pratchett, Truckers]]></description>
-    </item>
-    <item>
-      <title>02-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=428</link>
-      <pubDate>Fri, 01 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=428</guid>
-      <description><![CDATA["A Thaum is the basic unit of magical strength. It has been universally
-established as the amount of magic needed to create one small white pigeon
-or three normal sized billiard balls."<br><br> - Terry Pratchett, The Light Fantastic]]></description>
     </item>
   </channel>
 </rss>
