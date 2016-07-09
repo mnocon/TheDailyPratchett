@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>09-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=435</link>
+      <pubDate>Fri, 08 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=435</guid>
+      <description><![CDATA["On the fabled hidden continent of Xxxx, somewhere near the rim, there is a
+lost colony of wizards who wear corks around their pointy hats and live on
+nothing but prawns."<br><br> - Terry Pratchett, Reaper Man]]></description>
+    </item>
+    <item>
       <title>08-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=434</link>
       <pubDate>Thu, 07 Jul 2016 22:00:00 UT</pubDate>
@@ -37,15 +46,6 @@ ways up a narrow street and waiting for the other man to reverse first."<br><br>
       <pubDate>Mon, 04 Jul 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=431</guid>
       <description><![CDATA["If we find a cat I'm going to kick it!"<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
-    </item>
-    <item>
-      <title>04-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=430</link>
-      <pubDate>Sun, 03 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=430</guid>
-      <description><![CDATA["The Archchancellor's most important job, as the Bursar saw it, was to sign
-things, preferably, from the Bursar's point of view, without reading them
-first."<br><br>Middle management explained - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
