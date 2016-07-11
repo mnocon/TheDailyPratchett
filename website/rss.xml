@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=437</link>
+      <pubDate>Sun, 10 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=437</guid>
+      <description><![CDATA["The river Ankh is probably the only river in the universe on which the
+investigators can chalk the outline of the corpse."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>10-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=436</link>
       <pubDate>Sat, 09 Jul 2016 22:00:00 UT</pubDate>
@@ -39,14 +47,6 @@ nothing but prawns."<br><br> - Terry Pratchett, Reaper Man]]></description>
       <description><![CDATA["There are hardly any excesses of the most crazed psychopath that
 cannot easily be duplicated by a normal kindly family man who just
 comes in to work every day and has a job to do."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>06-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=432</link>
-      <pubDate>Tue, 05 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=432</guid>
-      <description><![CDATA["They looked at one another in incomprehension, two minds driving opposite
-ways up a narrow street and waiting for the other man to reverse first."<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
   </channel>
 </rss>
