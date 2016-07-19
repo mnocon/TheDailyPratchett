@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>19-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=445</link>
+      <pubDate>Mon, 18 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=445</guid>
+      <description><![CDATA["Worlds only harmonica-playing dog. Tuppence."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>18-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=444</link>
       <pubDate>Sun, 17 Jul 2016 22:00:00 UT</pubDate>
@@ -38,17 +45,6 @@ members of it who are dead."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens
       <description><![CDATA["The question seldom addressed is *where* Medusa had snakes. Underarm hair
 is an even more embarassing problem when it keeps biting the top of the
 deodorant bottle."<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>14-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=440</link>
-      <pubDate>Wed, 13 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=440</guid>
-      <description><![CDATA["No enemies had ever taken Ankh-Morpock. Well *technically* they had, quite
-often; the city welcomed free-spending barbarian invaders, but somehow the
-puzzled raiders found, after a few days, that they didn't own their horses
-any more, and within a couple of months they were just another minority
-group with its own graffiti and food shops."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
