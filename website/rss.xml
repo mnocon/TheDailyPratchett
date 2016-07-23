@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=449</link>
+      <pubDate>Fri, 22 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=449</guid>
+      <description><![CDATA["Instead, people would take pains to tell her that beauty was only
+skin-deep, as if a man ever fell for an attractive pair of kidneys."<br><br> - Terry Pratchett, Maskerade]]></description>
+    </item>
+    <item>
       <title>22-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=448</link>
       <pubDate>Thu, 21 Jul 2016 22:00:00 UT</pubDate>
@@ -34,16 +42,6 @@ of cartridges."<br><br> - Terry Pratchett, Mort]]></description>
       <pubDate>Mon, 18 Jul 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=445</guid>
       <description><![CDATA["Worlds only harmonica-playing dog. Tuppence."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>18-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=444</link>
-      <pubDate>Sun, 17 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=444</guid>
-      <description><![CDATA["It is a fact that although the Death of the Discworld is, in his own words,
-an ANTHROPOMORPHIC PERSONIFICATION, he long ago gave up using the
-traditional skeletal horses, because of the bother of having to stop all
-the time to wire bits back on."<br><br> - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
