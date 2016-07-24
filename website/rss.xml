@@ -5,6 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>24-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=450</link>
+      <pubDate>Sat, 23 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=450</guid>
+      <description><![CDATA["God does not play dice with the universe: He plays an ineffable game of His
+own devising, which might be compared, from the perspective of any of the
+other players [i.e. everybody], to being involved in an obscure and complex
+variant of poker in a pitch-dark room, with blank cards, for infinite
+stakes, with a Dealer who won't tell you the rules, and who *smiles all the
+time*."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>23-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=449</link>
       <pubDate>Fri, 22 Jul 2016 22:00:00 UT</pubDate>
@@ -35,13 +47,6 @@ skin-deep, as if a man ever fell for an attractive pair of kidneys."<br><br> - T
 that would be a pigeon who has heard not only that Lord Nelson has got down
 off his column but has also been seen buying a 12-bore repeater and a box
 of cartridges."<br><br> - Terry Pratchett, Mort]]></description>
-    </item>
-    <item>
-      <title>19-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=445</link>
-      <pubDate>Mon, 18 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=445</guid>
-      <description><![CDATA["Worlds only harmonica-playing dog. Tuppence."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
