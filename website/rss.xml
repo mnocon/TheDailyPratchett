@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>28-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=454</link>
+      <pubDate>Wed, 27 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=454</guid>
+      <description><![CDATA["It's not enough to be able to pick up a sword. You have to know which end to
+poke into the enemy."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>27-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=453</link>
       <pubDate>Tue, 26 Jul 2016 22:00:00 UT</pubDate>
@@ -38,14 +46,6 @@ other players [i.e. everybody], to being involved in an obscure and complex
 variant of poker in a pitch-dark room, with blank cards, for infinite
 stakes, with a Dealer who won't tell you the rules, and who *smiles all the
 time*."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>23-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=449</link>
-      <pubDate>Fri, 22 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=449</guid>
-      <description><![CDATA["Instead, people would take pains to tell her that beauty was only
-skin-deep, as if a man ever fell for an attractive pair of kidneys."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
   </channel>
 </rss>
