@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>31-Jul-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=457</link>
+      <pubDate>Sat, 30 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=457</guid>
+      <description><![CDATA["There is nothing that can be in our way, for this is Jekub, that Laughs at
+Barriers, and says brrm-brrm."<br><br>From the Book Of Nome, Jekub, Chap. 3, v. V - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>30-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=456</link>
       <pubDate>Fri, 29 Jul 2016 22:00:00 UT</pubDate>
@@ -39,13 +47,6 @@ poke into the enemy."<br><br> - Terry Pratchett, Lords and Ladies]]></descriptio
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=453</guid>
       <description><![CDATA["Fewer birds could sit more meekly than the Lancre wowhawk, or lappet-faced
 worrier, a carnivore permanently on the lookout for the vegetarian option."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>26-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=452</link>
-      <pubDate>Mon, 25 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=452</guid>
-      <description><![CDATA[""You know," said Windle, "it's a wonderful afterlife.""<br><br> - Terry Pratchett, Reaper Man]]></description>
     </item>
   </channel>
 </rss>
