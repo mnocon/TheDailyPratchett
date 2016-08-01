@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>01-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=458</link>
+      <pubDate>Sun, 31 Jul 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=458</guid>
+      <description><![CDATA[""Why bother with such a big stone arch?"
+"It's just showing off. There's probably a sticker on the back saying 'My
+Other Grave Is A Porch'"."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
+    </item>
+    <item>
       <title>31-Jul-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=457</link>
       <pubDate>Sat, 30 Jul 2016 22:00:00 UT</pubDate>
@@ -39,14 +48,6 @@ TP: Yes, but I think I have time to reload.
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=454</guid>
       <description><![CDATA["It's not enough to be able to pick up a sword. You have to know which end to
 poke into the enemy."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>27-Jul-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=453</link>
-      <pubDate>Tue, 26 Jul 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=453</guid>
-      <description><![CDATA["Fewer birds could sit more meekly than the Lancre wowhawk, or lappet-faced
-worrier, a carnivore permanently on the lookout for the vegetarian option."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
   </channel>
 </rss>
