@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=469</link>
+      <pubDate>Thu, 11 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=469</guid>
+      <description><![CDATA["The calender of the Theocracy of Muntab counts down, not up. No-one knows
+why, but it might not be a good idea to hang around and find out."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
+    </item>
+    <item>
       <title>11-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=468</link>
       <pubDate>Wed, 10 Aug 2016 22:00:00 UT</pubDate>
@@ -34,15 +42,6 @@ it's above it, or below it, or falling in bits around it."<br><br> - Terry Pratc
       <pubDate>Sun, 07 Aug 2016 22:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=465</guid>
       <description><![CDATA["Go on, do Deformed Rabbit... it's my favourite."<br><br>Shadow puppets are so cute - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>07-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=464</link>
-      <pubDate>Sat, 06 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=464</guid>
-      <description><![CDATA["And there was nothing finer than a wizard dressed up formally, until
-someone could find a way of inflating a Bird of Paradise, possibly by using
-an elastic band and some kind of gas."<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
