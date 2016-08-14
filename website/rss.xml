@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>14-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=471</link>
+      <pubDate>Sat, 13 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=471</guid>
+      <description><![CDATA["Let's see, now... in HOGFATHER there are a number of stabbings, someone's
+killed by a man made of knives, someone's killed by the dark, and someone
+just been killed by a wardrobe.
+
+It's a book about the magic of childhood. You can tell."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>13-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=470</link>
       <pubDate>Fri, 12 Aug 2016 22:00:00 UT</pubDate>
@@ -35,14 +46,6 @@ who has a cool and exciting middle name"."<br><br> - Terry Pratchett, Maskerade]
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=467</guid>
       <description><![CDATA["AIRPORTS: A place where people hurry up and wait."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
            by Angalo de Haberdasheri - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>09-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=466</link>
-      <pubDate>Mon, 08 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=466</guid>
-      <description><![CDATA["The Alchemist's Guild is opposite the Gambler's Guild. Usually. Sometimes
-it's above it, or below it, or falling in bits around it."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
   </channel>
 </rss>
