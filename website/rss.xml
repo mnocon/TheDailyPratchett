@@ -5,6 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=472</link>
+      <pubDate>Sun, 14 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=472</guid>
+      <description><![CDATA["It was Carrot who'd suggested to the Patrician that hardened criminals
+should be given the chance to "serve the community" by redecorating the
+homes of the elderly, lending a new terror to old age and, given
+Ankh-Morpork's crime rate, leading to at least one old lady having her
+front room wallpapered so many times in six months that now she could only
+get in sideways."<br><br> - Terry Pratchett, Feet of Clay]]></description>
+    </item>
+    <item>
       <title>14-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=471</link>
       <pubDate>Sat, 13 Aug 2016 22:00:00 UT</pubDate>
@@ -38,14 +50,6 @@ why, but it might not be a good idea to hang around and find out."<br><br> - Ter
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=468</guid>
       <description><![CDATA["She'd even given herself a middle initial - X - which stood for "someone
 who has a cool and exciting middle name"."<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>10-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=467</link>
-      <pubDate>Tue, 09 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=467</guid>
-      <description><![CDATA["AIRPORTS: A place where people hurry up and wait."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
-           by Angalo de Haberdasheri - Terry Pratchett, Wings]]></description>
     </item>
   </channel>
 </rss>
