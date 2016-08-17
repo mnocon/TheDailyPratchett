@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>17-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=474</link>
+      <pubDate>Tue, 16 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=474</guid>
+      <description><![CDATA["- "You're Hells Angels, then? What chapter are you from?"
+- REVELATIONS, CHAPTER SIX."<br><br>Death in conversation with a biker - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>16-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=473</link>
       <pubDate>Mon, 15 Aug 2016 22:00:00 UT</pubDate>
@@ -42,14 +50,6 @@ It's a book about the magic of childhood. You can tell."<br><br> - Terry Pratche
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=470</guid>
       <description><![CDATA["He microwaved himself something called a Pour-On Genuine Creole Lasagne,
 which said it served four portions. It did if you were dwarfs."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
-    </item>
-    <item>
-      <title>12-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=469</link>
-      <pubDate>Thu, 11 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=469</guid>
-      <description><![CDATA["The calender of the Theocracy of Muntab counts down, not up. No-one knows
-why, but it might not be a good idea to hang around and find out."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
   </channel>
 </rss>
