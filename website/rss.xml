@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>19-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=476</link>
+      <pubDate>Thu, 18 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=476</guid>
+      <description><![CDATA["Over the centuries, mankind has tried many ways of combating the forces of
+evil...prayer, fasting, good works and so on. Up until Doom, no one seemed
+to have thought about the double-barrel shotgun. Eat leaden death, demon..."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>18-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=475</link>
       <pubDate>Wed, 17 Aug 2016 22:00:00 UT</pubDate>
@@ -39,17 +48,6 @@ homes of the elderly, lending a new terror to old age and, given
 Ankh-Morpork's crime rate, leading to at least one old lady having her
 front room wallpapered so many times in six months that now she could only
 get in sideways."<br><br> - Terry Pratchett, Feet of Clay]]></description>
-    </item>
-    <item>
-      <title>14-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=471</link>
-      <pubDate>Sat, 13 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=471</guid>
-      <description><![CDATA["Let's see, now... in HOGFATHER there are a number of stabbings, someone's
-killed by a man made of knives, someone's killed by the dark, and someone
-just been killed by a wardrobe.
-
-It's a book about the magic of childhood. You can tell."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
