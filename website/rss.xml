@@ -5,6 +5,20 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>29-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=486</link>
+      <pubDate>Sun, 28 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=486</guid>
+      <description><![CDATA["There were no flies on C.M.O.T Dibbler. He would have charged them rent."<br><br> - Terry Pratchett, The Truth]]></description>
+    </item>
+    <item>
+      <title>28-Aug-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=485</link>
+      <pubDate>Sat, 27 Aug 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=485</guid>
+      <description><![CDATA["Most gods find it hard to walk and think at the same time."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>27-Aug-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=484</link>
       <pubDate>Fri, 26 Aug 2016 22:00:00 UT</pubDate>
@@ -32,23 +46,6 @@ take his breath away."<br><br>Princess Keli prepares for her coronation - Terry 
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=482</guid>
       <description><![CDATA["Until an unfortunate axe incident, Gloria had been captain of the school
 basketball team."<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>24-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=481</link>
-      <pubDate>Tue, 23 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=481</guid>
-      <description><![CDATA["Take it from me, whenever you see a bunch of buggers puttering
-around talking about truth and beauty and the best way of attacking
-Ethics, you can bet your sandals it's all because dozens of other
-poor buggers are doing all the real work around the place."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>23-Aug-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=480</link>
-      <pubDate>Mon, 22 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=480</guid>
-      <description><![CDATA["Gravity is a habit that is hard to shake off."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
