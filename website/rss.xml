@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>06-Sep-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=494</link>
+      <pubDate>Mon, 05 Sep 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=494</guid>
+      <description><![CDATA["One day I'll be dead and THEN you'll all be sorry."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>05-Sep-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=493</link>
       <pubDate>Sun, 04 Sep 2016 22:00:00 UT</pubDate>
@@ -41,14 +48,6 @@ agents meeting clandestinely that they have developed their own Pavlovian
 reaction. Put a St James's Park duck in a laboratory cage and show it a
 picture of two men -- one usually wearing a coat with a fur collar, the
 other something sombre with a scarf -- and it'll look up expectantly."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>01-Sep-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=489</link>
-      <pubDate>Wed, 31 Aug 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=489</guid>
-      <description><![CDATA["He says gods like to see an atheist around. Gives them something
-to aim at."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
