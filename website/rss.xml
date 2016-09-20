@@ -5,6 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Sep-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=508</link>
+      <pubDate>Mon, 19 Sep 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=508</guid>
+      <description><![CDATA["- "I think there may be one or two steps in your logic that I have failed
+  to grasp, Mister Stibbons," said the Archchancellor coldly. "I suppose
+  you're not intending to shoot your own grandfather, by any chance?"
+- "Of course not!" snapped Ponder, "I don't even know what he looked like.
+  He died before I was born."
+- "Ah-*hah*!""<br><br>The faculty members of Unseen University discuss time travel - Terry Pratchett, The Last Continent]]></description>
+    </item>
+    <item>
       <title>19-Sep-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=507</link>
       <pubDate>Sun, 18 Sep 2016 22:00:00 UT</pubDate>
@@ -37,15 +49,6 @@ have many problems, this was one of them that was not his."<br><br> - Terry Prat
       <description><![CDATA["They stared at the branch. There wasn't just one flower out there, there
 were dozens, although the frogs weren't able to think like this because
 frogs can't count beyond one. They saw lots of ones."<br><br> - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>15-Sep-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=503</link>
-      <pubDate>Wed, 14 Sep 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=503</guid>
-      <description><![CDATA["Probably the last man who knew how it worked had been tortured to
-death years before. Or as soon as it was installed. Killing the
-creator was a traditional method of patent protection."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
