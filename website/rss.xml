@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>22-Sep-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=510</link>
+      <pubDate>Wed, 21 Sep 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=510</guid>
+      <description><![CDATA["'Educational' refers to the process, not the object. Although, come to
+think of it, some of my teachers could easily have been replaced by a
+cheeseburger."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>21-Sep-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=509</link>
       <pubDate>Tue, 20 Sep 2016 22:00:00 UT</pubDate>
@@ -39,14 +48,6 @@ thought he walked sideways."<br><br> - Terry Pratchett, Small Gods]]></descripti
       <description><![CDATA["YOU HAVE PERHAPS HEARD THE PHRASE THAT HELL IS OTHER PEOPLE?
 "Yes. Yes, of course."
 Death nodded. IN TIME, he said, YOU WILL LEARN THAT IT IS WRONG."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>17-Sep-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=505</link>
-      <pubDate>Fri, 16 Sep 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=505</guid>
-      <description><![CDATA["The man gave a shrug which indicated that, although the world did indeed
-have many problems, this was one of them that was not his."<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
   </channel>
 </rss>
