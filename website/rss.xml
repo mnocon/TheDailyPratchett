@@ -5,6 +5,25 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>26-Sep-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=514</link>
+      <pubDate>Sun, 25 Sep 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=514</guid>
+      <description><![CDATA["When Mister Safety Catch Is Not On, Mister Crossbow Is Not Your Friend."<br><br>Detritus learns about weapons safety - Terry Pratchett, Night Watch]]></description>
+    </item>
+    <item>
+      <title>25-Sep-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=513</link>
+      <pubDate>Sat, 24 Sep 2016 22:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=513</guid>
+      <description><![CDATA["Nomes live ten times faster than humans. They're harder to see than a high-
+speed mouse. That's one reason why most humans hardly ever see them. The
+other is that humans are very good at not seeing things they know aren't
+there. And, since sensible humans know that there are no such things as
+people four inches high, a nome who doesn't want to be seen probably won't
+be seen."<br><br> - Terry Pratchett, Wings]]></description>
+    </item>
+    <item>
       <title>24-Sep-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=512</link>
       <pubDate>Fri, 23 Sep 2016 22:00:00 UT</pubDate>
@@ -28,25 +47,6 @@ direct hit by a meteorite, for example, would count as gentrification."<br><br> 
       <description><![CDATA["'Educational' refers to the process, not the object. Although, come to
 think of it, some of my teachers could easily have been replaced by a
 cheeseburger."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>21-Sep-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=509</link>
-      <pubDate>Tue, 20 Sep 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=509</guid>
-      <description><![CDATA["Go ahead, bake my quiche"<br><br>Magrat instructs the castle cook - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>20-Sep-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=508</link>
-      <pubDate>Mon, 19 Sep 2016 22:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=508</guid>
-      <description><![CDATA["- "I think there may be one or two steps in your logic that I have failed
-  to grasp, Mister Stibbons," said the Archchancellor coldly. "I suppose
-  you're not intending to shoot your own grandfather, by any chance?"
-- "Of course not!" snapped Ponder, "I don't even know what he looked like.
-  He died before I was born."
-- "Ah-*hah*!""<br><br>The faculty members of Unseen University discuss time travel - Terry Pratchett, The Last Continent]]></description>
     </item>
   </channel>
 </rss>
