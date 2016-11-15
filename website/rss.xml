@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15-Nov-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=564</link>
+      <pubDate>Mon, 14 Nov 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=564</guid>
+      <description><![CDATA["+++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++"<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>14-Nov-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=563</link>
       <pubDate>Sun, 13 Nov 2016 23:00:00 UT</pubDate>
@@ -36,16 +43,6 @@ couldn't get it back."<br><br> - Terry Pratchett, alt.fan.pratchett]]></descript
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=560</guid>
       <description><![CDATA["A marriage is always made up of two people who are prepared to swear that
 only the other one snores."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
-    </item>
-    <item>
-      <title>10-Nov-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=559</link>
-      <pubDate>Wed, 09 Nov 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=559</guid>
-      <description><![CDATA["The door was still ajar, but there was a tentative tap on it which said, in
-a kind of metaphorical morse code, that the tapper could see very well that
-Carrot was in his room with a scantily clad woman and was trying to knock
-without actually being heard."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
   </channel>
 </rss>
