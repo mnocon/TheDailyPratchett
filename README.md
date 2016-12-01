@@ -1,4 +1,6 @@
 # TheDailyPratchett
 A website that displays a different quote from sir Terry Pratchett every day.
 
-The quotes are loaded as a JSON file and are set using JS.
+In action available at: http://mnocon.github.io/TheDailyPratchett/
+
+You can also permalink to a chosen quote using "id" parameter, e.g. http://mnocon.github.io/TheDailyPratchett/?id=269
