@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>01-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=580</link>
+      <pubDate>Wed, 30 Nov 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=580</guid>
+      <description><![CDATA["Maybe you should loosen her clothing or something."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>30-Nov-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=579</link>
       <pubDate>Tue, 29 Nov 2016 23:00:00 UT</pubDate>
@@ -42,13 +49,6 @@ Kong, Iceland..."<br><br> - Terry Pratchett, Wings]]></description>
       <description><![CDATA["- "We've got a lot of experience of not having any experience"
 - "But the point is... the point is... the point is we've not been
    experienced for a lot longer than you.""<br><br>Stop being so negative - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>26-Nov-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=575</link>
-      <pubDate>Fri, 25 Nov 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=575</guid>
-      <description><![CDATA["Death was Nature's way of telling you to slow down."<br><br> - Terry Pratchett, Strata]]></description>
     </item>
   </channel>
 </rss>
