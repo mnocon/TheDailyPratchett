@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=590</link>
+      <pubDate>Sat, 10 Dec 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=590</guid>
+      <description><![CDATA["One day a tortoise will learn how to fly."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>10-Dec-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=589</link>
       <pubDate>Fri, 09 Dec 2016 23:00:00 UT</pubDate>
@@ -34,16 +41,6 @@ nasty waiting at the far end."<br><br> - Terry Pratchett, Maskerade]]></descript
       <pubDate>Tue, 06 Dec 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=586</guid>
       <description><![CDATA["++?????++ Out of Cheese Error. Redo From Start."<br><br> - Terry Pratchett, Interesting Times]]></description>
-    </item>
-    <item>
-      <title>06-Dec-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=585</link>
-      <pubDate>Mon, 05 Dec 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=585</guid>
-      <description><![CDATA["- I USHERED SOULS INTO THE NEXT WORLD. I WAS THE GRAVE OF ALL HOPE. I
-  WAS THE ULTIMATE REALITY. I WAS THE ASSASSIN AGAINST WHOM NO LOCK
-  WOULD HOLD.
-- "Yes, point taken, but do you have any particular skills?""<br><br>Death consults a job broker - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
