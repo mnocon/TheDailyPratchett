@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=591</link>
+      <pubDate>Sun, 11 Dec 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=591</guid>
+      <description><![CDATA["Cats don't hunt seals. They would if they knew what they were and where to
+find them. But they don't, so that's all right."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
+    </item>
+    <item>
       <title>11-Dec-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=590</link>
       <pubDate>Sat, 10 Dec 2016 23:00:00 UT</pubDate>
@@ -34,13 +42,6 @@ were reduced to getting their education from school."<br><br> - Terry Pratchett,
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=587</guid>
       <description><![CDATA["It is the fate of all banisters worth sliding down that there is something
 nasty waiting at the far end."<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>07-Dec-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=586</link>
-      <pubDate>Tue, 06 Dec 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=586</guid>
-      <description><![CDATA["++?????++ Out of Cheese Error. Redo From Start."<br><br> - Terry Pratchett, Interesting Times]]></description>
     </item>
   </channel>
 </rss>
