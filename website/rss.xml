@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>17-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=596</link>
+      <pubDate>Fri, 16 Dec 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=596</guid>
+      <description><![CDATA["Being a werewolf meant having the dexterity and jaw power to instantly rip
+out a man's jugular. It was a trick of her father's that had always annoyed
+her mother, especially when he did it just before meals."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>16-Dec-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=595</link>
       <pubDate>Thu, 15 Dec 2016 23:00:00 UT</pubDate>
@@ -37,14 +46,6 @@ living."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
       <pubDate>Mon, 12 Dec 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=592</guid>
       <description><![CDATA["Real children don't go hoppity-skip unless they are on drugs."<br><br>Susan, the ultimate sensible governess - Terry Pratchett, Hogfather]]></description>
-    </item>
-    <item>
-      <title>12-Dec-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=591</link>
-      <pubDate>Sun, 11 Dec 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=591</guid>
-      <description><![CDATA["Cats don't hunt seals. They would if they knew what they were and where to
-find them. But they don't, so that's all right."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
     </item>
   </channel>
 </rss>
