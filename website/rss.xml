@@ -5,6 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>18-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=597</link>
+      <pubDate>Sat, 17 Dec 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=597</guid>
+      <description><![CDATA["On the fifth day the Governor of the town called all the tribal chieftains
+to an audience in the market square, to hear their grievances. He didn't
+always do anything about them, but at least they got *heard*, and he nodded
+a lot, and everyone felt better about it at least until they got home. This
+is politics."<br><br>Carpet politics are very similar to Discworld politics - Terry Pratchett, The Carpet People]]></description>
+    </item>
+    <item>
       <title>17-Dec-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=596</link>
       <pubDate>Fri, 16 Dec 2016 23:00:00 UT</pubDate>
@@ -39,13 +50,6 @@ living."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
       <pubDate>Tue, 13 Dec 2016 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=593</guid>
       <description><![CDATA["In the Beginning there was nothing, which exploded."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>13-Dec-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=592</link>
-      <pubDate>Mon, 12 Dec 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=592</guid>
-      <description><![CDATA["Real children don't go hoppity-skip unless they are on drugs."<br><br>Susan, the ultimate sensible governess - Terry Pratchett, Hogfather]]></description>
     </item>
   </channel>
 </rss>
