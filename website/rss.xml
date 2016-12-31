@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>31-Dec-16</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=610</link>
+      <pubDate>Fri, 30 Dec 2016 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=610</guid>
+      <description><![CDATA["No matter what she did with her hair it took about three minutes for it to
+tangle itself up again, like a garden hosepipe in a shed [Which, no matter
+how carefully coiled, will always uncoil overnight and tie the lawnmower to
+the bicycles]."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>30-Dec-16</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=609</link>
       <pubDate>Thu, 29 Dec 2016 23:00:00 UT</pubDate>
@@ -35,13 +45,6 @@ citadel. This is essentially the basis of all military thinking."<br><br> - Terr
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=606</guid>
       <description><![CDATA["Next comes the realist phase ("After all, from a purely geometrical point
 of view a cat is only a tube with a door at the top.")."<br><br>Getting Real cats to take medication can be a problem - Terry Pratchett, The Unadulterated Cat]]></description>
-    </item>
-    <item>
-      <title>26-Dec-16</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=605</link>
-      <pubDate>Sun, 25 Dec 2016 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=605</guid>
-      <description><![CDATA["I HOPE WE ARE NOT GOING TO HAVE ANY OF THIS 'FOUL FIEND' BUSINESS AGAIN."<br><br>Death gets summoned by the college council - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
