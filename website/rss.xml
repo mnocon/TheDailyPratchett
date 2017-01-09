@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>09-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=619</link>
+      <pubDate>Sun, 08 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=619</guid>
+      <description><![CDATA["The net software here did its meltdown trick again at the weekend (it
+happens about once every six months -- if only everything was as reliable
+as WordPerfect 4.2, which only chews up a novel about once every two or
+three years...)"<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>08-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=618</link>
       <pubDate>Sat, 07 Jan 2017 23:00:00 UT</pubDate>
@@ -54,13 +64,6 @@ and got up with the cows. [footnote: Er. That is to say, they went to bed
 at the same time as the chickens went to bed, and got up at the same time
 as the cows got up. Loosely worded sayings can really cause
 misunderstandings.]"<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>04-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=614</link>
-      <pubDate>Tue, 03 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=614</guid>
-      <description><![CDATA[""That's right," he said. "We're philosophers. We think, therefore we am.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
