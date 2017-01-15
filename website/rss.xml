@@ -5,6 +5,16 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>15-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=625</link>
+      <pubDate>Sat, 14 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=625</guid>
+      <description><![CDATA[""Chain letters," said the Tyrant. "The Chain Letter to the Ephebians.
+Forget Your Gods. Be Subjugated. Learn to Fear. Do not break the chain --
+the last people who did woke up one morning to find fifty thousand armed
+men on their lawn.""<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>14-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=624</link>
       <pubDate>Fri, 13 Jan 2017 23:00:00 UT</pubDate>
@@ -48,13 +58,6 @@ your intended destination about three years and two corners before you get
 there *with no signposting*. I used to cycle along it every day to get to
 school, before I fell off at 35 mph. [Kids! Don't try this at home!]  I
 know it well. I believe it is impossible to leave Reading heading west."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>10-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=620</link>
-      <pubDate>Mon, 09 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=620</guid>
-      <description><![CDATA["People didn't hit you over the head with farmhouses back home."<br><br>Nanny Ogg gets homesick - Terry Pratchett, Witches Abroad]]></description>
     </item>
   </channel>
 </rss>
