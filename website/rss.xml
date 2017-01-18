@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>18-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=628</link>
+      <pubDate>Tue, 17 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=628</guid>
+      <description><![CDATA["Tourist, Rincewind decided, meant "idiot"."<br><br> - Terry Pratchett, The Colour of Magic]]></description>
+    </item>
+    <item>
       <title>17-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=627</link>
       <pubDate>Mon, 16 Jan 2017 23:00:00 UT</pubDate>
@@ -44,16 +51,6 @@ men on their lawn.""<br><br> - Terry Pratchett, Small Gods]]></description>
       <description><![CDATA["Beyond the top of the sky was the place the Thing had called the universe.
 It contained -- according to the Thing -- everything and nothing. And there
 was very little everything and more nothing than anyone could imagine."<br><br> - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>13-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=623</link>
-      <pubDate>Thu, 12 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=623</guid>
-      <description><![CDATA["And then you bit onto them, and learned once again that Cut-me-own-Throat
-Dibbler could find a use for bits of an animal that the animal didn't know
-it had got. Dibbler had worked out that with enough fried onions and
-mustard people would eat *anything*."<br><br>A fact McDonalds knows about as well - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
