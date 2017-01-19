@@ -5,6 +5,15 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>19-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=629</link>
+      <pubDate>Wed, 18 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=629</guid>
+      <description><![CDATA["That seems to point up a significant difference between Europeans and
+Americans. A European says: "I can't understand this, what's wrong with
+me?" An American says: "I can't understand this, what's wrong with him?""<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>18-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=628</link>
       <pubDate>Tue, 17 Jan 2017 23:00:00 UT</pubDate>
@@ -42,15 +51,6 @@ woodcuts of the Four Button-Pressers of the Apocalypse, I do know that.""<br><br
 Forget Your Gods. Be Subjugated. Learn to Fear. Do not break the chain --
 the last people who did woke up one morning to find fifty thousand armed
 men on their lawn.""<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>14-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=624</link>
-      <pubDate>Fri, 13 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=624</guid>
-      <description><![CDATA["Beyond the top of the sky was the place the Thing had called the universe.
-It contained -- according to the Thing -- everything and nothing. And there
-was very little everything and more nothing than anyone could imagine."<br><br> - Terry Pratchett, Wings]]></description>
     </item>
   </channel>
 </rss>
