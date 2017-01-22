@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>22-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=632</link>
+      <pubDate>Sat, 21 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=632</guid>
+      <description><![CDATA["No running with scythes!"<br><br> - Terry Pratchett, Thief of Time]]></description>
+    </item>
+    <item>
       <title>21-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=631</link>
       <pubDate>Fri, 20 Jan 2017 23:00:00 UT</pubDate>
@@ -35,18 +42,6 @@ me?" An American says: "I can't understand this, what's wrong with him?""<br><br
       <pubDate>Tue, 17 Jan 2017 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=628</guid>
       <description><![CDATA["Tourist, Rincewind decided, meant "idiot"."<br><br> - Terry Pratchett, The Colour of Magic]]></description>
-    </item>
-    <item>
-      <title>17-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=627</link>
-      <pubDate>Mon, 16 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=627</guid>
-      <description><![CDATA["It was funny how people were people everywhere you went, even if the people
-concerned weren't the people the people who made up the phrase "people are
-people everywhere" had traditionally thought of as people. And even if you
-weren't virtuous, as you had been brought up to understand the term, you
-did like to see virtue in other people, provided it didn?t cost you
-anything."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
     </item>
   </channel>
 </rss>
