@@ -5,6 +5,13 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>23-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=633</link>
+      <pubDate>Sun, 22 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=633</guid>
+      <description><![CDATA["Idiot I may be, but tied up I ain't."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>22-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=632</link>
       <pubDate>Sat, 21 Jan 2017 23:00:00 UT</pubDate>
@@ -35,13 +42,6 @@ remember [footnote: About three seconds. Frogs don't have good memories]."<br><b
       <description><![CDATA["That seems to point up a significant difference between Europeans and
 Americans. A European says: "I can't understand this, what's wrong with
 me?" An American says: "I can't understand this, what's wrong with him?""<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>18-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=628</link>
-      <pubDate>Tue, 17 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=628</guid>
-      <description><![CDATA["Tourist, Rincewind decided, meant "idiot"."<br><br> - Terry Pratchett, The Colour of Magic]]></description>
     </item>
   </channel>
 </rss>
