@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>24-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=634</link>
+      <pubDate>Mon, 23 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=634</guid>
+      <description><![CDATA["In all, I've had seventeen demands for your badge. Some want parts of your
+body attached. Why did you have to upset everybody?"<br><br>Lord Vetinari reproves Vimes. - Terry Pratchett, Feet of Clay]]></description>
+    </item>
+    <item>
       <title>23-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=633</link>
       <pubDate>Sun, 22 Jan 2017 23:00:00 UT</pubDate>
@@ -33,15 +41,6 @@ raspberry puddings."<br><br>Agnes tells Christine about herself - Terry Pratchet
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=630</guid>
       <description><![CDATA["And this had been the way things were for as far back as the frogs could
 remember [footnote: About three seconds. Frogs don't have good memories]."<br><br> - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>19-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=629</link>
-      <pubDate>Wed, 18 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=629</guid>
-      <description><![CDATA["That seems to point up a significant difference between Europeans and
-Americans. A European says: "I can't understand this, what's wrong with
-me?" An American says: "I can't understand this, what's wrong with him?""<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
