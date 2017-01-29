@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>29-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=639</link>
+      <pubDate>Sat, 28 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=639</guid>
+      <description><![CDATA["The only way housework could be done in this place was with a shovel or,
+for preference, a match."<br><br> - Terry Pratchett, Witches Abroad]]></description>
+    </item>
+    <item>
       <title>28-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=638</link>
       <pubDate>Fri, 27 Jan 2017 23:00:00 UT</pubDate>
@@ -39,14 +47,6 @@ by the end that wasn't hot, he was going to be a Big Man in computers."<br><br> 
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=635</guid>
       <description><![CDATA[""It would seem that you have no useful skill or talent whatsoever," he
 said.  "Have you thought of going into teaching?""<br><br> - Terry Pratchett, Mort]]></description>
-    </item>
-    <item>
-      <title>24-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=634</link>
-      <pubDate>Mon, 23 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=634</guid>
-      <description><![CDATA["In all, I've had seventeen demands for your badge. Some want parts of your
-body attached. Why did you have to upset everybody?"<br><br>Lord Vetinari reproves Vimes. - Terry Pratchett, Feet of Clay]]></description>
     </item>
   </channel>
 </rss>
