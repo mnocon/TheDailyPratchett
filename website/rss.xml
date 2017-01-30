@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>30-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=640</link>
+      <pubDate>Sun, 29 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=640</guid>
+      <description><![CDATA["The Ramkins were more highly bred than a hilltop bakery, whereas Corporal
+Nobbs had been disqualified from the human race for shoving."<br><br> - Terry Pratchett, Men at Arms]]></description>
+    </item>
+    <item>
       <title>29-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=639</link>
       <pubDate>Sat, 28 Jan 2017 23:00:00 UT</pubDate>
@@ -39,14 +47,6 @@ for preference, a match."<br><br> - Terry Pratchett, Witches Abroad]]></descript
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=636</guid>
       <description><![CDATA["One day, if he could master GCSE maths and reliably pick up a soldering iron
 by the end that wasn't hot, he was going to be a Big Man in computers."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
-    </item>
-    <item>
-      <title>25-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=635</link>
-      <pubDate>Tue, 24 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=635</guid>
-      <description><![CDATA[""It would seem that you have no useful skill or talent whatsoever," he
-said.  "Have you thought of going into teaching?""<br><br> - Terry Pratchett, Mort]]></description>
     </item>
   </channel>
 </rss>
