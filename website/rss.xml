@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>31-Jan-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=641</link>
+      <pubDate>Mon, 30 Jan 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=641</guid>
+      <description><![CDATA["A good plan isn't one where someone wins, it's where nobody thinks
+they've *lost*."<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
+    </item>
+    <item>
       <title>30-Jan-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=640</link>
       <pubDate>Sun, 29 Jan 2017 23:00:00 UT</pubDate>
@@ -39,14 +47,6 @@ for preference, a match."<br><br> - Terry Pratchett, Witches Abroad]]></descript
       <pubDate>Thu, 26 Jan 2017 23:00:00 UT</pubDate>
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=637</guid>
       <description><![CDATA["There's nothin' wrong with bein' a son of a bitch."<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>26-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=636</link>
-      <pubDate>Wed, 25 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=636</guid>
-      <description><![CDATA["One day, if he could master GCSE maths and reliably pick up a soldering iron
-by the end that wasn't hot, he was going to be a Big Man in computers."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
     </item>
   </channel>
 </rss>
