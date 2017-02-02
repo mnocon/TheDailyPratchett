@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>02-Feb-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=643</link>
+      <pubDate>Wed, 01 Feb 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=643</guid>
+      <description><![CDATA["For animals, the entire universe has been neatly divided into things to
+(a) mate with, (b) eat, (c) run away from, and (d) rocks."<br><br> - Terry Pratchett, Equal Rites]]></description>
+    </item>
+    <item>
       <title>01-Feb-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=642</link>
       <pubDate>Tue, 31 Jan 2017 23:00:00 UT</pubDate>
@@ -35,19 +43,6 @@ Nobbs had been disqualified from the human race for shoving."<br><br> - Terry Pr
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=639</guid>
       <description><![CDATA["The only way housework could be done in this place was with a shovel or,
 for preference, a match."<br><br> - Terry Pratchett, Witches Abroad]]></description>
-    </item>
-    <item>
-      <title>28-Jan-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=638</link>
-      <pubDate>Fri, 27 Jan 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=638</guid>
-      <description><![CDATA["- "Very clever idea, though."
-- "What is?"
-- "Asking the questions when people arrive. If anyone was coming here to
-   do some subversive overthrowing, everyone'd be down on him like a pound of
-   bricks as soon as he answered 'Yes'."
-- "It's a sneaky trick, isn't it," said Angalo, in an admiring tone of
-   voice."<br><br>The nomes encounter American customs regulations - Terry Pratchett, Wings]]></description>
     </item>
   </channel>
 </rss>
