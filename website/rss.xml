@@ -5,6 +5,14 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20-Feb-17</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=661</link>
+      <pubDate>Sun, 19 Feb 2017 23:00:00 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=661</guid>
+      <description><![CDATA["This is Lord Mountjoy Quickfang Winterforth IV, the hottest dragon in the
+city. It could burn your head clean off."<br><br>Captain Vimes addresses a band of rioters - Terry Pratchett, Guards! Guards!]]></description>
+    </item>
+    <item>
       <title>19-Feb-17</title>
       <link>http://mnocon.github.io/TheDailyPratchett/?id=660</link>
       <pubDate>Sat, 18 Feb 2017 23:00:00 UT</pubDate>
@@ -39,14 +47,6 @@ speciesist. You have to call them pre-petroleum persons.""<br><br> - Terry Pratc
       <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=657</guid>
       <description><![CDATA["- "Outside! What's it like?"
 - "Well -- It's sort of big""<br><br> - Terry Pratchett, Truckers]]></description>
-    </item>
-    <item>
-      <title>15-Feb-17</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=656</link>
-      <pubDate>Tue, 14 Feb 2017 23:00:00 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=656</guid>
-      <description><![CDATA["Greebo could, in fact, commit sexual harrassment simply by sitting very
-quietly in the next room."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
   </channel>
 </rss>
