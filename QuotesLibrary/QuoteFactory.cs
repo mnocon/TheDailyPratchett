@@ -94,6 +94,7 @@ namespace QuotesLibrary
             for (var index =  possibleIndex > 0 ? possibleIndex : 0; startDate.AddDays(index) <= endDate; index++)
             {
                 var newsUrl = pageUrl + "?id=" + index;
+                index = index >= quotesList.Count ? index % quotesList.Count : index;
                 channelNode.AddFirst(quotesList[index].ToRSSItem(startDate.AddDays(index).ToShortDateString(), newsUrl , startDate.AddDays(index)));
             }
 
