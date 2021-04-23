@@ -1,0 +1,30 @@
+name: Publish new RSS feed
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        dotnet-version: ['2.2.x']
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET Core SDK ${{ matrix.dotnet-version }}
+      uses: actions/setup-dotnet@v1.7.2
+      with:
+        dotnet-version: ${{ matrix.dotnet-version }}
+    - name: Install dependencies
+      run: dotnet restore
+    - name: Build
+      run: dotnet build --configuration Release --no-restore
+    - name: Run
+      run: dotnet run
+
+# # Workflow:
+# 1) Checkout code
+# 2) Zbuduj apkę
+# 3) Wygeneruj
+# 4) Skopiuj do właściwego miejsca
+# 5) Pushnij
