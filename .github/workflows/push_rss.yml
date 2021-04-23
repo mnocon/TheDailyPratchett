@@ -1,11 +1,11 @@
 name: Publish new RSS feed
 
 on: 
-  - push:
-      branches:
-        - gh-pages
-  - schedule:
-      cron: "0 2 * * *"
+  push:
+    branches:
+      - gh-pages
+  schedule:
+    - cron: "0 2 * * *"
 
 jobs:
   build:
