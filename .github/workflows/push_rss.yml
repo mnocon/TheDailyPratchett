@@ -21,6 +21,18 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: Run
       run: dotnet run
+    - name: Copy the output
+      run: mv rss.xml ./website/rss.xml
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes" -a
+    - name: Push the changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
 
 # # Workflow:
 # 1) Checkout code
