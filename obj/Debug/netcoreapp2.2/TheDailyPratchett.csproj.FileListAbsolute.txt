@@ -1,0 +1,11 @@
+C:\Users\nocon\Desktop\TheDailyPratchett\bin\Debug\netcoreapp2.2\TheDailyPratchett.deps.json
+C:\Users\nocon\Desktop\TheDailyPratchett\bin\Debug\netcoreapp2.2\TheDailyPratchett.runtimeconfig.json
+C:\Users\nocon\Desktop\TheDailyPratchett\bin\Debug\netcoreapp2.2\TheDailyPratchett.runtimeconfig.dev.json
+C:\Users\nocon\Desktop\TheDailyPratchett\bin\Debug\netcoreapp2.2\TheDailyPratchett.dll
+C:\Users\nocon\Desktop\TheDailyPratchett\bin\Debug\netcoreapp2.2\TheDailyPratchett.pdb
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.csprojAssemblyReference.cache
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.csproj.CoreCompileInputs.cache
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.AssemblyInfoInputs.cache
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.AssemblyInfo.cs
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.dll
+C:\Users\nocon\Desktop\TheDailyPratchett\obj\Debug\netcoreapp2.2\TheDailyPratchett.pdb
