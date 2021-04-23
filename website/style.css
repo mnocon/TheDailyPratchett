@@ -106,7 +106,7 @@ header > nav > a
 		padding-bottom: 50px;
 	}
 	
-	.about > h2, .subscribe > form > h2
+	.about > h2
 	{
 	padding-top: 50px;
 	}
@@ -210,27 +210,6 @@ blockquote > footer > #source::before {
 	line-height: 2em;
 	text-align: justify;
 	}
-
-.subscribe {
-	background-color: rgba(32,34,75,1);
-	height: calc(100% - 45px);
-	display: flex; /* opt into the new box model */ 
-    justify-content: center; /* "align" */
-    align-items: center; /* "valign" */
-}
-
-.subscribe > form > h2
-{
-	color: white;
-	padding-bottom: 30px;
-}
-
-.subscribe > form > p
-{
-	padding-bottom: 30px;
-	color: #FFF;
-	font-size : 3vmin;
-}
 
 .inputField
 {
