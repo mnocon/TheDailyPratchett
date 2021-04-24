@@ -32,16 +32,9 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Add changes" -a
+        git commit -m "Generated new RSS file" -a
     - name: Push the changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-
-# # Workflow:
-# 1) Checkout code
-# 2) Zbuduj apkę
-# 3) Wygeneruj
-# 4) Skopiuj do właściwego miejsca
-# 5) Pushnij
