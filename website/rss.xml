@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>5/7/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=21944</link>
+      <pubDate>Fri, 07 May 2021 02:42:26 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21944</guid>
+      <description><![CDATA[""Ah. Philosophy," said Om."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>5/6/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=21934</link>
-      <pubDate>Thu, 06 May 2021 02:38:25 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21934</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=21943</link>
+      <pubDate>Thu, 06 May 2021 02:42:26 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21943</guid>
       <description><![CDATA["WHO KNOWS WHAT EVIL LURKS IN THE HEART OF MEN?
 The Death of Rats looked up from the feast of potato.
 SQUEAK, he said.
@@ -17,17 +24,17 @@ I JUST WONDERED IF THERE WAS ANYONE ELSE."<br><br> - Terry Pratchett, The Truth]
     </item>
     <item>
       <title>5/5/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=21933</link>
-      <pubDate>Wed, 05 May 2021 02:38:25 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21933</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=21942</link>
+      <pubDate>Wed, 05 May 2021 02:42:26 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21942</guid>
       <description><![CDATA["In all, I've had seventeen demands for your badge. Some want parts of your
 body attached. Why did you have to upset everybody?"<br><br>Lord Vetinari reproves Vimes. - Terry Pratchett, Feet of Clay]]></description>
     </item>
     <item>
       <title>5/4/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=21932</link>
-      <pubDate>Tue, 04 May 2021 02:38:25 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21932</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=21941</link>
+      <pubDate>Tue, 04 May 2021 02:42:26 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21941</guid>
       <description><![CDATA["It was done far more often than the audiences ever realized -- when singers
 had a sore throat, or had completely dried, or had turned up so drunk they
 could barely stand, or, in one notorious instance many years previously,
@@ -37,20 +44,10 @@ of string."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
     <item>
       <title>5/3/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=21931</link>
-      <pubDate>Mon, 03 May 2021 02:38:25 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21931</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=21940</link>
+      <pubDate>Mon, 03 May 2021 02:42:26 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21940</guid>
       <description><![CDATA[""I wants your body, Mrs Ogg.""<br><br>Casanunda makes his move - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>5/2/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=21930</link>
-      <pubDate>Sun, 02 May 2021 02:38:25 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=21930</guid>
-      <description><![CDATA["Crowley had been extremely impressed with the warranties offered by the
-computer industry, and had in fact sent a bundle Below to the department
-that drew up the Immortal Soul agreements, with a yellow memo form attached
-just saying: "Learn, guys.""<br><br>Crowley is a demon, in case you don't know - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
