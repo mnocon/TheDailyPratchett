@@ -5,10 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/2/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22204</link>
+      <pubDate>Wed, 02 Jun 2021 05:20:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22204</guid>
+      <description><![CDATA["A number of religions in Ankh-Morpork still practiced human sacrifice,
+except that they didn't really need to practice any more because they had
+got so good at it."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
+    </item>
+    <item>
       <title>6/1/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22194</link>
-      <pubDate>Tue, 01 Jun 2021 05:23:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22194</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22203</link>
+      <pubDate>Tue, 01 Jun 2021 05:20:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22203</guid>
       <description><![CDATA[""Slave is an Ephebian word. In Om we have no word for slave," said
 Vorbis.
 "So I understand," said the Tyrant. "I imagine that fish have no
@@ -16,34 +25,26 @@ word for water.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>5/31/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22193</link>
-      <pubDate>Mon, 31 May 2021 05:23:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22193</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22202</link>
+      <pubDate>Mon, 31 May 2021 05:20:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22202</guid>
       <description><![CDATA[""It's a god-eat-god world.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>5/30/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22192</link>
-      <pubDate>Sun, 30 May 2021 05:23:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22192</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22201</link>
+      <pubDate>Sun, 30 May 2021 05:20:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22201</guid>
       <description><![CDATA["Greebo could, in fact, commit sexual harrassment simply by sitting very
 quietly in the next room."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
     <item>
       <title>5/29/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22191</link>
-      <pubDate>Sat, 29 May 2021 05:23:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22191</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22200</link>
+      <pubDate>Sat, 29 May 2021 05:20:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22200</guid>
       <description><![CDATA["There was a new library in the Civic Centre. It was so new it didn't even
 have librarians. It had Assistant Information Officers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
-    </item>
-    <item>
-      <title>5/28/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22190</link>
-      <pubDate>Fri, 28 May 2021 05:23:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22190</guid>
-      <description><![CDATA["By and large, the only skill the alchemists of Ankh-Morpork had discovered
-so far was the ability to turn gold into less gold."<br><br> - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
