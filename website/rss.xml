@@ -5,18 +5,25 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/23/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22414</link>
+      <pubDate>Wed, 23 Jun 2021 02:25:07 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22414</guid>
+      <description><![CDATA[""Yes," said the skull. "Quit while you're a head, that's what I say.""<br><br> - Terry Pratchett, Soul Music]]></description>
+    </item>
+    <item>
       <title>6/22/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22404</link>
-      <pubDate>Tue, 22 Jun 2021 02:31:47 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22404</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22413</link>
+      <pubDate>Tue, 22 Jun 2021 02:25:07 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22413</guid>
       <description><![CDATA[""He says gods like to see an atheist around. Gives them something
 to aim at.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>6/21/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22403</link>
-      <pubDate>Mon, 21 Jun 2021 02:31:47 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22403</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22412</link>
+      <pubDate>Mon, 21 Jun 2021 02:25:07 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22412</guid>
       <description><![CDATA["Everything starts somewhere, though many physicists disagree. But people
 have always been dimly aware of the problem with the start of things. They
 wonder how the snowplough driver gets to work, or how the makers of
@@ -24,26 +31,18 @@ dictionaries look up the spelling of words."<br><br> - Terry Pratchett, Hogfathe
     </item>
     <item>
       <title>6/20/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22402</link>
-      <pubDate>Sun, 20 Jun 2021 02:31:47 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22402</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22411</link>
+      <pubDate>Sun, 20 Jun 2021 02:25:07 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22411</guid>
       <description><![CDATA["When the least they could do to you was everything, then the most
 they could do to you suddenly held no terror."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>6/19/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22401</link>
-      <pubDate>Sat, 19 Jun 2021 02:31:47 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22401</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22410</link>
+      <pubDate>Sat, 19 Jun 2021 02:25:07 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22410</guid>
       <description><![CDATA[""Ibid you already know.""<br><br>More Discworld philosophers - Terry Pratchett, Pyramids]]></description>
-    </item>
-    <item>
-      <title>6/18/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22400</link>
-      <pubDate>Fri, 18 Jun 2021 02:31:47 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22400</guid>
-      <description><![CDATA[""Did any of them kids have some space alien with a face like a friendly
-turd in a bike basket?""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
