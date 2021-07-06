@@ -5,10 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>7/6/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22544</link>
+      <pubDate>Tue, 06 Jul 2021 02:25:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22544</guid>
+      <description><![CDATA["Many an ancient lord's last words had been, "You can't kill me because I've
+got magic aaargh.""<br><br>Magic armour is not all it's cracked up to be. - Terry Pratchett, Interesting Times]]></description>
+    </item>
+    <item>
       <title>7/5/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22534</link>
-      <pubDate>Mon, 05 Jul 2021 02:24:48 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22534</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22543</link>
+      <pubDate>Mon, 05 Jul 2021 02:25:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22543</guid>
       <description><![CDATA["You can't remember the plot of the Dr Who movie because it didn't have one,
 just a lot of plot holes strung together.
 
@@ -16,35 +24,26 @@ It did have a lot of flashing lights, though."<br><br> - Terry Pratchett, alt.fa
     </item>
     <item>
       <title>7/4/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22533</link>
-      <pubDate>Sun, 04 Jul 2021 02:24:48 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22533</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22542</link>
+      <pubDate>Sun, 04 Jul 2021 02:25:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22542</guid>
       <description><![CDATA[""Growl, growl.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
     <item>
       <title>7/3/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22532</link>
-      <pubDate>Sat, 03 Jul 2021 02:24:48 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22532</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22541</link>
+      <pubDate>Sat, 03 Jul 2021 02:25:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22541</guid>
       <description><![CDATA["Too many people, when listing all the perils to be found in the search
 for lost treasure or ancient wisdom, had forgotten to put at the top of
 the list 'the man who arrived just before you'."<br><br> - Terry Pratchett, The Last Hero]]></description>
     </item>
     <item>
       <title>7/2/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22531</link>
-      <pubDate>Fri, 02 Jul 2021 02:24:48 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22531</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22540</link>
+      <pubDate>Fri, 02 Jul 2021 02:25:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22540</guid>
       <description><![CDATA[""Right, you bastards, you're... you're geography""<br><br> - Terry Pratchett, Guards! Guards!]]></description>
-    </item>
-    <item>
-      <title>7/1/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22530</link>
-      <pubDate>Thu, 01 Jul 2021 02:24:48 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22530</guid>
-      <description><![CDATA[""That statement is either so deep it would take a lifetime to fully
-comprehend every particle of its meaning, or it is a load of absolute tosh.
-Which is it, I wonder?""<br><br> - Terry Pratchett, Hogfather]]></description>
     </item>
   </channel>
 </rss>
