@@ -5,26 +5,36 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>7/12/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22604</link>
+      <pubDate>Mon, 12 Jul 2021 02:24:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22604</guid>
+      <description><![CDATA["- "Do you know, humans think the world was made by a sort of big human?"
+- "Get away?"
+- "It took a week."
+- "I expect it had some help, then,' said Dorcas."<br><br>The Nomes discuss religion - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>7/11/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22594</link>
-      <pubDate>Sun, 11 Jul 2021 02:25:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22594</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22603</link>
+      <pubDate>Sun, 11 Jul 2021 02:24:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22603</guid>
       <description><![CDATA["Cuius testiculos habes, habeas cardia et cerebellum."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>7/10/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22593</link>
-      <pubDate>Sat, 10 Jul 2021 02:25:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22593</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22602</link>
+      <pubDate>Sat, 10 Jul 2021 02:24:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22602</guid>
       <description><![CDATA["In fact, the mere act of opening the box will determine the state of the
 cat, although in this case there were three determinate states the cat
 could be in: these being Alive, Dead, and Bloody Furious."<br><br>Schrodinger's Moggy explained - Terry Pratchett, Lords and Ladies]]></description>
     </item>
     <item>
       <title>7/9/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22592</link>
-      <pubDate>Fri, 09 Jul 2021 02:25:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22592</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22601</link>
+      <pubDate>Fri, 09 Jul 2021 02:24:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22601</guid>
       <description><![CDATA["It was true about the time measurement as well. The Tezumen had realized
 long ago that everything was steadily getting worse and, having a terrible
 little-mindedness, had developed a complex system to keep track of how much
@@ -32,20 +42,11 @@ worse each succeeding day was."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
     <item>
       <title>7/8/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22591</link>
-      <pubDate>Thu, 08 Jul 2021 02:25:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22591</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=22600</link>
+      <pubDate>Thu, 08 Jul 2021 02:24:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22600</guid>
       <description><![CDATA["Give anyone a lever long enough and they can change the world.
 It's unreliable levers that are the problem."<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>7/7/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=22590</link>
-      <pubDate>Wed, 07 Jul 2021 02:25:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=22590</guid>
-      <description><![CDATA["Probably the last man who knew how it worked had been tortured to
-death years before. Or as soon as it was installed. Killing the
-creator was a traditional method of patent protection."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
