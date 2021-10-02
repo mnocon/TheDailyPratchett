@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/2/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23424</link>
+      <pubDate>Sat, 02 Oct 2021 02:27:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23424</guid>
+      <description><![CDATA[""I can explain it in Dog, but you only listen in Human.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>10/1/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23414</link>
-      <pubDate>Fri, 01 Oct 2021 02:32:02 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23414</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23423</link>
+      <pubDate>Fri, 01 Oct 2021 02:27:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23423</guid>
       <description><![CDATA["Ahahahahaha! Ahahahaha! Aahahaha!
 
      BEWARE!!!!!
@@ -18,36 +25,28 @@
     </item>
     <item>
       <title>9/30/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23413</link>
-      <pubDate>Thu, 30 Sep 2021 02:32:02 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23413</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23422</link>
+      <pubDate>Thu, 30 Sep 2021 02:27:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23422</guid>
       <description><![CDATA["Have a bit more patience with newbies. Of course some of them act dumb --
 they're often *students*, for heaven's sake."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>9/29/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23412</link>
-      <pubDate>Wed, 29 Sep 2021 02:32:02 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23412</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23421</link>
+      <pubDate>Wed, 29 Sep 2021 02:27:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23421</guid>
       <description><![CDATA[""I thought jet planes were just trucks with more wings and less wheels.""<br><br> - Terry Pratchett, Wings]]></description>
     </item>
     <item>
       <title>9/28/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23411</link>
-      <pubDate>Tue, 28 Sep 2021 02:32:02 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23411</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23420</link>
+      <pubDate>Tue, 28 Sep 2021 02:27:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23420</guid>
       <description><![CDATA["SATELLITES: They are in SPACE and stay there by going so fast that they are
 never in one place enough to fall down. TELEVISIONS are bounced off them.
 They are part of SCIENCE."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
            by Angalo de Haberdasheri - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>9/27/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23410</link>
-      <pubDate>Mon, 27 Sep 2021 02:32:02 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23410</guid>
-      <description><![CDATA[""Luck is my middle name," said Rincewind, indistinctly. "Mind you, my first
-name is Bad.""<br><br> - Terry Pratchett, Interesting Times]]></description>
     </item>
   </channel>
 </rss>
