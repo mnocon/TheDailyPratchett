@@ -5,17 +5,26 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/3/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23434</link>
+      <pubDate>Sun, 03 Oct 2021 02:26:57 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23434</guid>
+      <description><![CDATA["Rincewind had been told that death was just like going into another room.
+The difference is, when you shout, "Where's my clean socks?", no-one
+answers."<br><br> - Terry Pratchett, Eric]]></description>
+    </item>
+    <item>
       <title>10/2/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23424</link>
-      <pubDate>Sat, 02 Oct 2021 02:27:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23424</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23433</link>
+      <pubDate>Sat, 02 Oct 2021 02:26:57 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23433</guid>
       <description><![CDATA[""I can explain it in Dog, but you only listen in Human.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
     <item>
       <title>10/1/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23423</link>
-      <pubDate>Fri, 01 Oct 2021 02:27:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23423</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23432</link>
+      <pubDate>Fri, 01 Oct 2021 02:26:57 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23432</guid>
       <description><![CDATA["Ahahahahaha! Ahahahaha! Aahahaha!
 
      BEWARE!!!!!
@@ -25,28 +34,18 @@
     </item>
     <item>
       <title>9/30/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23422</link>
-      <pubDate>Thu, 30 Sep 2021 02:27:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23422</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23431</link>
+      <pubDate>Thu, 30 Sep 2021 02:26:57 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23431</guid>
       <description><![CDATA["Have a bit more patience with newbies. Of course some of them act dumb --
 they're often *students*, for heaven's sake."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>9/29/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23421</link>
-      <pubDate>Wed, 29 Sep 2021 02:27:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23421</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23430</link>
+      <pubDate>Wed, 29 Sep 2021 02:26:57 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23430</guid>
       <description><![CDATA[""I thought jet planes were just trucks with more wings and less wheels.""<br><br> - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>9/28/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23420</link>
-      <pubDate>Tue, 28 Sep 2021 02:27:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23420</guid>
-      <description><![CDATA["SATELLITES: They are in SPACE and stay there by going so fast that they are
-never in one place enough to fall down. TELEVISIONS are bounced off them.
-They are part of SCIENCE."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
-           by Angalo de Haberdasheri - Terry Pratchett, Wings]]></description>
     </item>
   </channel>
 </rss>
