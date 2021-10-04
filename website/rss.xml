@@ -5,26 +5,33 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/4/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23444</link>
+      <pubDate>Mon, 04 Oct 2021 02:29:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23444</guid>
+      <description><![CDATA["Go on, prove me wrong. Destroy the fabric of the universe. See if I care."<br><br>Terry defending his solution to the Monty Hall problem. - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>10/3/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23434</link>
-      <pubDate>Sun, 03 Oct 2021 02:26:57 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23434</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23443</link>
+      <pubDate>Sun, 03 Oct 2021 02:29:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23443</guid>
       <description><![CDATA["Rincewind had been told that death was just like going into another room.
 The difference is, when you shout, "Where's my clean socks?", no-one
 answers."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
     <item>
       <title>10/2/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23433</link>
-      <pubDate>Sat, 02 Oct 2021 02:26:57 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23433</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23442</link>
+      <pubDate>Sat, 02 Oct 2021 02:29:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23442</guid>
       <description><![CDATA[""I can explain it in Dog, but you only listen in Human.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
     <item>
       <title>10/1/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23432</link>
-      <pubDate>Fri, 01 Oct 2021 02:26:57 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23432</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23441</link>
+      <pubDate>Fri, 01 Oct 2021 02:29:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23441</guid>
       <description><![CDATA["Ahahahahaha! Ahahahaha! Aahahaha!
 
      BEWARE!!!!!
@@ -34,18 +41,11 @@ answers."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
     <item>
       <title>9/30/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23431</link>
-      <pubDate>Thu, 30 Sep 2021 02:26:57 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23431</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23440</link>
+      <pubDate>Thu, 30 Sep 2021 02:29:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23440</guid>
       <description><![CDATA["Have a bit more patience with newbies. Of course some of them act dumb --
 they're often *students*, for heaven's sake."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>9/29/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23430</link>
-      <pubDate>Wed, 29 Sep 2021 02:26:57 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23430</guid>
-      <description><![CDATA[""I thought jet planes were just trucks with more wings and less wheels.""<br><br> - Terry Pratchett, Wings]]></description>
     </item>
   </channel>
 </rss>
