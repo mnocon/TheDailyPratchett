@@ -5,28 +5,35 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/12/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23524</link>
+      <pubDate>Tue, 12 Oct 2021 02:28:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23524</guid>
+      <description><![CDATA["If Not You, Who Else?"<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
+    </item>
+    <item>
       <title>10/11/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23514</link>
-      <pubDate>Mon, 11 Oct 2021 02:29:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23514</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23523</link>
+      <pubDate>Mon, 11 Oct 2021 02:28:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23523</guid>
       <description><![CDATA["You know what I'd really, really like? What I'd pay MONEY for? A ZX81 with
 a disc drive. I *understood* the ZX81. It was so easy to interface stuff to
 it."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>10/10/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23513</link>
-      <pubDate>Sun, 10 Oct 2021 02:29:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23513</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23522</link>
+      <pubDate>Sun, 10 Oct 2021 02:28:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23522</guid>
       <description><![CDATA["As castles went, this one looked as though it could be taken by a small
 squad of not very efficient soldiers. For defence, putting a blanket over
 your head might be marginally safer."<br><br> - Terry Pratchett, The Fifth Elephant]]></description>
     </item>
     <item>
       <title>10/9/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23512</link>
-      <pubDate>Sat, 09 Oct 2021 02:29:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23512</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23521</link>
+      <pubDate>Sat, 09 Oct 2021 02:28:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23521</guid>
       <description><![CDATA["Sham Harga had run a succesful eatery for many years by always smiling,
 never extending credit, and realizing that most of his customers wanted
 meals properly balanced between the four food groups: sugar, starch, grease
@@ -34,19 +41,11 @@ and burnt crunchy bits."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
     <item>
       <title>10/8/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23511</link>
-      <pubDate>Fri, 08 Oct 2021 02:29:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23511</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23520</link>
+      <pubDate>Fri, 08 Oct 2021 02:28:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23520</guid>
       <description><![CDATA["The Alchemist's Guild is opposite the Gambler's Guild. Usually. Sometimes
 it's above it, or below it, or falling in bits around it."<br><br> - Terry Pratchett, Men at Arms]]></description>
-    </item>
-    <item>
-      <title>10/7/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23510</link>
-      <pubDate>Thu, 07 Oct 2021 02:29:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23510</guid>
-      <description><![CDATA[""There is nothing that can be in our way, for this is Jekub, that Laughs at
-Barriers, and says brrm-brrm.""<br><br>From the Book Of Nome, Jekub, Chap. 3, v. V - Terry Pratchett, Diggers]]></description>
     </item>
   </channel>
 </rss>
