@@ -5,17 +5,28 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11/19/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23904</link>
+      <pubDate>Fri, 19 Nov 2021 02:29:31 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23904</guid>
+      <description><![CDATA["Consider the situation. There you are, forehead like a set of balconies,
+worrying about the long-term effects of all this new 'fire' stuff on the
+environment, you're being chased and eaten by most of the planet's large
+animals, and suddenly tiny versions of one of the worst of them wanders
+into the cave and starts to purr."<br><br>Why humans like cats - Terry Pratchett, The Unadulterated Cat]]></description>
+    </item>
+    <item>
       <title>11/18/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23894</link>
-      <pubDate>Thu, 18 Nov 2021 02:28:27 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23894</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23903</link>
+      <pubDate>Thu, 18 Nov 2021 02:29:31 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23903</guid>
       <description><![CDATA[""You see a wile, you thwart. Am I right?""<br><br>Crowley the demon and Aziraphale the angel in conversation - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>11/17/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23893</link>
-      <pubDate>Wed, 17 Nov 2021 02:28:27 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23893</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23902</link>
+      <pubDate>Wed, 17 Nov 2021 02:29:31 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23902</guid>
       <description><![CDATA["Sam Vimes could parallel process. Most husbands can. They learn to follow
 their own line of thought while at the same time listening to what their
 wives say. And the listening is important, because at any time they could
@@ -26,27 +37,19 @@ dinner?" or "they can do it in blue, really quite cheaply.""<br><br> - Terry Pra
     </item>
     <item>
       <title>11/16/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23892</link>
-      <pubDate>Tue, 16 Nov 2021 02:28:27 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23892</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23901</link>
+      <pubDate>Tue, 16 Nov 2021 02:29:31 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23901</guid>
       <description><![CDATA[""If you put butter and salt on it, it tastes like salty butter.""<br><br>Popcorn comes to the Discworld - Terry Pratchett, Moving Pictures]]></description>
     </item>
     <item>
       <title>11/15/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23891</link>
-      <pubDate>Mon, 15 Nov 2021 02:28:27 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23891</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=23900</link>
+      <pubDate>Mon, 15 Nov 2021 02:29:31 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23900</guid>
       <description><![CDATA["The class was learning about some revolt in which some peasants had wanted
 to stop being peasants and, since the nobles had won, had stopped being
 peasants *really quickly*."<br><br> - Terry Pratchett, Soul Music]]></description>
-    </item>
-    <item>
-      <title>11/14/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=23890</link>
-      <pubDate>Sun, 14 Nov 2021 02:28:27 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=23890</guid>
-      <description><![CDATA[""Give a man a fire and he's warm for a day, but set fire to him and he's
-warm for the rest of his life.""<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
