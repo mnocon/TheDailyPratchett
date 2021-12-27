@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/27/21</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24284</link>
+      <pubDate>Mon, 27 Dec 2021 02:34:15 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24284</guid>
+      <description><![CDATA["In the Beginning there was nothing, which exploded."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
+    </item>
+    <item>
       <title>12/26/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24274</link>
-      <pubDate>Sun, 26 Dec 2021 02:36:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24274</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24283</link>
+      <pubDate>Sun, 26 Dec 2021 02:34:15 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24283</guid>
       <description><![CDATA["On the fifth day the Governor of the town called all the tribal chieftains
 to an audience in the market square, to hear their grievances. He didn't
 always do anything about them, but at least they got *heard*, and he nodded
@@ -17,34 +24,26 @@ is politics."<br><br>Carpet politics are very similar to Discworld politics - Te
     </item>
     <item>
       <title>12/25/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24273</link>
-      <pubDate>Sat, 25 Dec 2021 02:36:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24273</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24282</link>
+      <pubDate>Sat, 25 Dec 2021 02:34:15 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24282</guid>
       <description><![CDATA["It wasn't blood in general he couldn't stand the sight of, it was just his
 blood in particular that was so upsetting."<br><br> - Terry Pratchett, Sourcery]]></description>
     </item>
     <item>
       <title>12/24/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24272</link>
-      <pubDate>Fri, 24 Dec 2021 02:36:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24272</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24281</link>
+      <pubDate>Fri, 24 Dec 2021 02:34:15 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24281</guid>
       <description><![CDATA[""I can bite your leg if you like.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
     <item>
       <title>12/23/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24271</link>
-      <pubDate>Thu, 23 Dec 2021 02:36:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24271</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24280</link>
+      <pubDate>Thu, 23 Dec 2021 02:34:15 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24280</guid>
       <description><![CDATA[""I don't see why it matters what is written. Not when it's about people.
 It can always be crossed out.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>12/22/21</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24270</link>
-      <pubDate>Wed, 22 Dec 2021 02:36:40 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24270</guid>
-      <description><![CDATA[""All holy piety in public, and all peeled grapes and self-indulgence
-in private.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
