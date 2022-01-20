@@ -5,10 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1/20/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24524</link>
+      <pubDate>Thu, 20 Jan 2022 02:35:55 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24524</guid>
+      <description><![CDATA["There was not a lot that could be done to make Morpork a worse place. A
+direct hit by a meteorite, for example, would count as gentrification."<br><br> - Terry Pratchett, Pyramids]]></description>
+    </item>
+    <item>
       <title>1/19/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24514</link>
-      <pubDate>Wed, 19 Jan 2022 02:27:07 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24514</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24523</link>
+      <pubDate>Wed, 19 Jan 2022 02:35:55 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24523</guid>
       <description><![CDATA["Nature abhors dimensional abnormalities, and seals them neatly away so that
 they don't upset people. Nature, in fact, abhors a lot of things, including
 vacuums, ships called the "Marie Celeste", and the chuck keys for electric
@@ -16,33 +24,26 @@ drills."<br><br> - Terry Pratchett, Pyramids]]></description>
     </item>
     <item>
       <title>1/18/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24513</link>
-      <pubDate>Tue, 18 Jan 2022 02:27:07 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24513</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24522</link>
+      <pubDate>Tue, 18 Jan 2022 02:35:55 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24522</guid>
       <description><![CDATA["'They can ta'k our live but they can never ta'k our freedom!'
 
 Now *there's* a battle cry not designed by a clear thinker..."<br><br>Braveheart - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>1/17/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24512</link>
-      <pubDate>Mon, 17 Jan 2022 02:27:07 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24512</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24521</link>
+      <pubDate>Mon, 17 Jan 2022 02:35:55 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24521</guid>
       <description><![CDATA["There were no flies on C.M.O.T Dibbler. He would have charged them rent."<br><br> - Terry Pratchett, The Truth]]></description>
     </item>
     <item>
       <title>1/16/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24511</link>
-      <pubDate>Sun, 16 Jan 2022 02:27:07 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24511</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24520</link>
+      <pubDate>Sun, 16 Jan 2022 02:35:55 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24520</guid>
       <description><![CDATA[""Go ahead, bake my quiche""<br><br>Magrat instructs the castle cook - Terry Pratchett, Lords and Ladies]]></description>
-    </item>
-    <item>
-      <title>1/15/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24510</link>
-      <pubDate>Sat, 15 Jan 2022 02:27:07 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24510</guid>
-      <description><![CDATA["From the back, Vetinari looked like a carnivorous flamingo."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
   </channel>
 </rss>
