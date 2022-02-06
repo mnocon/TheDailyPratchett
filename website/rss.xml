@@ -5,10 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2/6/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24694</link>
+      <pubDate>Sun, 06 Feb 2022 02:35:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24694</guid>
+      <description><![CDATA["Oh, come *on*. Revelation was a mushroom dream that belonged in the
+Apocrypha. The New Testament is basically about what happened when God got
+religion."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>2/5/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24684</link>
-      <pubDate>Sat, 05 Feb 2022 02:14:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24684</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24693</link>
+      <pubDate>Sat, 05 Feb 2022 02:35:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24693</guid>
       <description><![CDATA[""All the other prophets came back with commandments!"
 "Where they get them?"
 "I ... suppose they made them up."
@@ -16,16 +25,16 @@
     </item>
     <item>
       <title>2/4/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24683</link>
-      <pubDate>Fri, 04 Feb 2022 02:14:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24683</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24692</link>
+      <pubDate>Fri, 04 Feb 2022 02:35:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24692</guid>
       <description><![CDATA["Gravity is a habit that is hard to shake off."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>2/3/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24682</link>
-      <pubDate>Thu, 03 Feb 2022 02:14:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24682</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24691</link>
+      <pubDate>Thu, 03 Feb 2022 02:35:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24691</guid>
       <description><![CDATA["There had been some desultory talk about putting up a statue to Rincewind
 but, by the curious alchemy that tends to apply in these sensitive issues,
 this quickly became a plaque, then a note on the Roll of Honour, and
@@ -33,23 +42,12 @@ finally a motion of censure for being improperly dressed."<br><br>Unseen Univers
     </item>
     <item>
       <title>2/2/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24681</link>
-      <pubDate>Wed, 02 Feb 2022 02:14:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24681</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=24690</link>
+      <pubDate>Wed, 02 Feb 2022 02:35:46 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24690</guid>
       <description><![CDATA[""He's muffed it," said Simony. "he could have done *anything* with
 them. And he just told them the facts. You can't inspire people with
 facts. They need a cause. They need a symbol.""<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>2/1/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=24680</link>
-      <pubDate>Tue, 01 Feb 2022 02:14:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=24680</guid>
-      <description><![CDATA["Most people in Lancre, as the saying goes, went to bed with the chickens
-and got up with the cows. [footnote: Er. That is to say, they went to bed
-at the same time as the chickens went to bed, and got up at the same time
-as the cows got up. Loosely worded sayings can really cause
-misunderstandings.]"<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
   </channel>
 </rss>
