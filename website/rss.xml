@@ -5,10 +5,23 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>5/13/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25654</link>
+      <pubDate>Fri, 13 May 2022 03:48:47 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25654</guid>
+      <description><![CDATA["Bad spelling can be lethal. For example, the greedy Seriph of Al-Yabi was
+cursed by a badly-educated deity and for some days everything he touched
+turned to Glod, which happened to be the name of a small dwarf from a
+mountain community hundreds of miles away who found himself magically
+dragged to the kingdom and relentlessly duplicated. Some two thousand Glods
+later the spell wore off. These days, the people of Al-Yabi are renowned
+for being remarkably short and bad-tempered."<br><br> - Terry Pratchett, Witches Abroad]]></description>
+    </item>
+    <item>
       <title>5/12/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25644</link>
-      <pubDate>Thu, 12 May 2022 03:13:16 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25644</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25653</link>
+      <pubDate>Thu, 12 May 2022 03:48:47 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25653</guid>
       <description><![CDATA["It was hard enough to kill a vampire. You could stake them down and turn
 them into dust and ten years later someone drops a drop of blood in the
 wrong place and *guess who's back*? They returned more times than raw
@@ -16,9 +29,9 @@ broccoli."<br><br> - Terry Pratchett, Feet of Clay]]></description>
     </item>
     <item>
       <title>5/11/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25643</link>
-      <pubDate>Wed, 11 May 2022 03:13:16 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25643</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25652</link>
+      <pubDate>Wed, 11 May 2022 03:48:47 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25652</guid>
       <description><![CDATA[""My house is your house", his brow suddenly furrowed and he looked worried,
 "although only in a metaphorical sense, you understand, because I would
 not, much as I always admired your straightforward approach, and indeed
@@ -29,9 +42,9 @@ Owlglass was clearly having some trouble getting to the end of the sentence."<br
     </item>
     <item>
       <title>5/10/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25642</link>
-      <pubDate>Tue, 10 May 2022 03:13:16 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25642</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25651</link>
+      <pubDate>Tue, 10 May 2022 03:48:47 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25651</guid>
       <description><![CDATA["Currently there's five machines permanently networked here. They *all*
 contain the serious core stuff. A couple of the machines are pensioned off
 486s, with little other value now. Plus there's two Jaz drives in the
@@ -41,20 +54,10 @@ buries them in the garden... I think I'm okay."<br><br> - Terry Pratchett, alt.f
     </item>
     <item>
       <title>5/9/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25641</link>
-      <pubDate>Mon, 09 May 2022 03:13:16 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25641</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25650</link>
+      <pubDate>Mon, 09 May 2022 03:48:47 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25650</guid>
       <description><![CDATA[""Millennium hand and shrimp.""<br><br> - Terry Pratchett, Hogfather]]></description>
-    </item>
-    <item>
-      <title>5/8/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25640</link>
-      <pubDate>Sun, 08 May 2022 03:13:16 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25640</guid>
-      <description><![CDATA["In fact, no gods anywhere play chess. They prefer simple, vicious games,
-where you Do Not Achieve Transcendence but Go Straight to Oblivion; a key
-to the understanding of all religion is that a god's idea of amusement is
-Snakes and Ladders with greased rungs."<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
   </channel>
 </rss>
