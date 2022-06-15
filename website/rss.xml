@@ -5,10 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/15/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25984</link>
+      <pubDate>Wed, 15 Jun 2022 03:38:52 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25984</guid>
+      <description><![CDATA["When you can flatten entire cities at a whim, a tendency towards
+quiet reflection and seeing-things-from-the-other-fellow's-point-
+of-view is seldom necessary."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>6/14/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25974</link>
-      <pubDate>Tue, 14 Jun 2022 03:50:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25974</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25983</link>
+      <pubDate>Tue, 14 Jun 2022 03:38:52 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25983</guid>
       <description><![CDATA["His philosophy was a mixture of three famous schools -- the Cynics, the
 Stoics and the Epicureans -- and summed up all three of them in his famous
 phrase, "You can't trust any bugger further than you can throw him, and
@@ -16,9 +25,9 @@ there's nothing you can do about it, so let's have a drink.""<br><br>We meet Dyd
     </item>
     <item>
       <title>6/13/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25973</link>
-      <pubDate>Mon, 13 Jun 2022 03:50:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25973</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25982</link>
+      <pubDate>Mon, 13 Jun 2022 03:38:52 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25982</guid>
       <description><![CDATA["He was aware that a wise man should always respect the folkways of others,
 to use Carrot's happy phrase, but Vimes often had difficulty with this
 idea. For one thing, there were people in the world whose folkways
@@ -27,26 +36,18 @@ that commanded, in Vimes, any kind of respect at all."<br><br> - Terry Pratchett
     </item>
     <item>
       <title>6/12/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25972</link>
-      <pubDate>Sun, 12 Jun 2022 03:50:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25972</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25981</link>
+      <pubDate>Sun, 12 Jun 2022 03:38:52 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25981</guid>
       <description><![CDATA["Bishops move diagonally. That's why they often turn up where the kings don't
 expect them to be."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>6/11/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25971</link>
-      <pubDate>Sat, 11 Jun 2022 03:50:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25971</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=25980</link>
+      <pubDate>Sat, 11 Jun 2022 03:38:52 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25980</guid>
       <description><![CDATA[""Nac mac Feegle wha hae!""<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
-    </item>
-    <item>
-      <title>6/10/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=25970</link>
-      <pubDate>Fri, 10 Jun 2022 03:50:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=25970</guid>
-      <description><![CDATA["He was said to have the body of a twenty-five year old, although no one
-knew where he kept it."<br><br>The Life and Times of Corporal Nobbs - Terry Pratchett, Men at Arms]]></description>
     </item>
   </channel>
 </rss>
