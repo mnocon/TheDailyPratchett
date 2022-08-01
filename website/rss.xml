@@ -5,10 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>8/1/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=26454</link>
+      <pubDate>Mon, 01 Aug 2022 04:04:29 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26454</guid>
+      <description><![CDATA["Cats don't hunt seals. They would if they knew what they were and where to
+find them. But they don't, so that's all right."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
+    </item>
+    <item>
       <title>7/31/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=26444</link>
-      <pubDate>Sun, 31 Jul 2022 03:42:51 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26444</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=26453</link>
+      <pubDate>Sun, 31 Jul 2022 04:04:29 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26453</guid>
       <description><![CDATA["The net software here did its meltdown trick again at the weekend (it
 happens about once every six months -- if only everything was as reliable
 as WordPerfect 4.2, which only chews up a novel about once every two or
@@ -16,9 +24,9 @@ three years...)"<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>7/30/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=26443</link>
-      <pubDate>Sat, 30 Jul 2022 03:42:51 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26443</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=26452</link>
+      <pubDate>Sat, 30 Jul 2022 04:04:29 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26452</guid>
       <description><![CDATA["Nomes live ten times faster than humans. They're harder to see than a high-
 speed mouse. That's one reason why most humans hardly ever see them. The
 other is that humans are very good at not seeing things they know aren't
@@ -28,28 +36,21 @@ be seen."<br><br> - Terry Pratchett, Wings]]></description>
     </item>
     <item>
       <title>7/29/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=26442</link>
-      <pubDate>Fri, 29 Jul 2022 03:42:51 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26442</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=26451</link>
+      <pubDate>Fri, 29 Jul 2022 04:04:29 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26451</guid>
       <description><![CDATA["The figures looked more or less human. And they were engaged in
 religion. You could tell by the knives (it's not murder if you do it
 for a god)."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>7/28/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=26441</link>
-      <pubDate>Thu, 28 Jul 2022 03:42:51 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26441</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=26450</link>
+      <pubDate>Thu, 28 Jul 2022 04:04:29 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26450</guid>
       <description><![CDATA["DW is based on a slew of old myths, which reach their most 'refined' form
 in Hindu mythology, which in turn of course derived from the original Star
 Trek episode 'Planet of Wobbly Rocks where the Security Guard Got Shot'."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>7/27/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=26440</link>
-      <pubDate>Wed, 27 Jul 2022 03:42:51 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=26440</guid>
-      <description><![CDATA["A lie can run round the world before the truth has got its boots on."<br><br> - Terry Pratchett, The Truth]]></description>
     </item>
   </channel>
 </rss>
