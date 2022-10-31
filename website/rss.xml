@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/31/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27364</link>
+      <pubDate>Mon, 31 Oct 2022 03:46:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27364</guid>
+      <description><![CDATA["He'd been particularly pleased with Manchester."<br><br>Crowley contemplating his achievements - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>10/30/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27354</link>
-      <pubDate>Sun, 30 Oct 2022 03:51:56 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27354</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27363</link>
+      <pubDate>Sun, 30 Oct 2022 03:46:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27363</guid>
       <description><![CDATA["- "ALL YOU CAN HOPE FOR IS THE MERCY OF HELL."
 - "Yeah?"
 - "JUST OUR LITTLE JOKE."
@@ -16,9 +23,9 @@
     </item>
     <item>
       <title>10/29/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27353</link>
-      <pubDate>Sat, 29 Oct 2022 03:51:56 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27353</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27362</link>
+      <pubDate>Sat, 29 Oct 2022 03:46:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27362</guid>
       <description><![CDATA["And then you bit onto them, and learned once again that Cut-me-own-Throat
 Dibbler could find a use for bits of an animal that the animal didn't know
 it had got. Dibbler had worked out that with enough fried onions and
@@ -26,26 +33,18 @@ mustard people would eat *anything*."<br><br>A fact McDonalds knows about as wel
     </item>
     <item>
       <title>10/28/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27352</link>
-      <pubDate>Fri, 28 Oct 2022 03:51:56 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27352</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27361</link>
+      <pubDate>Fri, 28 Oct 2022 03:46:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27361</guid>
       <description><![CDATA[""All bastards are bastards, but some bastards is *bastards*.""<br><br> - Terry Pratchett, The Last Continent]]></description>
     </item>
     <item>
       <title>10/27/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27351</link>
-      <pubDate>Thu, 27 Oct 2022 03:51:56 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27351</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27360</link>
+      <pubDate>Thu, 27 Oct 2022 03:46:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27360</guid>
       <description><![CDATA["The Ephebians made wine out of anything they could put in a bucket, and ate
 anything that couldn't climb out of one."<br><br> - Terry Pratchett, Pyramids]]></description>
-    </item>
-    <item>
-      <title>10/26/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27350</link>
-      <pubDate>Wed, 26 Oct 2022 03:51:56 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27350</guid>
-      <description><![CDATA[""Actors," said Granny, witheringly. "As if the world weren't full
-of enough history without inventing more.""<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
   </channel>
 </rss>
