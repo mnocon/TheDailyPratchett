@@ -5,24 +5,33 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/21/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27874</link>
+      <pubDate>Wed, 21 Dec 2022 02:33:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27874</guid>
+      <description><![CDATA["He was always at a loss when people acted like this. When machines went
+funny you just oiled them or prodded them or, if nothing else worked, hit
+them with a hammer. Nomes didn't respond well to this treatment."<br><br> - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>12/20/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27864</link>
-      <pubDate>Tue, 20 Dec 2022 02:36:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27864</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27873</link>
+      <pubDate>Tue, 20 Dec 2022 02:33:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27873</guid>
       <description><![CDATA["It's a small step for a man, but a giant leap for nomekind."<br><br> - Terry Pratchett, Truckers]]></description>
     </item>
     <item>
       <title>12/19/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27863</link>
-      <pubDate>Mon, 19 Dec 2022 02:36:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27863</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27872</link>
+      <pubDate>Mon, 19 Dec 2022 02:33:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27872</guid>
       <description><![CDATA[""Kneel and deliver!""<br><br>Casanunda, the worlds smallest lover turns highwaydwarf - Terry Pratchett, Lords and Ladies]]></description>
     </item>
     <item>
       <title>12/18/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27862</link>
-      <pubDate>Sun, 18 Dec 2022 02:36:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27862</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27871</link>
+      <pubDate>Sun, 18 Dec 2022 02:33:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27871</guid>
       <description><![CDATA["He was trying to find some help in the ancient military journals of General
 Tacticus, whose intelligent campaigning had been so successful that he'd
 lent his very name to the detailed prosecution of martial endeavour, and
@@ -33,19 +42,12 @@ heart."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
     <item>
       <title>12/17/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27861</link>
-      <pubDate>Sat, 17 Dec 2022 02:36:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27861</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27870</link>
+      <pubDate>Sat, 17 Dec 2022 02:33:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27870</guid>
       <description><![CDATA["Nanny Ogg found herself embarrassed to even think about this, and this was
 unusual because embarrassment normally came as naturally to Nanny as
 altruism comes to a cat."<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>12/16/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27860</link>
-      <pubDate>Fri, 16 Dec 2022 02:36:04 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27860</guid>
-      <description><![CDATA["Too many people want to *have written*."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
   </channel>
 </rss>
