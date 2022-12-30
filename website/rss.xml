@@ -5,18 +5,25 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/30/22</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27964</link>
+      <pubDate>Fri, 30 Dec 2022 02:36:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27964</guid>
+      <description><![CDATA[""The Truth Shall Make Ye Fret""<br><br> - Terry Pratchett, The Truth]]></description>
+    </item>
+    <item>
       <title>12/29/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27954</link>
-      <pubDate>Thu, 29 Dec 2022 02:35:38 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27954</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27963</link>
+      <pubDate>Thu, 29 Dec 2022 02:36:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27963</guid>
       <description><![CDATA["They both savoured the strange warm glow of being much more ignorant than
 ordinary people, who were only ignorant of ordinary things."<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
     </item>
     <item>
       <title>12/28/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27953</link>
-      <pubDate>Wed, 28 Dec 2022 02:35:38 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27953</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27962</link>
+      <pubDate>Wed, 28 Dec 2022 02:36:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27962</guid>
       <description><![CDATA[""While I'm still confused and uncertain, it's on a much higher plane, d'you
 see, and at least I know I'm bewildered about the really fundamental and
 important facts of the universe."
@@ -25,26 +32,17 @@ absolutely right. He's really pushed back the boundaries of ignorance.""<br><br>
     </item>
     <item>
       <title>12/27/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27952</link>
-      <pubDate>Tue, 27 Dec 2022 02:35:38 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27952</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27961</link>
+      <pubDate>Tue, 27 Dec 2022 02:36:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27961</guid>
       <description><![CDATA[""Not a man to mince words. People, yes. But not words.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>12/26/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27951</link>
-      <pubDate>Mon, 26 Dec 2022 02:35:38 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27951</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27960</link>
+      <pubDate>Mon, 26 Dec 2022 02:36:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27960</guid>
       <description><![CDATA[""*Veni, vici*...Vetinari.""<br><br> - Terry Pratchett, Jingo]]></description>
-    </item>
-    <item>
-      <title>12/25/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27950</link>
-      <pubDate>Sun, 25 Dec 2022 02:35:38 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27950</guid>
-      <description><![CDATA["Perdita thought that not obeying rules was somehow *cool*. Agnes thought
-that rules like "Don't fall into this huge pit of spikes" were there for a
-purpose."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
   </channel>
 </rss>
