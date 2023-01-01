@@ -5,10 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1/1/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27984</link>
+      <pubDate>Sun, 01 Jan 2023 02:49:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27984</guid>
+      <description><![CDATA["For animals, the entire universe has been neatly divided into things to
+(a) mate with, (b) eat, (c) run away from, and (d) rocks."<br><br> - Terry Pratchett, Equal Rites]]></description>
+    </item>
+    <item>
       <title>12/31/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27974</link>
-      <pubDate>Sat, 31 Dec 2022 02:32:19 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27974</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27983</link>
+      <pubDate>Sat, 31 Dec 2022 02:49:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27983</guid>
       <description><![CDATA["AFPer: We've missed you, did you miss us?
 
 TP: Yes, but I think I have time to reload.
@@ -17,36 +25,29 @@ TP: Yes, but I think I have time to reload.
     </item>
     <item>
       <title>12/30/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27973</link>
-      <pubDate>Fri, 30 Dec 2022 02:32:19 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27973</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27982</link>
+      <pubDate>Fri, 30 Dec 2022 02:49:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27982</guid>
       <description><![CDATA[""The Truth Shall Make Ye Fret""<br><br> - Terry Pratchett, The Truth]]></description>
     </item>
     <item>
       <title>12/29/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27972</link>
-      <pubDate>Thu, 29 Dec 2022 02:32:19 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27972</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27981</link>
+      <pubDate>Thu, 29 Dec 2022 02:49:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27981</guid>
       <description><![CDATA["They both savoured the strange warm glow of being much more ignorant than
 ordinary people, who were only ignorant of ordinary things."<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
     </item>
     <item>
       <title>12/28/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27971</link>
-      <pubDate>Wed, 28 Dec 2022 02:32:19 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27971</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=27980</link>
+      <pubDate>Wed, 28 Dec 2022 02:49:44 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27980</guid>
       <description><![CDATA[""While I'm still confused and uncertain, it's on a much higher plane, d'you
 see, and at least I know I'm bewildered about the really fundamental and
 important facts of the universe."
 Treatle nodded. "I hadn't looked at it like that," he said, "But you're
 absolutely right. He's really pushed back the boundaries of ignorance.""<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
-    </item>
-    <item>
-      <title>12/27/22</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=27970</link>
-      <pubDate>Tue, 27 Dec 2022 02:32:19 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=27970</guid>
-      <description><![CDATA[""Not a man to mince words. People, yes. But not words.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
   </channel>
 </rss>
