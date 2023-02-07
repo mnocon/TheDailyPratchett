@@ -5,17 +5,24 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2/7/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28354</link>
+      <pubDate>Tue, 07 Feb 2023 02:37:58 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28354</guid>
+      <description><![CDATA[""You can't second-guess ineffability, I always say.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>2/6/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28344</link>
-      <pubDate>Mon, 06 Feb 2023 02:37:54 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28344</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28353</link>
+      <pubDate>Mon, 06 Feb 2023 02:37:58 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28353</guid>
       <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>2/5/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28343</link>
-      <pubDate>Sun, 05 Feb 2023 02:37:54 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28343</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28352</link>
+      <pubDate>Sun, 05 Feb 2023 02:37:58 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28352</guid>
       <description><![CDATA[""Jesus won't cut you off before you're through
     With him you won't never get a crossed line,
     And when your bill comes it'll all be properly itemised
@@ -28,9 +35,9 @@
     </item>
     <item>
       <title>2/4/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28342</link>
-      <pubDate>Sat, 04 Feb 2023 02:37:54 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28342</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28351</link>
+      <pubDate>Sat, 04 Feb 2023 02:37:58 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28351</guid>
       <description><![CDATA["HOTELS: A place where TRAVELLING HUMANS are parked at night. Other humans
 bring them food, including the famous BACON, LETTUCE AND TOMATO SANDWICH.
 There are beds and towels and special things that rain on people to get
@@ -39,20 +46,10 @@ them clean."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
     </item>
     <item>
       <title>2/3/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28341</link>
-      <pubDate>Fri, 03 Feb 2023 02:37:54 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28341</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28350</link>
+      <pubDate>Fri, 03 Feb 2023 02:37:58 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28350</guid>
       <description><![CDATA["Crowley was in Hell's bad books. Not that Hell has any other kind."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>2/2/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28340</link>
-      <pubDate>Thu, 02 Feb 2023 02:37:54 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28340</guid>
-      <description><![CDATA["One or two of the old barrows had been exposed over the years, their huge
-stones attracting their own folklore. If you left your unshod horse at one
-of them overnight and placed sixpence on the stone, in the morning the
-sixpence would be gone and you'd never see your horse again, either..."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
   </channel>
 </rss>
