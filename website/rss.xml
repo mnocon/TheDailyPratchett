@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2/10/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28384</link>
+      <pubDate>Fri, 10 Feb 2023 02:51:10 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28384</guid>
+      <description><![CDATA["Even with nougat you can have a perfect moment."<br><br> - Terry Pratchett, Thief of Time]]></description>
+    </item>
+    <item>
       <title>2/9/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28374</link>
-      <pubDate>Thu, 09 Feb 2023 02:46:36 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28374</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28383</link>
+      <pubDate>Thu, 09 Feb 2023 02:51:10 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28383</guid>
       <description><![CDATA["Something small and distant broke through the cloud layer, trailing shreds
 of vapour. In the stratospheric calm the sounds of bickering came sharp and
 clear.
@@ -17,40 +24,25 @@ clear.
     </item>
     <item>
       <title>2/8/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28373</link>
-      <pubDate>Wed, 08 Feb 2023 02:46:36 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28373</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28382</link>
+      <pubDate>Wed, 08 Feb 2023 02:51:10 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28382</guid>
       <description><![CDATA[""You can think and you can fight, but the world's always movin', and if
 you wanna stay ahead you gotta dance.""<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
     </item>
     <item>
       <title>2/7/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28372</link>
-      <pubDate>Tue, 07 Feb 2023 02:46:36 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28372</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28381</link>
+      <pubDate>Tue, 07 Feb 2023 02:51:10 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28381</guid>
       <description><![CDATA[""You can't second-guess ineffability, I always say.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>2/6/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28371</link>
-      <pubDate>Mon, 06 Feb 2023 02:46:36 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28371</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28380</link>
+      <pubDate>Mon, 06 Feb 2023 02:51:10 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28380</guid>
       <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>2/5/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28370</link>
-      <pubDate>Sun, 05 Feb 2023 02:46:36 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28370</guid>
-      <description><![CDATA[""Jesus won't cut you off before you're through
-    With him you won't never get a crossed line,
-    And when your bill comes it'll all be properly itemised
-    He's the telephone repairman on the switchboard of my life.
-    
-    The phone line to the saviour's always free of interference
-    He's in at any hour, day or night
-    And when you call J-E-S-U-S you always call toll-free
-    He's the telephone repairman on the switchboard of my life.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
