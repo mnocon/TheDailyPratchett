@@ -5,19 +5,26 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>4/7/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28944</link>
+      <pubDate>Fri, 07 Apr 2023 02:27:16 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28944</guid>
+      <description><![CDATA[""Woof?""<br><br> - Terry Pratchett, Moving Pictures]]></description>
+    </item>
+    <item>
       <title>4/6/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28934</link>
-      <pubDate>Thu, 06 Apr 2023 02:28:14 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28934</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28943</link>
+      <pubDate>Thu, 06 Apr 2023 02:27:16 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28943</guid>
       <description><![CDATA["A number of religions in Ankh-Morpork still practiced human sacrifice,
 except that they didn't really need to practice any more because they had
 got so good at it."<br><br> - Terry Pratchett, Guards! Guards!]]></description>
     </item>
     <item>
       <title>4/5/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28933</link>
-      <pubDate>Wed, 05 Apr 2023 02:28:14 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28933</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28942</link>
+      <pubDate>Wed, 05 Apr 2023 02:27:16 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28942</guid>
       <description><![CDATA[""Slave is an Ephebian word. In Om we have no word for slave," said
 Vorbis.
 "So I understand," said the Tyrant. "I imagine that fish have no
@@ -25,26 +32,18 @@ word for water.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>4/4/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28932</link>
-      <pubDate>Tue, 04 Apr 2023 02:28:14 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28932</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28941</link>
+      <pubDate>Tue, 04 Apr 2023 02:27:16 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28941</guid>
       <description><![CDATA[""It's a god-eat-god world.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>4/3/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28931</link>
-      <pubDate>Mon, 03 Apr 2023 02:28:14 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28931</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=28940</link>
+      <pubDate>Mon, 03 Apr 2023 02:27:16 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28940</guid>
       <description><![CDATA["Greebo could, in fact, commit sexual harrassment simply by sitting very
 quietly in the next room."<br><br> - Terry Pratchett, Maskerade]]></description>
-    </item>
-    <item>
-      <title>4/2/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=28930</link>
-      <pubDate>Sun, 02 Apr 2023 02:28:14 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=28930</guid>
-      <description><![CDATA["There was a new library in the Civic Centre. It was so new it didn't even
-have librarians. It had Assistant Information Officers."<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
     </item>
   </channel>
 </rss>
