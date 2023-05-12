@@ -5,27 +5,35 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>5/12/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29294</link>
+      <pubDate>Fri, 12 May 2023 02:28:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29294</guid>
+      <description><![CDATA["Give anyone a lever long enough and they can change the world.
+It's unreliable levers that are the problem."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>5/11/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29284</link>
-      <pubDate>Thu, 11 May 2023 02:29:23 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29284</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29293</link>
+      <pubDate>Thu, 11 May 2023 02:28:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29293</guid>
       <description><![CDATA["Probably the last man who knew how it worked had been tortured to
 death years before. Or as soon as it was installed. Killing the
 creator was a traditional method of patent protection."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>5/10/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29283</link>
-      <pubDate>Wed, 10 May 2023 02:29:23 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29283</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29292</link>
+      <pubDate>Wed, 10 May 2023 02:28:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29292</guid>
       <description><![CDATA["Many an ancient lord's last words had been, "You can't kill me because I've
 got magic aaargh.""<br><br>Magic armour is not all it's cracked up to be. - Terry Pratchett, Interesting Times]]></description>
     </item>
     <item>
       <title>5/9/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29282</link>
-      <pubDate>Tue, 09 May 2023 02:29:23 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29282</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29291</link>
+      <pubDate>Tue, 09 May 2023 02:28:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29291</guid>
       <description><![CDATA["You can't remember the plot of the Dr Who movie because it didn't have one,
 just a lot of plot holes strung together.
 
@@ -33,19 +41,10 @@ It did have a lot of flashing lights, though."<br><br> - Terry Pratchett, alt.fa
     </item>
     <item>
       <title>5/8/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29281</link>
-      <pubDate>Mon, 08 May 2023 02:29:23 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29281</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29290</link>
+      <pubDate>Mon, 08 May 2023 02:28:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29290</guid>
       <description><![CDATA[""Growl, growl.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
-    </item>
-    <item>
-      <title>5/7/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29280</link>
-      <pubDate>Sun, 07 May 2023 02:29:23 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29280</guid>
-      <description><![CDATA["Too many people, when listing all the perils to be found in the search
-for lost treasure or ancient wisdom, had forgotten to put at the top of
-the list 'the man who arrived just before you'."<br><br> - Terry Pratchett, The Last Hero]]></description>
     </item>
   </channel>
 </rss>
