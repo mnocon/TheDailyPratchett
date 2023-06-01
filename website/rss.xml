@@ -5,44 +5,45 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/1/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29494</link>
+      <pubDate>Thu, 01 Jun 2023 03:09:35 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29494</guid>
+      <description><![CDATA[""Taxation, gentlemen, is very much like dairy farming. The task is to
+extract the maximum amount of milk with the minimum of moo. And I am afraid
+to say that these days all I get is moo.""<br><br> - Terry Pratchett, Jingo]]></description>
+    </item>
+    <item>
       <title>5/31/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29484</link>
-      <pubDate>Wed, 31 May 2023 02:51:26 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29484</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29493</link>
+      <pubDate>Wed, 31 May 2023 03:09:35 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29493</guid>
       <description><![CDATA[""Bingeley bingeley beep!""<br><br> - Terry Pratchett, Feet of Clay]]></description>
     </item>
     <item>
       <title>5/30/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29483</link>
-      <pubDate>Tue, 30 May 2023 02:51:26 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29483</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29492</link>
+      <pubDate>Tue, 30 May 2023 03:09:35 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29492</guid>
       <description><![CDATA["A Thaum is the basic unit of magical strength. It has been universally
 established as the amount of magic needed to create one small white pigeon
 or three normal sized billiard balls."<br><br> - Terry Pratchett, The Light Fantastic]]></description>
     </item>
     <item>
       <title>5/29/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29482</link>
-      <pubDate>Mon, 29 May 2023 02:51:26 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29482</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29491</link>
+      <pubDate>Mon, 29 May 2023 03:09:35 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29491</guid>
       <description><![CDATA["Up until now I'd always though RSI meant 'I hate my damn job'."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>5/28/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29481</link>
-      <pubDate>Sun, 28 May 2023 02:51:26 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29481</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29490</link>
+      <pubDate>Sun, 28 May 2023 03:09:35 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29490</guid>
       <description><![CDATA["Everyone's heard of Erwin Schrodinger's famous thought experiment. You put
 a cat in a box with a bottle of poison, which many people would suggest is
 about as far as you need to go."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
-    </item>
-    <item>
-      <title>5/27/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29480</link>
-      <pubDate>Sat, 27 May 2023 02:51:26 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29480</guid>
-      <description><![CDATA["The trouble is that things *never* get better, they just stay the same,
-only more so."<br><br> - Terry Pratchett, Eric]]></description>
     </item>
   </channel>
 </rss>
