@@ -5,10 +5,19 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/6/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29544</link>
+      <pubDate>Tue, 06 Jun 2023 02:53:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29544</guid>
+      <description><![CDATA[""Are you a physicist?"
+"Me? I don't know anything about science!"
+"Marvellous! Ideal qualification!""<br><br> - Terry Pratchett, Johnny and the Dead]]></description>
+    </item>
+    <item>
       <title>6/5/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29534</link>
-      <pubDate>Mon, 05 Jun 2023 02:49:05 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29534</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29543</link>
+      <pubDate>Mon, 05 Jun 2023 02:53:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29543</guid>
       <description><![CDATA[""There must be a hundred silver dollars in here," moaned Boggis, waving a
 purse. "I mean, that's not my league. That's not my class. I can't handle
 that sort of money. You've got to be in the Guild of Lawyers or something
@@ -16,36 +25,27 @@ to steal that much.""<br><br> - Terry Pratchett, Wyrd Sisters]]></description>
     </item>
     <item>
       <title>6/4/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29533</link>
-      <pubDate>Sun, 04 Jun 2023 02:49:05 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29533</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29542</link>
+      <pubDate>Sun, 04 Jun 2023 02:53:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29542</guid>
       <description><![CDATA["People have believed for hundreds of years that newts in a well mean that
 the water's fresh and drinkable, and *in all that time* never asked
 themselves whether the newts got out to go to the lavatory."<br><br> - Terry Pratchett, Reaper Man]]></description>
     </item>
     <item>
       <title>6/3/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29532</link>
-      <pubDate>Sat, 03 Jun 2023 02:49:05 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29532</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29541</link>
+      <pubDate>Sat, 03 Jun 2023 02:53:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29541</guid>
       <description><![CDATA[""What duck?""<br><br> - Terry Pratchett, Soul Music]]></description>
     </item>
     <item>
       <title>6/2/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29531</link>
-      <pubDate>Fri, 02 Jun 2023 02:49:05 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29531</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29540</link>
+      <pubDate>Fri, 02 Jun 2023 02:53:19 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29540</guid>
       <description><![CDATA["I didn't go to university. Didn't even finish A-levels. But I have sympathy
 for those who did."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
-    </item>
-    <item>
-      <title>6/1/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29530</link>
-      <pubDate>Thu, 01 Jun 2023 02:49:05 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29530</guid>
-      <description><![CDATA[""Taxation, gentlemen, is very much like dairy farming. The task is to
-extract the maximum amount of milk with the minimum of moo. And I am afraid
-to say that these days all I get is moo.""<br><br> - Terry Pratchett, Jingo]]></description>
     </item>
   </channel>
 </rss>
