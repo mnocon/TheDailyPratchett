@@ -5,10 +5,18 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/23/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29714</link>
+      <pubDate>Fri, 23 Jun 2023 02:57:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29714</guid>
+      <description><![CDATA[""He's a man of few words, and he doesn't know what either of them mean,"
+people said, but not when he was within hearing."<br><br> - Terry Pratchett, The Carpet People]]></description>
+    </item>
+    <item>
       <title>6/22/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29704</link>
-      <pubDate>Thu, 22 Jun 2023 02:39:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29704</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29713</link>
+      <pubDate>Thu, 22 Jun 2023 02:57:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29713</guid>
       <description><![CDATA["- "America?" said Mrs Liberty. "Won't we get scalped?"
 - "Good grief, no!" said William Stickers, who was a bit more up to date
    about the world.
@@ -17,9 +25,9 @@
     </item>
     <item>
       <title>6/21/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29703</link>
-      <pubDate>Wed, 21 Jun 2023 02:39:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29703</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29712</link>
+      <pubDate>Wed, 21 Jun 2023 02:57:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29712</guid>
       <description><![CDATA["It is a fact that although the Death of the Discworld is, in his own words,
 an ANTHROPOMORPHIC PERSONIFICATION, he long ago gave up using the
 traditional skeletal horses, because of the bother of having to stop all
@@ -27,31 +35,23 @@ the time to wire bits back on."<br><br> - Terry Pratchett, Mort]]></description>
     </item>
     <item>
       <title>6/20/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29702</link>
-      <pubDate>Tue, 20 Jun 2023 02:39:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29702</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29711</link>
+      <pubDate>Tue, 20 Jun 2023 02:57:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29711</guid>
       <description><![CDATA["The shortest unit of time in the multiverse is the New York Second, defined
 as the period of time between the traffic lights turning green and the cab
 behind you honking."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
     <item>
       <title>6/19/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29701</link>
-      <pubDate>Mon, 19 Jun 2023 02:39:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29701</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=29710</link>
+      <pubDate>Mon, 19 Jun 2023 02:57:28 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29710</guid>
       <description><![CDATA["Ridcully was to management what King Herod was to the Bethlehem Playgroup
 Association. His mental approach to it could be visualised as a sort of
 business flowchart with, at the top, a circle entitled "Me, who does the
 telling" and, connected below it by a line, a large circle entitled
 "Everyone else"."<br><br> - Terry Pratchett, The Last Continent]]></description>
-    </item>
-    <item>
-      <title>6/18/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=29700</link>
-      <pubDate>Sun, 18 Jun 2023 02:39:55 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=29700</guid>
-      <description><![CDATA["And the child had a permanently runny nose and ought to be provided with a
-handkerchief or, failing that, a cork."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
   </channel>
 </rss>
