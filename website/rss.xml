@@ -5,42 +5,43 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>8/11/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30204</link>
+      <pubDate>Fri, 11 Aug 2023 02:15:56 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30204</guid>
+      <description><![CDATA[""There is nothing that can be in our way, for this is Jekub, that Laughs at
+Barriers, and says brrm-brrm.""<br><br>From the Book Of Nome, Jekub, Chap. 3, v. V - Terry Pratchett, Diggers]]></description>
+    </item>
+    <item>
       <title>8/10/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30194</link>
-      <pubDate>Thu, 10 Aug 2023 02:32:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30194</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30203</link>
+      <pubDate>Thu, 10 Aug 2023 02:15:56 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30203</guid>
       <description><![CDATA[""Art thou a witch, *viva espana*?""<br><br>The Spanish Inquisition (Tadfield version) in action - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>8/9/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30193</link>
-      <pubDate>Wed, 09 Aug 2023 02:32:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30193</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30202</link>
+      <pubDate>Wed, 09 Aug 2023 02:15:56 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30202</guid>
       <description><![CDATA["I LIKE TO THINK I AM A PICKER-UP OF UNCONSIDERED TRIFLES. Death grinned
 hopefully."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
     <item>
       <title>8/8/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30192</link>
-      <pubDate>Tue, 08 Aug 2023 02:32:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30192</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30201</link>
+      <pubDate>Tue, 08 Aug 2023 02:15:56 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30201</guid>
       <description><![CDATA["Go on, prove me wrong. Destroy the fabric of the universe. See if I care."<br><br>Terry defending his solution to the Monty Hall problem. - Terry Pratchett, alt.fan.pratchett]]></description>
     </item>
     <item>
       <title>8/7/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30191</link>
-      <pubDate>Mon, 07 Aug 2023 02:32:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30191</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30200</link>
+      <pubDate>Mon, 07 Aug 2023 02:15:56 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30200</guid>
       <description><![CDATA["Rincewind had been told that death was just like going into another room.
 The difference is, when you shout, "Where's my clean socks?", no-one
 answers."<br><br> - Terry Pratchett, Eric]]></description>
-    </item>
-    <item>
-      <title>8/6/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30190</link>
-      <pubDate>Sun, 06 Aug 2023 02:32:41 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30190</guid>
-      <description><![CDATA[""I can explain it in Dog, but you only listen in Human.""<br><br>Gaspode the wonder dog - Terry Pratchett, Moving Pictures]]></description>
     </item>
   </channel>
 </rss>
