@@ -5,18 +5,25 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>10/1/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30714</link>
+      <pubDate>Sun, 01 Oct 2023 02:25:01 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30714</guid>
+      <description><![CDATA[""Reflected-sound-of-underground-spirits?""<br><br>Economics explained - Terry Pratchett, The Colour of Magic]]></description>
+    </item>
+    <item>
       <title>9/30/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30704</link>
-      <pubDate>Sat, 30 Sep 2023 02:17:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30704</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30713</link>
+      <pubDate>Sat, 30 Sep 2023 02:25:01 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30713</guid>
       <description><![CDATA["The Battle of Koom Valley is the only one known to history where both sides
 ambushed each other."<br><br> - Terry Pratchett, Men at Arms]]></description>
     </item>
     <item>
       <title>9/29/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30703</link>
-      <pubDate>Fri, 29 Sep 2023 02:17:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30703</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30712</link>
+      <pubDate>Fri, 29 Sep 2023 02:25:01 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30712</guid>
       <description><![CDATA[""What sort of person," said Salzella patiently, "sits down and *writes* a
 maniacal laugh? And all those exclamation marks, you notice? Five? A sure
 sign of someone who wears his underpants on his head. Opera can do that to
@@ -24,9 +31,9 @@ a man.""<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
     <item>
       <title>9/28/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30702</link>
-      <pubDate>Thu, 28 Sep 2023 02:17:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30702</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30711</link>
+      <pubDate>Thu, 28 Sep 2023 02:25:01 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30711</guid>
       <description><![CDATA[""What is this thing, anyway?" said the Dean, inspecting the implement in
 his hands.
 "It's called a shovel," said the Senior Wrangler. "I've seen the gardeners
@@ -35,21 +42,11 @@ technical.""<br><br> - Terry Pratchett, Reaper Man]]></description>
     </item>
     <item>
       <title>9/27/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30701</link>
-      <pubDate>Wed, 27 Sep 2023 02:17:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30701</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=30710</link>
+      <pubDate>Wed, 27 Sep 2023 02:25:01 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30710</guid>
       <description><![CDATA[""Oh, a very useful philosophical animal, your average tortoise. Outrunning
 metaphorical arrows, beating hares in races... very handy.""<br><br> - Terry Pratchett, Small Gods]]></description>
-    </item>
-    <item>
-      <title>9/26/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=30700</link>
-      <pubDate>Tue, 26 Sep 2023 02:17:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=30700</guid>
-      <description><![CDATA["Death and Famine and War and Pollution continued biking towards Tadfield.
-And Grievous Bodily Harm, Cruelty To Animals, Things Not Working Properly
-Even After You've Given Them A Good Thumping but secretly No Alcohol Lager,
-and Really Cool People travelled with them."<br><br>The eight Bikers of the Apocalypse - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
