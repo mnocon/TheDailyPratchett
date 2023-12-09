@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/9/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31404</link>
+      <pubDate>Sat, 09 Dec 2023 02:23:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31404</guid>
+      <description><![CDATA["Gravity is a habit that is hard to shake off."<br><br> - Terry Pratchett, Small Gods]]></description>
+    </item>
+    <item>
       <title>12/8/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31394</link>
-      <pubDate>Fri, 08 Dec 2023 02:26:53 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31394</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31403</link>
+      <pubDate>Fri, 08 Dec 2023 02:23:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31403</guid>
       <description><![CDATA["There had been some desultory talk about putting up a statue to Rincewind
 but, by the curious alchemy that tends to apply in these sensitive issues,
 this quickly became a plaque, then a note on the Roll of Honour, and
@@ -16,18 +23,18 @@ finally a motion of censure for being improperly dressed."<br><br>Unseen Univers
     </item>
     <item>
       <title>12/7/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31393</link>
-      <pubDate>Thu, 07 Dec 2023 02:26:53 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31393</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31402</link>
+      <pubDate>Thu, 07 Dec 2023 02:23:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31402</guid>
       <description><![CDATA[""He's muffed it," said Simony. "he could have done *anything* with
 them. And he just told them the facts. You can't inspire people with
 facts. They need a cause. They need a symbol.""<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>12/6/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31392</link>
-      <pubDate>Wed, 06 Dec 2023 02:26:53 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31392</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31401</link>
+      <pubDate>Wed, 06 Dec 2023 02:23:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31401</guid>
       <description><![CDATA["Most people in Lancre, as the saying goes, went to bed with the chickens
 and got up with the cows. [footnote: Er. That is to say, they went to bed
 at the same time as the chickens went to bed, and got up at the same time
@@ -36,17 +43,10 @@ misunderstandings.]"<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
     <item>
       <title>12/5/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31391</link>
-      <pubDate>Tue, 05 Dec 2023 02:26:53 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31391</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31400</link>
+      <pubDate>Tue, 05 Dec 2023 02:23:17 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31400</guid>
       <description><![CDATA["I EXPECT, he said, THAT YOU COULD MURDER A PIECE OF CHEESE?"<br><br>Death talks to the Death of Rats - Terry Pratchett, Reaper Man]]></description>
-    </item>
-    <item>
-      <title>12/4/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31390</link>
-      <pubDate>Mon, 04 Dec 2023 02:26:53 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31390</guid>
-      <description><![CDATA[""Bonsai!""<br><br> - Terry Pratchett, Reaper Man]]></description>
     </item>
   </channel>
 </rss>
