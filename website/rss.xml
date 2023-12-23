@@ -5,42 +5,46 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/23/23</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31544</link>
+      <pubDate>Sat, 23 Dec 2023 02:20:23 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31544</guid>
+      <description><![CDATA["I'd like to stand up for the rights of people who put everything on their
+burger -- chutney, mustard, pickle, mustard pickle, tomato sauce... It is
+common knowledge in my family that I can't tell the difference between a
+veggie burger and a meat one, because the ratio of burger to pickles is so
+high."<br><br> - Terry Pratchett, alt.fan.pratchett]]></description>
+    </item>
+    <item>
       <title>12/22/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31534</link>
-      <pubDate>Fri, 22 Dec 2023 02:23:50 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31534</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31543</link>
+      <pubDate>Fri, 22 Dec 2023 02:20:23 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31543</guid>
       <description><![CDATA["On Earth, No-one Can Hear You Say "Um"."<br><br> - Terry Pratchett, Only You Can Save Mankind]]></description>
     </item>
     <item>
       <title>12/21/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31533</link>
-      <pubDate>Thu, 21 Dec 2023 02:23:50 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31533</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31542</link>
+      <pubDate>Thu, 21 Dec 2023 02:20:23 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31542</guid>
       <description><![CDATA["After you'd known Christine for any length of time, you found yourself
 fighting a desire to look into her ear to see if you could spot daylight
 coming the other way."<br><br> - Terry Pratchett, Maskerade]]></description>
     </item>
     <item>
       <title>12/20/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31532</link>
-      <pubDate>Wed, 20 Dec 2023 02:23:50 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31532</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31541</link>
+      <pubDate>Wed, 20 Dec 2023 02:20:23 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31541</guid>
       <description><![CDATA["The chieftain had been turned into a pumpkin although, in accordance with
 the rules of universal humour, he still had his hat on."<br><br> - Terry Pratchett, Lords and Ladies]]></description>
     </item>
     <item>
       <title>12/19/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31531</link>
-      <pubDate>Tue, 19 Dec 2023 02:23:50 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31531</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=31540</link>
+      <pubDate>Tue, 19 Dec 2023 02:20:23 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31540</guid>
       <description><![CDATA["Thud. Thud. Thud. Splat."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>12/18/23</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=31530</link>
-      <pubDate>Mon, 18 Dec 2023 02:23:50 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=31530</guid>
-      <description><![CDATA[""Stercus, stercus, stercus, moriturus sum.""<br><br> - Terry Pratchett, Interesting Times]]></description>
     </item>
   </channel>
 </rss>
